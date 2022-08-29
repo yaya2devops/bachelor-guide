@@ -6,7 +6,7 @@
     Computer Engineering 
 </h1>
 
-<h2>  Subjects, Chapters & Resources  </h2>
+<h2>  Subjects, Chapters & Resources </h2>
 <br>
 
 [Start Exploring!](#Introduction)
