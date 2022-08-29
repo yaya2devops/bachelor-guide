@@ -1,6 +1,6 @@
 - [Home]()
 
-- [Quick Start](quickstart.md) 
+- [Idea](quickstart.md) 
 
 * [ABOUT](standalone-page.md)
 * [IN](https://www.linkedin.com/in/yahya-abulhaj/)

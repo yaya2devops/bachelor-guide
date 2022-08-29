@@ -11,13 +11,13 @@ I was and still am the type of student who learned most things online; it was al
 <div class="row">
 <div class="column">
 
-I'm aware that Tunisian 🇹🇳 education is in French, but I wanted to make sure that all of the materials here are in English to get you closer to the market, as you won't need much of French. I'll be providing materials of that language as well.
 </div>
 <div class="column">
 
 The best way to predict the futur is to create it. But what's the futur? TECHNOLOGY! 
 
 ![TECH](images/innovate.png)
+
 </div>
 </div>
 

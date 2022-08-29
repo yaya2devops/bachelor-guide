@@ -1,14 +1,14 @@
 
 
 # 💻
-# Bachelors Docs
+# Bachelors Docs<small>v2</small>
 <h1 id="cover-heading">
     Computer Engineering 
 </h1>
 
-> | Subjects, Chapters & Resources 🎉 | 
+<h2>  Subjects, Chapters & Resources  </h2>
+<br>
 
-[Explore](home)
+[Start Exploring!](#Introduction)
 
-
-[Hmmmmmmm Started](#Introduction)
+![color](#fffffff)
