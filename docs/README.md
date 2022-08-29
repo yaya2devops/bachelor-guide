@@ -15,6 +15,6 @@ After two semesters of success, the student should be able to choose between two
 - Network and Systems Engineering
 - IOT & Embedded systems
 
-> Have you checked the "About" in the upper right corner?
+
 
 
