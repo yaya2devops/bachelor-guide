@@ -25,11 +25,11 @@
   </script>
 
   <meta charset="UTF-8" />
-  <title>Bachelors | Docs</title>
+  <title> Bachelors | Docs</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="description" content="Description" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
-  <link rel="icon" type="image/png" href="images/ISTIC-BC.png" />
+  <link rel="icon" type="image/png" href="assets/favicon/FAV.png" />
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css" />
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/style.min.css"
     title="docsify-darklight-theme" type="text/css" />
@@ -56,6 +56,27 @@
       auto2top: true,
       coverpage: true,
       
+      search: {
+        depth: 3,
+        noData: 'No matches found.',
+        placeholder: 'Search Subject..',
+        hideOtherSidebarContent: true,
+        namespace: 'Computer Engineering',
+      },
+
+      pagination: {
+        previousText: 'PREV',
+        nextText: 'NEXT',
+        crossChapter: true,
+        crossChapterText: true,
+      },
+
+      toc: {
+        scope: '.markdown-section',
+        headings: 'h2,h3',
+        title: 'Table of Contents',
+      },
+
 
       nameLink: {
         '/pt/': '#/pt/README.md',
@@ -70,7 +91,8 @@
       },
       pathNamespaces: ['/pt','/es'],
       
-      
+
+
       themeColor: '#006EFF',
       darklightTheme: {
         siteFont : 'PT Sans',
