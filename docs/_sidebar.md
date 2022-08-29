@@ -1,6 +1,6 @@
 
  
-- **Commun**
+- **Mutual**
   - [Semester Ⅰ](Semester1/1.md )
   - [Semester Ⅱ](Semester2/2.md)
  
