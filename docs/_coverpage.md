@@ -11,4 +11,3 @@
 
 [Start Exploring!](#Introduction)
 
-![color](#fffffff)
