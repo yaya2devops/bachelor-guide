@@ -9,6 +9,8 @@
 }
 
 
+
+
 body:not(.ready) {
 	overflow: hidden
 }
@@ -94,6 +96,12 @@ body {
 
 .markdown-section h2 {
 	color: #fff;
+}
+
+.markdown-section td {
+	text-align: "center";
+	border: 1px solid #ddd;
+	padding: 6px 13px;
 }
 
 img {
