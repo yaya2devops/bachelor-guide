@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <title> Bachelors | Docs</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="description" content="Description" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+  <link rel="icon" type="image/png" href="assets/favicon/FAV.png" />
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css" />
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/style.min.css"
+    title="docsify-darklight-theme" type="text/css" />
+  <style>
+    ::-webkit-scrollbar{
+      width:4px;
+      height:2px;
+    }
+    ::-webkit-scrollbar-thumb{
+      background: linear-gradient(
+        to bottom,
+          #006eff,
+          #006eff
+      );
+      border-radius: 50px;
+    }
+    ::-webkit-scrollbar-track{
+      background: #303030;
+      /*transparent*/
+    }
+    </style>
+</head>
+
+<body>
+  <div id="app"></div>
+  <script>
+    // Enter the URL of your own GitHub Repository in between the two quotes below
+        var gitLinkRepoURL = '';
+    // Customize the text for your Edit this Page on GitHub link between the two quotes below
+        var editThisPageLinkText = 'Edit this Page';
+    // Set standalone to true to permanently hide the Sidebar and Navbar
+        var standalone = false;
+    // Set ToC to true to permanently show page Table of Contents (Sidebar must also be hidden)
+        var ToC = false;
+    // Get value from GET-parameter in URL
+    // @param {array} name Parameter-name
+    // @param {*} isTrue Return if found
+    // @param {*} isFalse Return if not found
+    // @returns {string|null} Parameter-value
+function getURLParameterByName(name, isTrue = null, isFalse = null, url = window.location.href) {
+
+  let exists = false;
+
+  if (Array.isArray(name)) {
+
+    name.forEach(element => {
+      if (getURLParameterByName(element)) {
+        exists = true;
+      }
+    });
+
+  } else {
+
+    name = name.toLowerCase().replace(/[\[\]]/g, '\\$&');
+
+    var regex = new RegExp('[?&]' + name + '(=([^&#]*)|&|#|$)');
+    var results = regex.exec(url.toLowerCase());
+
+    exists = (results && results[2]) ? true : false;
+  }
+
+  if (exists && isTrue) {
+    return isTrue;
+  }
+
+  if (!exists && isFalse) {
+    return isFalse;
+  }
+
+  return exists;
+}
+    // Docsify configuration
+    window.$docsify = {
+      name: '<b>Computer Engineering Bachelors Docs',
+      repo: 'https://github.com/',
+      loadNavbar: true,
+      loadSidebar: true,
+      subMaxLevel: 2,
+      auto2top: true,
+      coverpage: true,
+      
+      search: {
+        depth: 2,
+        noData: 'No matches found.',
+        placeholder: 'Search Subject..',
+        hideOtherSidebarContent: true,
+        namespace: 'Computer Engineering',
+      },
+
+      pagination: {
+        previousText: 'PREV',
+        nextText: 'NEXT',
+        crossChapter: true,
+        crossChapterText: true,
+      },
+
+      themeColor: '#006EFF',
+      darklightTheme: {
+        siteFont : 'PT Sans',
+        defaultTheme : 'dark | light',
+        codeFontFamily : 'Roboto Mono, Monaco, courier, monospace',
+        bodyFontSize : '17px',
+        dark: {
+          accent: '#006EFF',
+          background: '#282C34',
+          codeTextColor : '#b4b4b4',
+          codeBackgroundColor : '#353A44', 
+          coverBackground : '#282C34'
+        },
+        light: {
+          accent: '#045BDA',
+          coverBackground : '#f0f0f0'
+        }
+       
+      },
+      plugins: [
+
+        function(hook, vm) {
+
+          hook.beforeEach(function(html) {
+            if (/githubusercontent\.com/.test(vm.route.file)) {
+              url = vm.route.file
+                .replace('raw.githubusercontent.com', 'github.com')
+                .replace(/\/master/, '/blob/master')
+            } else {
+              url = gitLinkRepoURL + '/blob/main/docs/' + vm.route.file
+            }
+            var editHtml = '[:memo: ' + editThisPageLinkText + '](' + url + ')\n'
+
+            var creditHtml = '\n\n' + 'Can you improve this documentation?👉 <a href="https://github.com/Y4HYA4/Bachelors_Docs#improve-this-project/" target="_blank">Contribute right away</a>.'
+
+            if ( !(getURLParameterByName(['standalone','embedded'])) && !(getURLParameterByName('hidegitlink'))  && (!!gitLinkRepoURL)) {
+            return editHtml + '\n' + html + '<br />' + '\n\n' + '<hr>' + creditHtml
+
+            } else if ( getURLParameterByName(['standalone','embedded']) && !(getURLParameterByName('hidegitlink')) && (!!gitLinkRepoURL)) {
+              return editHtml + '\n' + html
+
+            } else if ( !(getURLParameterByName(['standalone','embedded']))) {
+              return html + '<br />' + '\n\n' + '<hr>' + creditHtml
+
+            } else {
+              return html
+            }
+          })
+
+        }
+
+      ]
+    
+    };
+  </script>
+  <!-- Docsify v4 -->
+  <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
+  <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
+  <script src="https://unpkg.com/docsify/lib/plugins/search.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/index.min.js" type="text/javascript"></script>
+</body>
+
+</html>
