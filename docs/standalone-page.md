@@ -5,7 +5,6 @@ I was and still am the type of student who learned most things online; it was al
 
 
 
-![Mountain](images/dream.png ':class=banner-tall-image')  
 
 
 <div class="row">

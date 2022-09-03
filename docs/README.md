@@ -1,7 +1,7 @@
 # Introduction
 When considering a career in technology. This degree appears to be very precise. Including  a good foundation to computers from low-level hardware (assembly) to a widely used language like Python. Aside from helping with networking and embedded systems.
 
-![Photo of Mountain](images/ISTICdoura.png)
+![Photo of ISTIC](images/ISTICdoura.png)
 
 
 ## Is it right for you?
@@ -15,6 +15,11 @@ After two semesters of success, the student should be able to choose between two
 - Network and Systems Engineering
 - IOT & Embedded systems
 
+![BRANCH_INSIGHT](images/roadmap.png)
 
+## Mobile Experience
 
+Take your studies with you wherever you go. <br>**Scan** the code below and try the mobile exposure.
+
+<img src="images/QR.png"  width="290" height="350">
 
