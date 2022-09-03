@@ -16,10 +16,5 @@
 
 <details> 
 
-
-   - [Something](Semester3-IOT/3.md)
-
-- []()
-
 </details>
 
