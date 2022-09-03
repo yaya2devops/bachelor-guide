@@ -16,5 +16,9 @@ After two semesters of success, the student should be able to choose between two
 - IOT & Embedded systems
 
 
+## Mobile Experience
 
+Take your studies with you wherever you go. <br>**Scan** the code below and try the mobile exposure.
+
+<img src="images/QR.png"  width="290" height="350">
 
