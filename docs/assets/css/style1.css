@@ -1,0 +1,87 @@
+
+::-webkit-scrollbar{
+        width:4px;
+        height:2px;
+      }
+::-webkit-scrollbar-thumb{
+        /*background: linear-gradient(
+          to bottom,
+          #006eff,
+          #006eff
+        );*/
+        background: #006eff;
+        border-radius: 50px;
+      }
+::-webkit-scrollbar-track{
+        background: transparent;
+      }
+::selection{
+        background: #006eff;
+        color: #ffffff;
+      }
+p::selection{
+        background: #006eff;
+        color: #ffffff;
+      }
+.sidebar::-webkit-scrollbar {
+    width:4px;
+    height:2px;
+    }
+    
+.sidebar::-webkit-scrollbar-thumb {
+        background: transparent;
+        border-radius: 50px;
+    }
+    
+.sidebar:hover::-webkit-scrollbar-thumb {
+        background: #006eff
+    }
+    
+.sidebar:hover::-webkit-scrollbar-track {
+        background: transparent
+    }  
+.search input {
+        width: 95% !important;
+        border-radius: 60px;
+        text-indent: 20px;
+}  
+.sidebar ul li a {
+    color: var(--sidebarSublink);
+    font-size: 16px;
+    font-weight: 400;
+    overflow: hidden;
+    text-decoration: none;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+.markdown-section table {
+	border-collapse: collapse;
+    font-size: 0.9rem;
+	overflow: hidden;
+    align-self: center;
+
+}
+/*.markdown-section tr .active-row {
+	font-weight: bold;
+    color: #006eff;
+}*/
+.search .matching-post{
+    width: 100% !important;
+    text-indent: 20px;
+}
+.search p{
+    padding-left: 6px;
+    padding-bottom: 6px;
+}
+.search .results-panel{
+	margin: 0 auto;
+    margin-top: 5px;
+	color: var(--textColor);
+	width: 100% !important;
+	border-radius: 15px;
+	text-indent: 25px;
+    box-shadow: 0 0 5px var(--theme-color)
+}
+.search input:hover{
+    box-shadow: 0 0 5px var(--theme-color)
+}
