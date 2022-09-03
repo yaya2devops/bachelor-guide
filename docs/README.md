@@ -14,6 +14,7 @@ If you want to help build the world we live in on a large scale, this is a good 
 After two semesters of success, the student should be able to choose between two specialties for the 3 semesters left.
 - Network and Systems Engineering
 - IOT & Embedded systems
+
 ![BRANCH_INSIGHT](images/roadmap.png)
 
 ## Mobile Experience
