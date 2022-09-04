@@ -54,17 +54,17 @@ p::selection{
     text-overflow: ellipsis;
     white-space: nowrap;
   }
-.markdown-section table {
+/*.markdown-section table {
 	border-collapse: collapse;
     font-size: 0.9rem;
 	overflow: hidden;
     align-self: center;
 
 }
-/*.markdown-section tr .active-row {
+.markdown-section tr .active-row {
 	font-weight: bold;
     color: #006eff;
-}*/
+}
 .search .matching-post{
     width: 100% !important;
     text-indent: 20px;
@@ -72,15 +72,12 @@ p::selection{
 .search p{
     padding-left: 6px;
     padding-bottom: 6px;
-}
+}*/
 .search .results-panel{
 	margin: 0 auto;
-    margin-top: 5px;
 	color: var(--textColor);
 	width: 100% !important;
-	border-radius: 15px;
-	text-indent: 25px;
-    box-shadow: 0 0 5px var(--theme-color)
+	text-indent: 15px;
 }
 .search input:hover{
     box-shadow: 0 0 5px var(--theme-color)
