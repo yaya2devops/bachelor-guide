@@ -1,3 +1,6 @@
+
+---
+
 # Introduction
 When considering a career in technology. This degree appears to be very precise. Including  a good foundation to computers from low-level hardware (assembly) to a widely used language like Python. Aside from helping with networking and embedded systems.
 
@@ -16,6 +19,7 @@ After two semesters of success, the student should be able to choose between two
 - IOT & Embedded systems
 
 ![BRANCH_INSIGHT](images/roadmap.png)
+
 
 ## Mobile Experience
 
