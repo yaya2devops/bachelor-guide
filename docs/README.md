@@ -1,9 +1,15 @@
 
 ---
 
-# Overview
+# Motivation
+When considering about a career in Tech. This bachelor's appears to be extremely accurate. Including  a good **foundation** to computers from low-level hardware (**Assembly**) to a widely used language like **C, C++ & Python**. In addition to assisting with **networking**, scripting w/**Bash**.
+
+This degree will introduce you to some of the incredible innovations that the world is constantly leveraging to provide value, such as Web & Mobile Development, Computer Architecture, Microcontroller programming, Cloud computing, and software testing..
+
+Although Computer Science appears to have received the most attention, this degree is equivalent in terms of **knowledge provided**.
 ![Photo of ISTIC](images/ISTICdoura.png)
-When considering about a career in technology. This bachelor's appears to be extremely accurate. Including  a good foundation to computers from low-level hardware (assembly) to a widely used language like C, C++ & Python. In addition to assisting with networking, scripting w/Bash and embedded systems depending on the interest.
+
+
 
 # Path to options
 After two semesters of success, the student should be able to choose between two specialties for the 3 semesters left.
@@ -13,9 +19,7 @@ After two semesters of success, the student should be able to choose between two
 
 ![BRANCH_INSIGHT](images/roadmap.png)
 
-# Motivation 
-This degree will introduce you to some of the incredible innovations that the world is constantly leveraging to provide value, such as Web & Mobile Development, Computer Architecture, Microcontroller programming, Cloud computing, and software testing...
-<br>Although Computer Science appears to have received the most attention, this degree is equivalent in terms of knowledge provided.
+
 
 # Get Started
 Each section will include usefull resources and content to assist you in excelling in your preparation and making the most of your education.
