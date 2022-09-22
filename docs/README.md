@@ -22,7 +22,7 @@ After two semesters of success, the student should be able to choose between two
 
 # Examining methodology
 
-![Photo of Semester](images/SemesterStructure.png)
+![Photo of Semester](images/SemesterStrucureUpdate.png)
 
 # Get Started
 Each section will include usefull resources and content to assist you in excelling in your preparation and making the most of your education.
