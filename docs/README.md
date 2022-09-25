@@ -18,11 +18,11 @@ After two semesters of success, the student should be able to choose between two
 
 
 
-![BRANCH_INSIGHT](images/NosigDEG.png)
+![BRANCH_INSIGHT](images/edit0.png)
 
 # Examining methodology
 
-![Photo of Semester](images/transparentStruc.png)
+![Photo of Semester](images/edit1.png)
 
 # Get Started
 Each section will include usefull resources and content to assist you in excelling in your preparation and making the most of your education.
