@@ -9,7 +9,7 @@ This degree will introduce you to some of the incredible innovations that the wo
 Although Computer Science appears to have received the most attention, this degree is equivalent in terms of **knowledge provided**.
 ![Photo of ISTIC](images/ISTICdoura.png)
 
-
+ 
 
 # Path to options
 After two semesters of success, the student should be able to choose between two specialties for the 3 semesters left.
