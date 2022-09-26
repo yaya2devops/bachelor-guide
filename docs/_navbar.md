@@ -1,5 +1,3 @@
 - [Home]()
 
-
-
-* [ABOUT](standalone-page.md)
+* [Details](standalone-page.md)
