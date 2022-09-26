@@ -22,4 +22,4 @@ I were and remain the type of student who learned most things online; it was alw
   
 
 
-> Get Started with the [home](README.md) page.
+> Get Started from [Here](README.md).
