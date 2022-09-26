@@ -8,7 +8,7 @@ Simply shoot the necessary file(s) **.md** after having it forked in your local 
 ├──.vscode
 ├── Docs
 │   ├── Semester1
-│        ├── 1.md
+│        ├── 1.md // Ex: If I wanted to contribute something to semester 1, I would edit this file.
 │   ├── Semester2
 │        ├── 2.md
 │   ├── Semester3-IOT
