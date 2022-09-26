@@ -17,7 +17,7 @@ You will find an email address in the asset above where you can send your improv
 
 
 
-### Why i'm doing this?
+### Why am I doing this?
 I were and remain the type of student who learned most things online; it was always my preferred method of acquiring knowledge and passing exams. This is where the idea for this project arose. Everything is obviously available on the internet; it's just a matter of searching. So my goal is to collect as much useful information as possible so that you can finish your degree from your computer. 
   
 
