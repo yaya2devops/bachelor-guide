@@ -51,5 +51,5 @@ Each section will include usefull resources and content to assist you in excelli
 
 Take your studies with you wherever you go. <br>**Scan** the code below and try on mobiles.
 
-<img alt="Just copy the URL for the moment." src="images/qr.png"  width="300" height="300">
+<img alt="Just copy the URL for the moment." src="images/QR-Styled.png"  width="300" height="300">
 
