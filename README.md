@@ -1,5 +1,7 @@
 # Bachelors in Computer Engineering
 
+![Banner](docs/images/banner.png)
+
 ## Contributing
 Simply shoot the necessary file(s) **.md** after having it forked in your local machine when thinking about contributing.
 
