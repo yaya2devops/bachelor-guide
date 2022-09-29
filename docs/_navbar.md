@@ -1,5 +1,5 @@
 - [Home]()
 - Translations
   - [:uk: English](/)
-  - [:fr: French🔄](quickstart.md)
+  - [:fr: French](quickstart.md)
 - [Contribution](standalone-page.md)
