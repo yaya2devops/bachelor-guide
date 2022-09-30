@@ -4,7 +4,7 @@
 
 | Semesters             |          ISTIC Google Drive                  |  
 |:--------                              |:--------:                    | 
-| **Mutual**                                                                                                                                              |   
+| **Mutual**                                                                                                                                              |  |:--------                              | 
 | **Semester 1**                         |      [<img src="images/Drive/MAT.png" a>](https://drive.google.com/drive/folders/1gftTLJCmQZj167LFH59PvFvBQsE3ED48)                        |      
 | **Semester 2**                        |       [<img src="images/Drive/MAT.png" alt="Wait for it!"  >](https://drive.google.com/drive/folders/1xcZRV-iIe5D_xBhW0YED2JXX6GLeAvAp)                        |      
 | **Internet of things & Embedded Sytems**                                            |   
