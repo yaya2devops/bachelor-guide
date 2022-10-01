@@ -15,5 +15,20 @@
   - [Semester Ⅴ - IRS](Semester5-IRS/5.md)
 
 <form action="https://istic.computer-engineering.tech/#/ISTIC_Materials" target="_blank">
-    <input type="submit" value="ISTIC Materials" style="cursor: pointer;margin-top:8px;margin-left:18px;padding:9px;background-color:#FFFFFF;border:4px solid #0374B5;border-radius:25rem;color:#0374B5;display:inline-block;text-align:center;text-decoration:none;width:250px;-webkit-text-size-adjust:none;mso-hide:all;" />
-   </form>
+    <input type="submit" value="ISTIC Materials" 
+           style="cursor: pointer;
+                  font-size: 16px;
+                  font-weight: 400;
+                  margin-top:8px;
+                  margin-left:10%;
+                  padding:9px;
+                  background-color:rgba(0,110,255);
+                  border:4px solid #006eff;
+                  border-radius:25rem;
+                  color: #FFFFFF;
+                  display:inline-block;
+                  text-align:center;
+                  text-decoration:none;
+                  width:80%;
+      "/>
+</form>
