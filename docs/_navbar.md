@@ -2,4 +2,4 @@
 - Translations
   - [:uk: English](/)
   - [:fr: French](quickstart.md)
-- [Contribution](standalone-page.md)
+- [Contribution](contributions.md)
