@@ -30,3 +30,5 @@ Simply shoot the necessary file(s) **.md** after having it forked in your local 
 ├── package-lock.json
 ├── package.json
 ```
+
+Have you finished committing? Return to this repository and pull a request.
