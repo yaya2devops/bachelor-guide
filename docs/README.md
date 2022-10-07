@@ -50,7 +50,7 @@ Each section will include usefull resources and content to assist you in excelli
 
 
 
-## Mobile Experience
+## QR-Code for Mobiles
 
 Take your studies with you wherever you go. <br>**Scan** the code below and try on mobiles.
 
