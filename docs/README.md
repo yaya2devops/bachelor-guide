@@ -20,11 +20,14 @@ After two semesters of success, the student should be able to choose between two
 ![BRANCH_INSIGHT](images/edit0.png)
 
 # Examining methodology
-
+The asset below depicts the proctoring methodology used for each semester.
+- A written exam on all of the subjects covered
+- Hands-on exams for specific subjects that necessitate the use of software.
+- Final exams, which play the most important role in the semester's success.
 ![Photo of Semester](images/semv2.png)
 
 # Professional Experience
-
+Students are required to have atleast two interns. Please see [this page](Cooking) for more information on the matter.
 ![Interns](images/intern.png)
 
 # Get Started
