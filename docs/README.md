@@ -15,7 +15,7 @@ After two semesters of success, the student should be able to choose between two
 - IOT & Embedded systems
 - Network and Systems Engineering
 
-
+> ISTIC used to assign students with higher grades to IOT; This could imply that IOT is the best option. It is not. Both paths are excellent.
 
 ![BRANCH_INSIGHT](images/edit0.png)
 
