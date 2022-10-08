@@ -15,8 +15,8 @@ You will find an email address in the asset above where you can send your improv
 - Open a pull Request, Issue and more via GitHub
 
 If you have a specialty request, please write it to one of the email addresses below.
-- **IOT:** Yahya@computer-engineering.Tech
-- **IRS:** Jawher@computer-engineering.Tech
+- **IOT:** Yahya@Computer-Engineering.Tech
+- **IRS:** Jawher@Computer-Engineering.Tech
 
 
 ### Why am I doing this?
