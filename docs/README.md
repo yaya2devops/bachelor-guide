@@ -27,7 +27,7 @@ The asset below depicts the proctoring methodology used for each semester.
 ![Photo of Semester](images/semv2.png)
 
 # Professional Experience
-Students are required to have atleast two interns. Please see [this page](Cooking) for more information on the matter.
+Students are required to have atleast two interns. Please see [this page](intern.md) for more information on the matter.
 ![Interns](images/intern.png)
 
 # Get Started
