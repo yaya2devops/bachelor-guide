@@ -1,3 +1,7 @@
-# Traduction en français 
+<br>
+<br>
 
-La traduction est en cours. Merci pour votre patience.
+# Bonjour!
+
+## Traduction en français est en cours. Merci pour votre patience.
+
