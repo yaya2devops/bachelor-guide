@@ -10,9 +10,11 @@ We'll do it with these quotes in mind.
 
 
 ## Contributing
+Continue to look through the docs folder.
 Simply shoot the necessary file(s) **.md** after having it forked in your local machine when thinking about contributing.
 
 ``` 
+
 .BachelorsDocs
 ├──.vscode
 ├── Docs
