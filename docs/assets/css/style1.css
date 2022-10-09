@@ -174,3 +174,34 @@ p::selection{
     font-size:var(--search-result-item-font-size);
     font-weight:var(--search-result-item-font-weight)
 }
+.center-body{
+    align-items: center;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    z-index: 10;
+}
+.loader-triangle-3{
+    stroke: #0861d6;
+    stroke: #fff;
+    stroke-dasharray: 17;
+    animation: anm-tr-3-move 1.5s
+        cubic-bezier( 0.35, 0.04, 0.63, 0.95) infinite;
+
+}
+
+@keyframes anm-tr-3-move{
+    to{
+        stroke-dashoffset: -136;
+    }
+}
+	
+div#app:empty:before {
+    display: none !important;
+}
