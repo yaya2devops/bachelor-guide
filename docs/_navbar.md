@@ -2,4 +2,4 @@
 - Translations
   - [:uk: English](/)
   - [:fr: French](quickstart.md)
-- [Contribution](contributions.md)
+- [Contribution](https://istic.computer-engineering.tech/#/contributions)
