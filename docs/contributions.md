@@ -19,7 +19,7 @@ If you have a specialty request, please write it to one of the email addresses b
 - **IRS:** Jawher@Computer-Engineering.Tech
 
 Furthermore, do you have something quick to share? Fill out this [form](https://forms.zohopublic.com/isticbc/form/Resources/formperma/1-4w1KAlQUkKxzvRsc2V688moUg8Ki1yM7fQVmrZpuQ?fbclid=IwAR1FDnq3LGfBSceGha03cWRwXUorw1WSEr_uuH7_egYI33ePVNUCJ0ylLJQ).
-![Banner](images/left.png)
+![Banner](images/union.png)
 ### Why are WE doing this?
 We were and remain the type of students who learned most things online; it was always the preferred method of acquiring knowledge and passing exams. This is where the idea for this project arose. Everything is obviously available on the internet; it's just a matter of searching. Our goal is to gather as much useful information as possible so that you can complete your degree from the comfort of your own home.
   
