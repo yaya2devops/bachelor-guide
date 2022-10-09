@@ -25,3 +25,11 @@
   <script src="//unpkg.com/mermaid/dist/mermaid.js"></script>
   <script src="//unpkg.com/docsify-mermaid@latest/dist/docsify-mermaid.js"></script>
   <script>mermaid.initialize({ startOnLoad: true });</script>
+
+
+
+  ## QR-Code for Mobiles
+
+Take your studies with you wherever you go. <br>**Scan** the code below and try on mobiles.
+
+<img alt="Just copy the URL for the moment." src="images/QR-Styled.png"  width="300" height="300">

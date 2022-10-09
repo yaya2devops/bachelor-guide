@@ -47,15 +47,27 @@ Each section will include usefull resources and content to assist you in excelli
   - [Semester Ⅴ - IRS](Semester5-IRS/5.md)
 
 
-
-
-
-
-
-
-## QR-Code for Mobiles
+  ## QR-Code for Mobiles
 
 Take your studies with you wherever you go. <br>**Scan** the code below and try on mobiles.
 
-<img alt="Just copy the URL for the moment." src="images/QR-Styled.png"  width="300" height="300">
+<img alt="Just copy the URL for the moment." src="images/QR-Styled.svg"  width="300" height="300">
 
+
+
+
+
+
+
+<!--div class="qr-container">
+  <div class="txt">
+    <h1>
+      QR-Code for Mobiles
+    </h1>
+    <p>Take your studies with you wherever you go. <br>
+    <a>Scan</a> the code and try on mobiles.</p>
+  </div>
+  <div class="qr">
+    <img src="images/QR-Styled.svg" >
+  </div>
+</!--div-->
