@@ -1,6 +1,13 @@
 # Bachelors in Computer Engineering
-
 ![Banner](docs/images/banner.png)
+
+The project is entirely driven by students. Our primary goal is to provide the materials required for anyone to start their learning without confusion and lack of information. <br><br>
+We'll do it with these quotes in mind.
+
+> “Share your knowledge. It is a way to achieve immortality.”  –Dalai Lama
+
+> “Every addition to true knowledge is an addition to human power.” –Horace Mann
+
 
 ## Contributing
 Simply shoot the necessary file(s) **.md** after having it forked in your local machine when thinking about contributing.
