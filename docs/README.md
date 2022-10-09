@@ -55,19 +55,3 @@ Take your studies with you wherever you go. <br>**Scan** the code below and try 
 
 
 
-
-
-
-
-<!--div class="qr-container">
-  <div class="txt">
-    <h1>
-      QR-Code for Mobiles
-    </h1>
-    <p>Take your studies with you wherever you go. <br>
-    <a>Scan</a> the code and try on mobiles.</p>
-  </div>
-  <div class="qr">
-    <img src="images/QR-Styled.svg" >
-  </div>
-</!--div-->
