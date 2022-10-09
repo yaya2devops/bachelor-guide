@@ -21,9 +21,9 @@ After two semesters of success, the student should be able to choose between two
 
 # Examining methodology
 The asset below depicts the proctoring methodology used for each semester.
-- A written exam on all of the subjects covered
-- Hands-on exams for specific subjects that necessitate the use of software.
-- Final exams, which play the most important role in the semester's success.
+- **1:** A written exam on all of the subjects covered.
+- **2:** Hands-on exams for specific subjects that necessitate the use of software.
+- **3:** Final exams, which play the most important role in the semester's success.
 ![Photo of Semester](images/semv2.png)
 
 # Professional Experience
