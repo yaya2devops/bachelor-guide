@@ -6,9 +6,9 @@ When considering about a career in Tech. This bachelor's appears to be extremely
 
 This degree will introduce you to some of the incredible innovations that the world is constantly leveraging to provide value, such as Web & Mobile Development, Computer Architecture, Microcontroller programming, Cloud computing, and software testing..
 Although Computer Science appears to have received the most attention, this degree is equivalent in terms of **knowledge provided**.
-![Photo of ISTIC](images/ISTIC2.png)
-
- 
+ <p align="center">
+  <img src="images/istichome.png" alt="Sublime's custom image"/>
+</p>
 
 # Path to options
 After two semesters of success, the student should be able to choose between two specialties for the 3 semesters left.
