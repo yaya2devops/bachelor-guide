@@ -11,12 +11,12 @@ Hey there, and I hope this has been helpful in your studies. The project is cons
 We have provided several options for you to empower the project.
 You will find an email address in the asset above where you can send your improvement: articulation, attachments, and more.. You can also contribute right away via github, which is the preferred method for getting your contribution into production as soon as possible.
 
-- Email US at Improve@Computer-Engineering.Tech
+- **Email US:** 📧 Improve@Computer-Engineering.Tech
 - Open a pull Request, Issue and more via GitHub
 
 If you have a specialty request, please write it to one of the email addresses below.
-- **IOT:** Yahya@Computer-Engineering.Tech
-- **IRS:** Jawher@Computer-Engineering.Tech
+- **IOT:** 📧 Yahya@Computer-Engineering.Tech
+- **IRS:** 📧 Jawher@Computer-Engineering.Tech
 
 Furthermore, do you have something quick to share? Fill out this [form](https://forms.zohopublic.com/isticbc/form/Resources/formperma/1-4w1KAlQUkKxzvRsc2V688moUg8Ki1yM7fQVmrZpuQ?fbclid=IwAR1FDnq3LGfBSceGha03cWRwXUorw1WSEr_uuH7_egYI33ePVNUCJ0ylLJQ).
 ![Banner](images/union.png)
