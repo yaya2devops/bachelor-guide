@@ -8,7 +8,7 @@ A simple paper that you receive from the company that includes information about
 ![attestation_stage](attes.png)
 
 **Note:** Make a post deposit of 2TND + 1TND fees to the below number and bring the receipt along with the two above-mentioned documents to the university.
-> Post Number: 
+> Post Number: 17001000000037038668
 
 ![receiptpost](post.jpg)
 
