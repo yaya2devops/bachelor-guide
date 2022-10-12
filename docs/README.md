@@ -2,16 +2,17 @@
 ---
 
 # Motivation
-When considering about a career in Tech. This bachelor's appears to be extremely accurate. Including  a good **foundation** to computers from low-level hardware (**Assembly**) to a widely used language like **C, C++ & Python**. In addition to assisting with **networking**, scripting w/**Bash** & **security**.
+A career in information technology can be extremely rewarding, both financially and professionally. A bachelor's degree in tech provides a solid foundation in computers, from low-level hardware (assembly) to widely used languages like C, C++ & Python. In addition to assisting with networking, scripting w/Bash & security, a bachelor's degree in tech can also lead to management and executive positions within the industry.
 
-This degree will introduce you to some of the incredible innovations that the world is constantly leveraging to provide value, such as Web & Mobile Development, Computer Architecture, Microcontroller programming, Cloud computing, and software testing..
-Although Computer Science appears to have received the most attention, this degree is equivalent in terms of **knowledge provided**.
+This degree specifically will introduce you to some of the incredible innovations that the world is constantly leveraging to provide value, such as Web & Mobile Development, Computer Architecture, Microcontroller programming, Cloud computing, and software testing.. Although Computer Science appears to have received the most attention in recent years, this degree is equivalent in terms of knowledge provided. 
+
+You'll learn about some of the amazing things people are doing with technology and how you can get involved.
  <p align="center">
   <img src="images/istichome.png" alt="Sublime's custom image"/>
 </p>
 
 # Path to options
-After two semesters of success, the student should be able to choose between two specialties for the 3 semesters left.
+After two semesters of success in the chosen field of study, the student should be able to select one of two specialties for the remaining three semesters. This will enable the pursuer to concentrate their studies on a specific area and gain more knowledge in that domain. By choosing a specialty, the student will also be better prepared for their future career.
 - IOT & Embedded systems
 - Network and Systems Engineering
 
@@ -27,7 +28,9 @@ The asset below depicts the proctoring methodology used for each semester.
 ![Photo of Semester](images/semv2.png)
 
 # Professional Experience
-Students are required to have atleast two interns. Please see [this page](intern.md) for more information on the matter.
+Students are required to have at least two internships. Internships provide students with the opportunity to gain experience in their field of interest and to develop professional skills. 
+
+For more information on internships, please see [this page](https://istic.computer-engineering.tech/#/intern).
 ![Interns](images/intern.png)
 
 # Get Started
