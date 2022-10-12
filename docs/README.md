@@ -2,7 +2,7 @@
 ---
 
 # Motivation
-A career in information technology can be extremely rewarding, both financially and professionally. This bachelor's will provide a solid foundation in computers, from low-level hardware (assembly) to widely used languages like C, C++ & Python. In addition to assisting with networking, scripting w/Bash & security. It can also lead to management and executive positions within the industry.
+A career in information technology can be extremely rewarding, both financially and professionally. This bachelor's will provide a solid foundation in computers, from low-level hardware (assembly) to widely used languages like C, C++ & Python. In addition to assisting with networking, scripting w/Bash & security. It can also lead to management and executive positions within the industry later on.
 
 This degree will introduce you to some of the incredible innovations that the world is constantly leveraging to provide value, such as Web & Mobile Development, Computer Architecture, Microcontroller programming, Cloud computing, and software testing.. Although Computer Science appears to have received the most attention in recent years, this is equivalent in terms of knowledge provided. 
 
