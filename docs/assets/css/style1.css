@@ -205,4 +205,13 @@ p::selection{
 div#app:empty:before {
     display: none !important;
 }
-
+/*-----------language-----------*/
+.app-nav li ul a {
+    color: #00022F;
+}
+.app-nav li ul a:hover {
+    color: #006EFF;
+}
+.app-nav li ul a:active {
+    color: #006EFF;
+}
