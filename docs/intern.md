@@ -4,10 +4,12 @@
 # Mandatory Internship 1: Summer Intern
 After finishing the second year and 4 semesters of success, student should be able to look for and secure an internship. It is strongly recommended that you seek any experience earlier than that; the earlier you proceed, the higher you will rise.
 
-## Tips for a successful experience
-- Be goal-oriented in terms of what you want to learn and what interests you prior to this date.
-- Maintain a regular timesheet and keep track of your daily activities meanwhile the experience.
-- Interact with colleagues, and make communication a key focus.
+![BRANCH_INSIGHT](images/InternsAssets/summerintern.png)
+### Papers to consider 
+- [Summer internship agreement](images/InternsAssets/Convention-Stage-ete.pdf)
+- [Timesheet Template](images/InternsAssets/Journal-de-stage.docx)
+- [Training certificate]()
+- [Internship Report]()
 
 ## Administrative obligations
 
@@ -15,9 +17,10 @@ After finishing the second year and 4 semesters of success, student should be ab
 - The company provides a training certificate that includes the duration and is taken to the university.
 - Your timesheet, along with your internship report, must be signed and delivered by the deadline to the university.
 
-### Papers to consider 
-- Summer internship agreement
-- Training certificate
-- Timesheet Template
-- Internship Report
+## Tips for a successful experience
+- Be goal-oriented in terms of what you want to learn and what interests you prior to this date.
+- Maintain a regular timesheet and keep track of your daily activities meanwhile the experience.
+- Interact with colleagues, and make communication a key focus.
+
+
 
