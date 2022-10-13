@@ -29,9 +29,8 @@ The asset below depicts the proctoring methodology used for each semester.
 
 # Professional Experience
 Students are required to have at least two internships. Internships provide students with the opportunity to gain experience in their field of interest and to develop professional skills. 
-
-For more information on internships, please see [this page](https://istic.computer-engineering.tech/#/intern).
 ![Interns](images/intern.png)
+For more information on internships, please see [this page](https://istic.computer-engineering.tech/#/intern).
 
 # Get Started
 Each section will include usefull resources and content to assist you in excelling in your preparation and making the most of your education.
