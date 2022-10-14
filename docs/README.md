@@ -12,7 +12,7 @@ You'll learn about some of the amazing things people are doing with technology a
 </p>
 
 # Path to options
-After two semesters of success in the chosen field of study, the student should be able to select one of two specialties for the remaining three semesters. This will enable the pursuer to concentrate their studies on a specific area and gain more knowledge in that domain. By choosing a specialty, the student will also be better prepared for their future career.
+After two semesters of success in the chosen field of study, the student should be able to select one of two specialties for the remaining three semesters. This will enable the pursuer to concentrate their studies on a specific area and gain more knowledge in that domain. By choosing a specialty, students will also be better prepared for their future career.
 - IOT & Embedded systems
 - Network and Systems Engineering
 
