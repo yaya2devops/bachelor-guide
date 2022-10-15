@@ -1,4 +1,4 @@
-# Bachelors in Computer Engineering
+# [Bachelors in Computer Engineering](https://github.com/Y4HYA4/TheRealBachelorsDocs/blob/main/docs/README.md)
 ![Banner](docs/images/banner.png)
 
 The project is entirely driven by students. Our primary goal is to provide the materials required for anyone to start their learning without confusion and lack of information. <br><br>
