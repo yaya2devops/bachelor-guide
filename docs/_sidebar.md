@@ -1,4 +1,5 @@
-[<img src="images/log.png" class="log-img">](/)
+[<img src="images/log-2.png" class="log-img">](/)
+
 - **Step Here** 
   - [Overview](README.md )
 - **Mutual**
