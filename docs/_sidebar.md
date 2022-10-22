@@ -1,3 +1,4 @@
+[<img src="images/log-2.png" class="log-img">](/)
 
 - **Step Here** 
   - [Overview](README.md )
