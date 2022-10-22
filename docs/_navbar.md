@@ -4,6 +4,6 @@
   - [:fr: French](quickstart.md)
 
 - More
-  - [Coming Updates](inspirations.md)
+  - [Updates](inspirations.md)
   - [Discord](https://discord.gg/dbY9xSuK)
 - [Contribution](https://istic.computer-engineering.tech/#/contributions)
