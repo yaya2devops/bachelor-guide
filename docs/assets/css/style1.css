@@ -215,3 +215,7 @@ div#app:empty:before {
 .app-nav li ul a:active {
     color: #006EFF;
 }
+/*log image*/
+.log-img {
+    align-self: center;
+}
