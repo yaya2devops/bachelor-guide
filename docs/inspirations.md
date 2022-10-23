@@ -14,3 +14,9 @@
 - troubleshoot table of content 
 - fix logo size and spacing
 - Computer science materials to be added as bonus (lkolo 7low)
+
+> 23/10/2022
+
+- Problem with dark mode clicks on phone just after clicking Start Exploring
+- Computer Science 1st and second year and exams
+- Detailed how to contribution from Jawher.
