@@ -12,5 +12,5 @@
 
 <h1 style="font-weight: 400;font-size: 16px;">The website has been viewed <b><span id="visits"></span> times</b>.</h1>
 
-[Start Exploring!](README.md)
+[Start Exploring!](#motivation)
 
