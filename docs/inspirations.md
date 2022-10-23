@@ -1,5 +1,8 @@
 # Coming Soon
 
+> 10/09/2022
+- Powerpoint as a sharepoint, data collection internally. 
+
 > 21/10/2022
 
 - Logo instead of computer engineering
