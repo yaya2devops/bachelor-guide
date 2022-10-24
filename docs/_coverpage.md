@@ -3,9 +3,11 @@
 
 # 💻
 # Bachelors Docs<small>v2</small>
-<h1 id="cover-heading">
-    Computer Engineering 
-</h1>
+
+
+ <p align="center">
+  <img src="images/finalogo.png" alt="Sublime's custom image"/>
+</p>
 
 <h2>  Subjects, Chapters & Resources </h2>
 <br>
