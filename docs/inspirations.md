@@ -23,3 +23,8 @@
 - Problem with dark mode clicks on phone just after clicking Start Exploring
 - Computer Science 1st and second year and exams
 - Detailed how to contribution from Jawher.
+
+> 25/10/2022
+
+- Sem 5 chapters collection meanwhile preparation for DS IOT AND IRS
+- Maybe starting including resources? (playlists, articles?)
