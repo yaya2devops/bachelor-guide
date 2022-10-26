@@ -33,3 +33,6 @@
 
 - Software of sem5 including drive for downloading ?
 - Check other source of materials ( messanger groups, conversation, recieved notes from classmates)
+- FR init infra
+- Host the project in a container (next)
+- Behind the scences data
