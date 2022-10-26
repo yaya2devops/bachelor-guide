@@ -1,0 +1,169 @@
+Sem1
+
+----Electricity Chapters---
+- Introduction to Electricity: The history
+- continuous electricity
+- Sinusoidal electricity
+- Sinusoidal Power
+- transitory electricity
+- Pass Filters: High & Low
+
+
+----Analyse-----------------
+- Limit and Continuity
+- Derivation
+ ps: calcul integrale, fct usuelles, domaine de diff?
+
+----Algebra-----------------
+Polynomial and rational fraction
+vector space
+linear map
+
+----OS-1-----------------
+- Operating system introduction (Unix=>Linux)
+- layered architecture & structure
+- Process
+- Process Scheduling
+- Memory management
+
+-----SysLog
+- number system
+- Boolean algebra
+- Flip Flop
+- Counters
+- Coder/Decoder Mux/Dmux Add/Sous..
+
+-------Algo--------
+- Data structure
+- Conditional structure
+- Iterative structure
+- Arrays 
+- Registers
+- Subroutines (Sub program)
+- Sort & Search Algorithm
+- Recursion
+- Pointers
+
+
+-----Onde----------
+- Elements of Vector Analysis
+- Maxwell's equations
+- ELECTROMAGNETIC WAVES IN VACUUM
+--------------------------------------
+              SEM2
+--------------------------------------
+
+electronique--------------------
+- Diode
+- Transistor
+- Operational Amplifier
+- Active Filtre: High & Low
+
+
+
+----Algebre2-----
+- Matrix 
+- Matrix Vector Application
+
+----Analyse2------
+- numerical sequence
+- Digital Math 
+- Integral
+- Differential Equation
+
+
+---Arch d'or------
+PIC18F4450
+- Port/Sort, Inputs/Outputs
+- The registers
+- Interuption
+
+
+--c2-----
+- pointeur
+- dynamic allocation
+- Linked List Data Structure
+
+
+-os2----
+- introduction ( sig, tube, socket,)
+- signal
+- Pipes
+- deadlock
+- Processes Sync
+
+--algo2-----
+- sequential dynamic structure
+- recursive treatment on the linear dynamic structure
+- Linked List Data Structure: Bidirectional, Circular
+- Stacks, Queues
+- Processing on hierarchical dynamic structure (Tree)
+- Complexity Data Structure
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
