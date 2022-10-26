@@ -28,3 +28,8 @@
 
 - Sem 5 chapters collection meanwhile preparation for DS IOT AND IRS
 - Maybe starting including resources? (playlists, articles?)
+
+> 26/10/2022
+
+- Software of sem5 including drive for downloading ?
+- Check other source of materials ( messanger groups, conversation, recieved notes from classmates)
