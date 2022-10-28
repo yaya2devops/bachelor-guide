@@ -1,4 +1,4 @@
-Ici on va faire le reste.
+Ici on va faire le translation. Magic!
 
 Cordialement,
 Yahya
