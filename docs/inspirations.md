@@ -33,6 +33,16 @@
 
 - Software of sem5 including drive for downloading ?
 - Check other source of materials ( messanger groups, conversation, recieved notes from classmates)
-- FR init infra
-- Host the project in a container (next)
-- Behind the scences data
+- FR init infra done
+- Host the project in a container (next-notyet)
+- Behind the scences data(yes)
+
+> 29/10/2022
+
+TO-DO
+- Inside the table of chapters, resources included
+- Google drive the best we can. touchpoints ( .googleclassroom .personnal .wherever)
+- Behind the scences data good story tellin left and some more assets
+- before each subject, a paragraph to showcase what is it? kinda motivation and making things CLEARER to new comers
+- COMPLETE these as an essential parts. ONCE DONE FR init.
+> best regards,
