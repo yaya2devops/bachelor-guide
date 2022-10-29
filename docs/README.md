@@ -31,7 +31,7 @@ Students are required to have at least two internships. Internships provide stud
 For more information on internships, please see [this page](https://istic.computer-engineering.tech/#/intern).
 
 # Get Started
-An introduction to some of the incredible innovations that the world is constantly leveraging to provide value, such as Web & Mobile Development, Computer Architecture, Microcontroller programming, Cloud computing, and software testing.. Although Computer Science appears to have received the most attention in recent years, this is equivalent in terms of knowledge provided.
+This site will serve as an introduction to some of the incredible innovations that the world is constantly leveraging to provide value, such as Web, Mobile Development, Computer Architecture, Microcontroller programming, Cloud computing, and software testing. Although Computer Science appears to have received the most attention in recent years, this is equivalent in terms of knowledge provided.
 
 Each section will include usefull resources and content to assist you in excelling in your preparation and making the most of your education.
 ##### The documentation is structured as follows.
