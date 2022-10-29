@@ -4,8 +4,6 @@
 # Motivation
 A career in information technology can be extremely rewarding, both financially and professionally. This bachelor's will provide a solid foundation in computers, from low-level hardware (assembly) to widely used languages like C, C++ & Python. In addition to assisting with networking, scripting w/Bash & security. It can also lead to management and executive positions within the industry later on.
 
-An introduction to some of the incredible innovations that the world is constantly leveraging to provide value, such as Web & Mobile Development, Computer Architecture, Microcontroller programming, Cloud computing, and software testing.. Although Computer Science appears to have received the most attention in recent years, this is equivalent in terms of knowledge provided. 
-
 You'll learn about some of the amazing things people are doing with technology and how you can get involved.
  <p align="center">
   <img src="images/istichome.png" alt="Sublime's custom image"/>
@@ -33,6 +31,8 @@ Students are required to have at least two internships. Internships provide stud
 For more information on internships, please see [this page](https://istic.computer-engineering.tech/#/intern).
 
 # Get Started
+An introduction to some of the incredible innovations that the world is constantly leveraging to provide value, such as Web & Mobile Development, Computer Architecture, Microcontroller programming, Cloud computing, and software testing.. Although Computer Science appears to have received the most attention in recent years, this is equivalent in terms of knowledge provided.
+
 Each section will include usefull resources and content to assist you in excelling in your preparation and making the most of your education.
 ##### The documentation is structured as follows.
 - **Mutual**
