@@ -3,10 +3,11 @@
 
 # Motivation
 A career in information technology can be extremely rewarding, both financially and professionally. This bachelor's will provide a solid foundation in computers, from low-level hardware (assembly) to widely used languages like C, C++ & Python. In addition to assisting with networking, scripting w/Bash & security. It can also lead to management and executive positions within the industry later on.
+
+You'll learn about some of the amazing things people are doing with technology and how you can get involved!
  <p align="center">
   <img src="images/istichome.png" alt="Sublime's custom image"/>
 </p>
-You'll learn about some of the amazing things people are doing with technology and how you can get involved!
 
 
 # Path to options
