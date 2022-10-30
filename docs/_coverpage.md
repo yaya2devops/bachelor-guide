@@ -1,7 +1,10 @@
 <br>
 <br>
 
-# 💻
+<p align="center">
+  <img src="images/Iconcover.png" alt="Sublime's custom image"/>
+</p>
+
 # Bachelors Docs<small>v2</small>
 
 
