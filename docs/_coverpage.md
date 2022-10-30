@@ -2,7 +2,7 @@
 <br>
 
 <p align="center">
-  <img src="images/Iconcover.png" alt="Sublime's custom image"/>
+  <img src="images/Iconcover.png" width="120" height="120" alt="Sublime's custom image"/>
 </p>
 
 # Bachelors Docs<small>v2</small>
