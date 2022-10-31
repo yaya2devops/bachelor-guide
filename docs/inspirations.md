@@ -45,4 +45,9 @@ TO-DO
 - Behind the scences data good story tellin left and some more assets
 - before each subject, a paragraph to showcase what is it? kinda motivation and making things CLEARER to new comers
 - COMPLETE these as an essential parts. ONCE DONE FR init.
-> best regards,
+
+> 31/10/2022
+
+- Intern page, image size.
+- Roadmap overview for the first page? The concepts along the way to IOT To IRS?
+- instead of the current page which should get inlcuded within the table of content only.
