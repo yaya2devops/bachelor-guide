@@ -41,6 +41,7 @@ Simply shoot the necessary file(s) **.md** after having it forked in your local 
 ```
 
 Have you finished committing? Return to this repository and pull a request.
+From [here](docs/contributors.md), you can join the contributors.
 
 ## Contact
 We appreciate your presence; if you have something to posit, please use one of the approaches listed below.
@@ -58,4 +59,3 @@ We appreciate your presence; if you have something to posit, please use one of t
 
 
 
-From [here](docs/contributors.md), you can join the contributors.
