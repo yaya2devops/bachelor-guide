@@ -30,4 +30,4 @@ Simply shoot the necessary file(s) **.md** after having it forked in your local 
 ```
 
 Have you finished committing? Return to this repository and pull a request.
-From [here](docs/contributors.md), you can join the contributors.
+From [here](contributors.md), you can join the contributors.
