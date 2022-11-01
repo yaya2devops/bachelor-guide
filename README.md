@@ -9,7 +9,7 @@ We'll do it with these quotes in mind.
 > “Every addition to true knowledge is an addition to human power.” –Horace Mann
 
 
-## [Contributing](docs/how-to-contribute.md)
+## [Contributing](https://istic.computer-engineering.tech/#/how-to-contribute)
 Continue to look through the docs folder.
 Simply shoot the necessary file(s) **.md** after having it forked in your local machine when thinking about contributing.
 
