@@ -58,4 +58,4 @@ We appreciate your presence; if you have something to posit, please use one of t
 
 
 
-From [here](contributors.md), you can join the contributors.
+From [here](docs/contributors.md), you can join the contributors.
