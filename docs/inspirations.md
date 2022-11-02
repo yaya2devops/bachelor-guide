@@ -51,3 +51,10 @@ TO-DO
 - Intern page, image size.
 - Roadmap overview for the first page? The concepts along the way to IOT To IRS?
 - instead of the current page which should get inlcuded within the table of content only.
+
+> 02/11/2022
+
+- navbar mobiles
+- logo fr (to improve)
+- matieres chapitres fr
+- main welcome page
