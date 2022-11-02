@@ -1,7 +1,7 @@
 - [Acceuil]()
 - Traductions
   - [:uk: Anglais](/)
-  - [:fr: Français](/fr/README.md)
+  - [:fr: Français](/fr/)
 
 - Plus Info
   - [Courant](inspirations.md)
