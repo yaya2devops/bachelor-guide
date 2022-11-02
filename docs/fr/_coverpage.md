@@ -9,7 +9,7 @@
 
 
  <p align="center">
-  <img src="fr/FrenchAssets/coverv2.png" alt="Sublime's custom image"/>
+  <img src="fr/FrenchAssets/coverv3.png" alt="Sublime's custom image"/>
 </p>
 <h1 style="font-weight: 400;font-size: 16px;">The website has been viewed <b><span id="visits"></span> times</b>.</h1>
 
