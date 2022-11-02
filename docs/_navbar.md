@@ -1,7 +1,7 @@
 - [Home]()
 - Translations
   - [:uk: English](/)
-  - [:fr: French](quickstart.md)
+  - [:fr: French](/fr/README.md)
 
 - More
   - [Updates](inspirations.md)
