@@ -1,4 +1,4 @@
-# Bachelors in Computer Engineering | Details
+# BACHELOR in Computer Engineering | Details
 Hey there, and I hope this has been helpful in your studies. The project is constantly being improved and we believe that with your value, we can be of greater assistance to other students. As a result, we welcome your contribution at any given time.
 
 ![Banner](images/banner.png)
