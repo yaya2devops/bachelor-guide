@@ -24,7 +24,7 @@ The asset below depicts the proctoring methodology used for each semester.
 - **1:** A written exam on all of the subjects covered.
 - **2:** Hands-on exams for specific subjects that necessitate the use of software.
 - **3:** Final exams, which play the most important role in the semester's success.
-![Photo of Semester](images/semv2.png)
+![Photo of Semester](images/enstructure.png)
 
 # Professional Experience
 Students are required to have at least two internships. Internships provide students with the opportunity to gain experience in their field of interest and to develop professional skills. 

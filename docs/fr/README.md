@@ -7,7 +7,7 @@ Une carrière dans les technologies de l'information peut être extrêmement enr
 Vous découvrirez certaines des choses incroyables que les gens font avec la technologie et comment vous pouvez vous impliquer!
 
  <p align="center">
-  <img src="images/istichome.png" alt="Sublime's custom image"/>
+  <img src="../images/istichome.png" alt="Sublime's custom image"/>
 </p>
 
 
@@ -19,7 +19,7 @@ Après deux semestres de réussite dans le domaine d'études choisi, l'étudiant
 
 > L'ISTIC avait l'habitude d'affecter les étudiants avec des notes plus élevées à l'IOT ; Cela pourrait impliquer que l'IOT est la meilleure option. Ce n'est pas. Les deux voies sont excellentes.
 
-![DesignsLoading](images/edit0.png)
+![DesignsLoading](../images/edit0.png)
 
 # Méthodologie d'Examen
 L'actif ci-dessous décrit la méthodologie de surveillance utilisée pour chaque semestre.
@@ -27,14 +27,14 @@ L'actif ci-dessous décrit la méthodologie de surveillance utilisée pour chaqu
 - **2:** Examens pratiques pour des sujets spécifiques nécessitant l'utilisation de logiciels.
 - **3:** Les examens finaux, qui jouent le rôle le plus important dans la réussite du semestre.
 
-![DesignsLoading](images/semv2.png)
+![DesignsLoading](FrenchAssets/frstructure.png)
 
 # Expérience professionnelle
 Les étudiants doivent effectuer au moins deux stages. Les stages offrent aux étudiants la possibilité d'acquérir de l'expérience dans leur domaine d'intérêt et de développer des compétences professionnelles. 
 
-![DesignsLoading](images/intern.png)
+![DesignsLoading](FrenchAssets/exp.png)
 
-Pour plus d'informations sur les stages, veuillez consulter [cette page](https://istic.computer-engineering.tech/#/intern).
+Pour plus d'informations sur les stages, veuillez consulter [cette page](fr/intern.md).
 
 # Démarrer
 Ce site servira d'introduction à certaines des incroyables innovations que le monde exploite constamment pour apporter de la valeur, telles que le Web, le développement mobile, l'architecture informatique, la programmation de microcontrôleurs, le cloud computing et les tests de logiciels. Bien que l'informatique semble avoir reçu le plus d'attention ces dernières années, cela est équivalent en termes de connaissances fournies.

@@ -1,6 +1,6 @@
 
 - **Étape ici** 
-  - [Aperçu](fr/README.md)
+  - [Introduction Générale](fr/README.md)
 - **Mutuel**
   - [Semester Ⅰ](fr/Semester1/1.md )
   - [Semester Ⅱ](fr/Semester2/2.md)
@@ -9,7 +9,7 @@
   - [Semester Ⅲ - IOT](fr/Semester3-IOT/3.md)
   - [Semester Ⅳ - IOT](fr/Semester4-IOT/4.md)
   - [Semester Ⅴ - IOT](fr/Semester5-IOT/5.md)
-- **Réseau** 
+- **Réseau & Systèmes** 
   - [Semester Ⅲ - IRS](fr/Semester3-IRS/3.md)
   - [Semester Ⅳ - IRS](fr/Semester4-IRS/4.md)
   - [Semester Ⅴ - IRS](fr/Semester5-IRS/5.md)
