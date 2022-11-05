@@ -1,4 +1,4 @@
-- [Acceuil]()
+- [Acceuil](/fr)
 - Traductions
   - [:uk: Anglais](/)
   - [:fr: Français](/fr/)
