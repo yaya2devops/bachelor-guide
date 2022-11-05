@@ -4,11 +4,10 @@
 # Motivation
 Une carrière dans les technologies de l'information peut être extrêmement enrichissante, tant sur le plan financier que professionnel. Ce licence fournira une base solide en informatique, du matériel de bas niveau (assemblage) aux langages largement utilisés comme C, C++ et Python. En plus d'aider à la mise en réseau, aux scripts avec Bash et à la sécurité. Cela peut également mener à des postes d'execution et de direction au sein de l'industrie plus tard.
 
-Vous découvrirez certaines des choses incroyables que les gens font avec la technologie et comment vous pouvez vous impliquer!
+![BRANCH_INSIGHT](../images/1stic.png)
 
- <p align="center">
-  <img src="../images/istichome.png" alt="Sublime's custom image"/>
-</p>
+🎯 Vous découvrirez certaines des choses incroyables que les gens font avec la technologie et comment vous pouvez vous impliquer!
+
 
 
 # Chemin vers 2 options
