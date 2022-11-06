@@ -5,7 +5,7 @@
   <img src="images/enlogo.png" width="120" height="120" alt="Sublime's custom image"/>
 </p>
 
-# Bachelors Docs<small>v2</small>
+# BACHELOR Docs<small>v2</small>
 
 
  <p align="center">
