@@ -1,8 +1,5 @@
 - [🏠]()
-- 🌎
-  - [:uk: **English**](/)
-  - [:fr: **French**](/fr/)
-
+- [:fr:](/fr/)
 - ✨
   - [Updates](inspirations.md)
   - [Discord](https://discord.gg/dbY9xSuK)
