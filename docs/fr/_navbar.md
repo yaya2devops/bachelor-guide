@@ -1,4 +1,4 @@
-- [🏠](/fr)
+- [🏠](/)
 - [:uk:](/)
 - ✨
   - [Courant](inspirations.md)
