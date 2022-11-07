@@ -4,4 +4,4 @@
 
   - [Courant](inspirations.md)
   - [Discord](https://discord.gg/dbY9xSuK)
-- [Contribution](https://istic.computer-engineering.tech/#/contributions)
+- [<img src="../images/navbar/4.png" alt="Contribute" width="28" height="28"/>](https://istic.computer-engineering.tech/#/contributions)
