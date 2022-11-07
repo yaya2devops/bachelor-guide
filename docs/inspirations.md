@@ -58,3 +58,10 @@ TO-DO
 - logo fr (to improve)
 - matieres chapitres fr
 - main welcome page
+
+> 07/11/2023
+
+- Overview sem2
+- Chapters sem2 left.
+- Translate current sem1 content to fr
+- DS materials included in drive, MORE?
