@@ -1,4 +1,4 @@
-- [🏠]()
+- [<a href="https://www.flaticon.com/free-icons/home-button" title="home button icons"></a>]()
 - [:fr:](/fr/)
 - ✨
   - [Updates](inspirations.md)
