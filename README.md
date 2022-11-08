@@ -1,5 +1,5 @@
 # [BACHELOR in Computer Engineering](https://istic.computer-engineering.tech/#/)
-![Banner](docs/images/banner.png)
+![Banner](docs/images/readme.gif)
 
 The project is entirely driven by students. Our primary goal is to provide the materials required for anyone to start their learning without confusion and lack of information. <br><br>
 We'll do it with these quotes in mind.
