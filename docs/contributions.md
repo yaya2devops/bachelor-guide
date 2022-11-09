@@ -30,4 +30,4 @@ Furthermore, do you have something quick to share? Fill out this [form](https://
 We were and remain the type of students who learned most things online; it was always the preferred method of acquiring knowledge and passing exams. This is where the idea for this project arose. Everything is obviously available on the internet; it's just a matter of searching. Our goal is to gather as much useful information as possible so that you can complete your degree from the comfort of your own home.
   
 
-> Get Started from [Here](README.md).
+> Get Started from [Here](overview.md).
