@@ -57,11 +57,6 @@ Chaque section comprendra des ressources et du contenu utiles pour vous aider à
   - [Semester Ⅴ - IRS](Semester5-IRS/5.md)
 
 
-## QR-Code pour les mobiles
-
-Emportez vos études avec vous partout où vous allez. **Scannez** le code ci-dessous et essayez sur les mobiles.
-
-<img alt="Just copy the URL for the moment." src="images/QR-Styled.svg"  width="300" height="300">
 
 
 
