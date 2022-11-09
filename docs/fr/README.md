@@ -3,4 +3,4 @@ Ce site Web servira de complément au diplôme en plus d'une introduction à cer
 
 
 
-> [Commencez maintenant](apercu.md)
+> [Commencez maintenant](fr/apercu.md)
