@@ -3,7 +3,7 @@
 
 
 # Degree Curriculum
-![BRANCH_INSIGHT](images/overall.png)
+![BRANCH_INSIGHT](images/curriculum.png)
 
 
 ## QR-Code for Mobiles
