@@ -1,10 +1,11 @@
 
 ---
 
-# WELCOME!
-This site will serve as a support to the degree and an introduction to some of the incredible innovations that the world is constantly leveraging to provide value, such as Web, Mobile Development, Computer Architecture, Microcontroller programming, Cloud computing, and software testing. Although Computer Science appears to have received the most attention in recent years, this is equivalent in terms of knowledge provided.
-
 # Degree Curriculum
+This website will serve as a supplement to the degree in addition to an introduction to some of the incredible innovation that the world is constantly leveraging to provide value including  web, mobile development, computer architecture, embedded systems, cloud computing, and software testing.
+<br>
+
 ![BRANCH_INSIGHT](images/curriculumv4.png)
 
+> [Start now](overview.md)
 
