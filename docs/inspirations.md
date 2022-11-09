@@ -65,3 +65,11 @@ TO-DO
 - Chapters sem2 left.
 - Translate current sem1 content to fr
 - DS materials included in drive, MORE?
+
+> 09/11/2023
+
+- SEM 3,4,5 IRS+IOT => French
+- Home page, entire curriculum to french
+- Adjust to English home page 
+- Space for mobiles for: QR file, inspiration(this one lol)
+- Mindmap for the path, should be built and included within the home page.
