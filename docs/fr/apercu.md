@@ -47,13 +47,13 @@ Chaque section comprendra des ressources et du contenu utiles pour vous aider à
   - [Semester Ⅱ](Semester2/2.md)
  
 - **Spécialité IOT & systèmes embarqués**
-  - [Semester Ⅲ - IOT](Semester3-IOT/3.md)
-  - [Semester Ⅳ - IOT](Semester4-IOT/4.md)
-  - [Semester Ⅴ - IOT](Semester5-IOT/5.md)
+  - [Semester Ⅲ - IOT](fr/Semester3-IOT/3.md)
+  - [Semester Ⅳ - IOT](fr/Semester4-IOT/4.md)
+  - [Semester Ⅴ - IOT](fr/Semester5-IOT/5.md)
 - **Spécialité Ingénierie des Réseaux et Systèmes** 
-  - [Semester Ⅲ - IRS](Semester3-IRS/3.md)
-  - [Semester Ⅳ - IRS](Semester4-IRS/4.md)
-  - [Semester Ⅴ - IRS](Semester5-IRS/5.md)
+  - [Semester Ⅲ - IRS](fr/Semester3-IRS/3.md)
+  - [Semester Ⅳ - IRS](fr/Semester4-IRS/4.md)
+  - [Semester Ⅴ - IRS](fr/Semester5-IRS/5.md)
 
 
 
