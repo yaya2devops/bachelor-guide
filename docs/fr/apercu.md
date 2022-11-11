@@ -43,8 +43,8 @@ Chaque section comprendra des ressources et du contenu utiles pour vous aider à
 
 ##### La documentation est structurée comme suit.
 - **Mutuel**
-  - [Semester Ⅰ](Semester1/1.md )
-  - [Semester Ⅱ](Semester2/2.md)
+  - [Semester Ⅰ](fr/Semester1/1.md )
+  - [Semester Ⅱ](fr/Semester2/2.md)
  
 - **Spécialité IOT & systèmes embarqués**
   - [Semester Ⅲ - IOT](fr/Semester3-IOT/3.md)
