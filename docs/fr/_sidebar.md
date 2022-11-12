@@ -15,7 +15,7 @@
   - [Semester Ⅴ - IRS](fr/Semester5-IRS/5.md)
 
 <form action="https://istic.computer-engineering.tech/#/ISTIC_Materials" target="_blank">
-    <input type="submit" value="ISTIC Materials" 
+    <input type="submit" value="Matériaux ISTIC" 
            style="cursor: pointer;
                   font-size: 16px;
                   font-weight: 400;
