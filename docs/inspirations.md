@@ -82,4 +82,8 @@ TO-DO
 
 > 19/11/2023
 
+- hyperlink from table to subjects fr done, en rn// done too
 - chapters name + res 
+- translate chapters to fr
+- include resources to sem1 
+- SEMESTER 1 should be done asap and move next
