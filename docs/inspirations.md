@@ -43,6 +43,7 @@
 > 29/10/2022
 
 TO-DO
+
 - Inside the table of chapters, resources included
 - Google drive the best we can. touchpoints ( .googleclassroom .personnal .wherever)
 - Behind the scences data good story tellin left and some more assets
@@ -76,3 +77,9 @@ TO-DO
 - Adjust to English home page 
 - Space for mobiles for: QR file, inspiration(this one lol)
 - Mindmap for the path, should be built and included within the home page.
+
+
+
+> 19/11/2023
+
+- chapters name + res 
