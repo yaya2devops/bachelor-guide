@@ -2,7 +2,7 @@
 <br>
 
 <p align="center">
-  <img src="images/enlogo.png" width="120" height="120" alt="Sublime's custom image"/>
+  <img src="images/env3.png" width="120" height="120" alt="Sublime's custom image"/>
 </p>
 
 # BACHELOR Docs<small>v2</small>
