@@ -1,10 +1,19 @@
 <br>
 <br>
 
-# Coming Soon
+# About this page
+There are always ways to improve any project, and it is important to be constantly thinking about how to make improvements. This page is about some of the inspiration I'm constantly thinking about to improve the project and get it into a better state.
+
+One way I'm always looking to improve the project is by making sure that all the content is up-to-date and accurate. This can be a challenge, especially as new information becomes available, but it's important to keep everything as current as possible. Additionally, I'm always looking for ways to make the content more engaging and interesting. This can involve adding new visuals or coming up with fresh ideas.
+
+I want to ensure that the project remains accessible and user-friendly for everyone who visits it. This means regularly testing different features and making sure they are working properly. It can also involve making changes based on feedback from users so that we can continue providing them with an enjoyable experience.
+
+
+# Inspirations 
 
 > 10/09/2022
 - Powerpoint as a sharepoint, data collection internally. 
+
 
 > 21/10/2022
 
@@ -21,16 +30,19 @@
 - fix logo size and spacing
 - Computer science materials to be added as bonus (lkolo 7low)
 
+
 > 23/10/2022
 
 - Problem with dark mode clicks on phone just after clicking Start Exploring
 - Computer Science 1st and second year and exams
 - Detailed how to contribution from Jawher.
 
+
 > 25/10/2022
 
 - Sem 5 chapters collection meanwhile preparation for DS IOT AND IRS
 - Maybe starting including resources? (playlists, articles?)
+
 
 > 26/10/2022
 
@@ -39,6 +51,7 @@
 - FR init infra done
 - Host the project in a container (next-notyet)
 - Behind the scences data(yes)
+
 
 > 29/10/2022
 
@@ -50,11 +63,14 @@ TO-DO
 - before each subject, a paragraph to showcase what is it? kinda motivation and making things CLEARER to new comers
 - COMPLETE these as an essential parts. ONCE DONE FR init.
 
+
 > 31/10/2022
 
 - Intern page, image size.
 - Roadmap overview for the first page? The concepts along the way to IOT To IRS?
 - instead of the current page which should get inlcuded within the table of content only.
+
+
 
 > 02/11/2022
 
@@ -63,14 +79,18 @@ TO-DO
 - matieres chapitres fr
 - main welcome page
  
-> 07/11/2023
+ 
+ 
+> 07/11/2022
 
 - Overview sem2
 - Chapters sem2 left.
 - Translate current sem1 content to fr
 - DS materials included in drive, MORE?
 
-> 09/11/2023
+
+
+> 09/11/2022
 
 - SEM 3,4,5 IRS+IOT => French
 - Home page, entire curriculum to french
@@ -80,10 +100,18 @@ TO-DO
 
 
 
-> 19/11/2023
+> 19/11/2022
 
 - hyperlink from table to subjects fr done, en rn// done too
 - chapters name + res 
 - translate chapters to fr
 - include resources to sem1 
 - SEMESTER 1 should be done asap and move next
+
+
+
+> 27/11/2022
+
+- there could be a better way to improve the UI of materials page.
+- sem 1+2 by 2022.
+- the coverpage can get improved.
