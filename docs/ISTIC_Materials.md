@@ -3,6 +3,7 @@
 <br>
 
 # Semesters 
+> good luck
 
 | <img src="images/Drive/1.png" >                                                                                                                                                 | **ISTIC Google Drive**                          | 
 |:--------                              |:--------:                    | 
