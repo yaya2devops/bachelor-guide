@@ -14,5 +14,5 @@
 <h1 style="font-weight: 400;font-size: 16px;">Le site a été consulté <b><span id="visits"></span> fois</b>.</h1>
 
 [GitHub](https://github.com/Y4HYA4/TheRealBachelorsDocs/)
-[Commencez À Explorer!](README.md)
+[Commencez À Explorer!](fr/README.md)
 
