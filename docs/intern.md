@@ -11,17 +11,14 @@ After finishing the second year and 4 semesters of success, student should be ab
 - [Training certificate](images/InternsAssets/certificate.md)
 - [Internship Report](https://github.com/Y4HYA4/ExperienceInCloud/tree/main/First_InternReport#internship-report-at-linedata)
 
-## Workflow, Administrative obligations
+# Workflow
 
-**1-** As soon as you start, you must sign an internship agreement at the company and bring it to university.
+**1-** As soon as you start, you must sign an internship agreement at the company and bring it to university.<br>
+**2-** The company provides a training certificate that includes the duration and is taken to the university.<br>
+**3-** Your timesheet, along with your internship report, must be signed and delivered by the deadline to the university.<br>
+**4-** Prepare a presentation and speak up!<br>
 
-**2-** The company provides a training certificate that includes the duration and is taken to the university.
-
-**3-** Your timesheet, along with your internship report, must be signed and delivered by the deadline to the university.
-
-**4-** Prepare a presentation and speak up!
-
-# Presentation - End of the 2nd Year Project
+## Presentation - End of the 2nd Year Project
 After you finish your experience, you will present what you were up to the university. 
 
 Along with your **Internship report**, you will be required to prepare a **PowerPoint presentation** where you can develop more on your report and express your experience.
@@ -31,7 +28,7 @@ Furthermore, by sharing your experience, you will be able to assist others who a
 
 Finally, presenting will help you improve your communication and touchpoint skills. These are necessary for any business professional, whether communicating with clients or coworkers. You will be able to better connect with those around you and build strong relationships if you take the time to learn and improve these skills.
 
-# Summer-Intern, my experience
+## Summer-Intern, my experience
 
 | Actions                       |Date|
 | :--------                   |:--------   |
