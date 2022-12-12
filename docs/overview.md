@@ -7,6 +7,11 @@ A career in information technology can be extremely rewarding, both financially 
 
 
 🎯 You'll learn about some of the amazing things people are doing with technology and how you can get involved!
+
+# Degree Curriculum
+This website will serve as a supplement to **Computer Engineering degree** in addition to an introduction to some of the incredible innovation that the world is constantly leveraging to provide value including  web, mobile development, computer architecture, embedded systems, cloud computing, and software testing.
+<br>
+
 # Path to options
 After two semesters of success in the chosen field of study, the student should be able to select one of two specialties for the remaining three semesters. This will enable the pursuer to concentrate their studies on a specific area and gain more knowledge in that domain. By choosing a specialty, students will also be better prepared for their future career.
 - IOT & Embedded systems
