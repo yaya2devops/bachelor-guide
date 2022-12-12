@@ -10,7 +10,8 @@ Une carrière dans les technologies de l'information peut être extrêmement enr
 
 🎯 Vous découvrirez certaines des choses incroyables que les gens font avec la technologie et comment vous pouvez vous impliquer!
 
-
+# Programme d'études
+Ce site servira de complément au diplôme **license en ingénieurie des systèmes informatique** en plus d'une introduction à certaines des incroyables innovations que le monde exploite constamment pour apporter de la valeur, notamment le Web, le développement mobile, l'architecture informatique, les systèmes embarqués, le cloud computing et les tests de logiciels.
 
 # Chemin vers 2 options
 Après deux semestres de réussite dans le domaine d'études choisi, l'étudiant devrait pouvoir choisir l'une des deux spécialités pour les trois semestres restants. Cela permettra au candidat de concentrer ses études sur un domaine spécifique et d'acquérir plus de connaissances dans ce domaine. En choisissant une spécialité, les étudiants seront également mieux préparés pour leur future carrière.
