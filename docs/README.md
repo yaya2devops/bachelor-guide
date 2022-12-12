@@ -1,6 +1,7 @@
 
 ---
 
+# ISTIC | Computer Engineering
 
 ![BRANCH_INSIGHT](images/curriculumv4.png)
 
