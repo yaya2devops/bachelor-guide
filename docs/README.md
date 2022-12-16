@@ -3,7 +3,7 @@
 
 # ISTIC | Computer Engineering
 
-![BRANCH_INSIGHT](images/curriculumv4.png)
+![BRANCH_INSIGHT](images/Curriculum/CircEN.png)
 
 > [Start now](overview.md)
 
