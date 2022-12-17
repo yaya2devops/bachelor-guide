@@ -28,8 +28,14 @@
 | **Universities**: <br>FCB, <br>INSAT,<br> ISIMA,<br> ISITCOM|[<img src="images/Drive/bonus.png" alt="Wait for it!" >](https://drive.google.com/drive/folders/1RpN-5HgroMFZil3w37JVkZMd7x5B8qtK)  |
 
 
+# Important
+We are delighted to be able to provide  students with an ever-growing archive of materials that can help them in their studies. By expanding the range of resources available, we hope to give students more choice and autonomy when it comes to deciding which materials best fit their course curriculum. 
+Please feel free to contribute your material in order to increase the overall value. <br>
+[For more information..](contributions.md)
+
+
+<img src="images/Drive/yes.png"  >
 
 > Thank you to everyone who helped make this selection possible.
 
 
-<img src="images/Drive/yes.png"  >
