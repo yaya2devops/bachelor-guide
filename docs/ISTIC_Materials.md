@@ -2,7 +2,7 @@
 <br>
 <br>
     
-<img src="images/Drive/welc2.png">
+<img src="images/Drive/welc3.png">
 
 <br>
 
