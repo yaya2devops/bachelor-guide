@@ -1,7 +1,7 @@
 <br>
 <br>
 
-# About this page
+# Inspirations
 
 There are always ways to improve any project, and it is important to be constantly thinking about how to make improvements. This page is about some of the inspiration I'm constantly thinking about to improve the project and get it into a better state.
 
@@ -10,7 +10,7 @@ One way I'm always looking to improve the project is by making sure that all the
 I want to ensure that the project remains accessible and user-friendly for everyone who visits it. This means regularly testing different features and making sure they are working properly. It can also involve making changes based on feedback from users so that we can continue providing them with an enjoyable experience.
 
 
-# Inspirations 
+# Events & Improvements 
 
 > 10/09/2022
 - Powerpoint as a sharepoint, data collection internally. 
