@@ -4,7 +4,7 @@
 
 
 # BACHELOR in Computer Engineering | Details
-Hey there, and I hope this has been helpful in your studies. The project is constantly being improved and we believe that with your value, we can be of greater assistance to other students. As a result, we welcome your contribution at any given time.
+Hey there, and I hope this has been helpful in your studies. The project is constantly being improved, we believe that collaboration and community involvement are key to the success of any project, and we welcome your ideas and contributions. Whether you have expertise to share, documents to volunteer, or simply want to stay up-to-date on the latest developments, we encourage you to get involved and make a difference. We look forward to working with you and making a positive impact together. Thank you again for your support.
 
 ![Banner](images/banner.png)
 
