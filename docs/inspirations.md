@@ -2,6 +2,7 @@
 <br>
 
 # About this page
+
 There are always ways to improve any project, and it is important to be constantly thinking about how to make improvements. This page is about some of the inspiration I'm constantly thinking about to improve the project and get it into a better state.
 
 One way I'm always looking to improve the project is by making sure that all the content is up-to-date and accurate. This can be a challenge, especially as new information becomes available, but it's important to keep everything as current as possible. Additionally, I'm always looking for ways to make the content more engaging and interesting. This can involve adding new visuals or coming up with fresh ideas.
@@ -115,3 +116,16 @@ TO-DO
 - there could be a better way to improve the UI of materials page.
 - sem 1+2 by 2022.
 - the coverpage can get improved.
+
+
+# Minimal Goal
+
+> 18/12/2022
+
+| Required Goals  | Status  | 
+|:---|:---:|
+| All chapters of every subject of every semester  |   | 
+| Resource in English in English zone_ Chapter-based|   |  
+| Resource in Fench/DZ/TN/Marroc or simillar in French zone (Docs/FR) Chapter-based  |   |  
+|  Web-page for univeristy schedule samples of all semesters <br> "schedule.computer-engineering.tech" |   | 
+|  Loading.. |   |  
