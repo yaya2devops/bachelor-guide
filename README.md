@@ -1,7 +1,18 @@
 # [BACHELOR in Computer Engineering](https://istic.computer-engineering.tech/#/)
 ![Banner](docs/images/mainreadme.gif)
 
-The project is entirely driven by students. Our primary goal is to provide the materials required for anyone to start their learning without confusion and lack of information. <br><br>
+Welcome to the documentation for our bachelor's degree project, a project entirely driven by students with the goal of providing comprehensive and accessible learning materials.
+
+As students ourselves, we understand the challenges that can come with starting a new learning journey. It can be overwhelming to try and navigate through a sea of information, not knowing where to start or what materials are essential. That's why we decided to take on this project - to create a resource that would make it easier for anyone to begin their learning without confusion or a lack of information.
+
+Our project aims to provide instant access to knowledge. We went through a lengthy process to achieve these objectives, which is still ongoing. You can view some of the events that occurred from [here](docs/inspirations.md).
+
+
+Throughout the course of this project, we faced a number of challenges since most students still don't like the idea of sharing their work for the sake of open source, and I had to explain the vision and the value earned. Despite these challenges, we were able to make significant progress and provide a substantial amount of materials along the structure I designed myself to make the path more clear. Some of the most significant results and findings of our projectInclude required documents for all semesters in drive format, as well as a plethora of hands-on lab instructions that students can follow.
+
+The rest of this document is organized into Semesters, subjects, chapters and Hands-on software. We hope that by following this structure, you will be able to easily navigate through the information we have provided and gain a comprehensive understanding of our project. Kindly, refer to the sidebar.
+
+We are confident that our project will be a valuable resource for anyone looking to start their learning journey, and we hope it helps to make the process a little easier and less confusing. <br><br>
 We'll do it with these quotes in mind.
 
 > “Share your knowledge. It is a way to achieve immortality.”  –Dalai Lama
