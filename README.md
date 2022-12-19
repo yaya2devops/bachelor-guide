@@ -8,9 +8,9 @@ As students ourselves, we understand the challenges that can come with starting 
 Our project aims to provide instant access to knowledge. We went through a lengthy process to achieve these objectives, which is still ongoing. You can view some of the events that occurred from [here](docs/inspirations.md).
 
 
-Throughout the course of this project, we faced a number of challenges since most students still don't like the idea of sharing their work for the sake of open source, and I had to explain the vision and the value earned. Despite these challenges, we were able to make significant progress and provide a substantial amount of materials along the structure I designed myself to make the path more clear. Some of the most significant results and findings of our projectInclude required documents for all semesters in drive format, as well as a plethora of hands-on lab instructions that students can follow.
+Throughout the course of this project, we faced a number of challenges since most students still don't like the idea of sharing their work for the sake of open source, and I had to explain the vision and the value earned. Despite these challenges, we were able to make significant progress and provide a substantial amount of materials along the structure I designed myself to make the path more clear. Some of the most significant results and findings of our project include required documents for all semesters in drive format, as well as a plethora of hands-on lab instructions that students can follow.
 
-The rest of this document is organized into Semesters, subjects, chapters and Hands-on software. We hope that by following this structure, you will be able to easily navigate through the information we have provided and gain a comprehensive understanding of our project. Kindly, refer to the sidebar.
+The rest of this document is organized into Semesters, subjects, chapters and Hands-on software. We hope that by following this structure, you will be able to easily navigate through the information we have provided and gain a comprehensive understanding of the degree. Kindly, refer to the [sidebar]().
 
 We are confident that our project will be a valuable resource for anyone looking to start their learning journey, and we hope it helps to make the process a little easier and less confusing. <br><br>
 We'll do it with these quotes in mind.
@@ -23,6 +23,9 @@ We'll do it with these quotes in mind.
 ## [Contributing](https://istic.computer-engineering.tech/#/how-to-contribute)
 Continue to look through the docs folder.
 Simply shoot the necessary file(s) **.md** after having it forked in your local machine when thinking about contributing.
+
+- [Why we think this is important?]()
+
 
 ``` 
 
