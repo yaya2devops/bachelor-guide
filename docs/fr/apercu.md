@@ -43,18 +43,6 @@ Pour plus d'informations sur les stages, veuillez consulter [cette page](fr/inte
 Chaque section comprendra des ressources et du contenu utiles pour vous aider à exceller dans votre préparation et à tirer le meilleur parti de votre formation.
 
 ##### La documentation est structurée comme suit.
-- **Mutuel**
-  - [Semester Ⅰ](fr/Semester1/1.md )
-  - [Semester Ⅱ](fr/Semester2/2.md)
- 
-- **Spécialité IOT & systèmes embarqués**
-  - [Semester Ⅲ - IOT](fr/Semester3-IOT/3.md)
-  - [Semester Ⅳ - IOT](fr/Semester4-IOT/4.md)
-  - [Semester Ⅴ - IOT](fr/Semester5-IOT/5.md)
-- **Spécialité Ingénierie des Réseaux et Systèmes** 
-  - [Semester Ⅲ - IRS](fr/Semester3-IRS/3.md)
-  - [Semester Ⅳ - IRS](fr/Semester4-IRS/4.md)
-  - [Semester Ⅴ - IRS](fr/Semester5-IRS/5.md)
 
 | Mutuel      | Spécialité IOT & systèmes embarqués |Spécialité Ingénierie des Réseaux et Systèmes |
 | ----------- | ----------- |----------- |
