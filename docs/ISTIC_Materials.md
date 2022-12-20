@@ -23,17 +23,13 @@
 |[<img src="images/Drive/Numbers/5.png"   a>](https://drive.google.com/drive/folders/1frK3DmAr7aBpbCCZ_Dh2H0d2LjZuOgN6)                       |     [<img src="images/Drive/MAT.png" alt="Wait for it!" >](https://drive.google.com/drive/folders/1frK3DmAr7aBpbCCZ_Dh2H0d2LjZuOgN6)                          |    
 
 
-|Bonus Section | Contributions |
-|:--------                              |:--------:                    | 
-| **Computer Science**|[<img src="images/Drive/MAT.png" alt="Wait for it!" >](https://drive.google.com/drive/folders/18q7I3J1gnf0OZArdA6DRdQ6131aRqwhj)  |
-| **LGLSI 1 & 2:**<br> ISTIC & ISI|[<img src="images/Drive/bonus.png" alt="Wait for it!" >](https://drive.google.com/drive/folders/1k9Bv44BFTeQjC0KC4iqmyOvZ4KPVE0AC)  |
-| **Universities**: <br>FCB, <br>INSAT,<br> ISIMA,<br> ISITCOM|[<img src="images/Drive/bonus.png" alt="Wait for it!" >](https://drive.google.com/drive/folders/1RpN-5HgroMFZil3w37JVkZMd7x5B8qtK)  |
 
 
 
-|Bonus Section |  **Computer Science** | **LGLSI 1 & 2:**<br> ISTIC & ISI |**Universities**: <br>FCB, INSAT, ISIMA, ISITCOM|
-|:--------                              |:--------:                    | :--------:                    | :--------:                    | 
-| **Contributions**|[<img src="images/Drive/MAT.png" alt="Wait for it!" >](https://drive.google.com/drive/folders/18q7I3J1gnf0OZArdA6DRdQ6131aRqwhj)  | [<img src="images/Drive/bonus.png" alt="Wait for it!" >](https://drive.google.com/drive/folders/1k9Bv44BFTeQjC0KC4iqmyOvZ4KPVE0AC)| [<img src="images/Drive/bonus.png" alt="Wait for it!" >](https://drive.google.com/drive/folders/1RpN-5HgroMFZil3w37JVkZMd7x5B8qtK) | 
+
+|Bonus Section |  **Computer Science** | **LGLSI 1 & 2:**<br> ISTIC & ISI |**Universities**: <br>FCB, INSAT, ISIMA, ISITCOM|   Add Yours HERE.
+|:--------                              |:--------:                    | :--------:                    | :--------:                    | :--------: |
+| **Contributions**|[<img src="images/Drive/MAT.png" alt="Wait for it!" >](https://drive.google.com/drive/folders/18q7I3J1gnf0OZArdA6DRdQ6131aRqwhj)  | [<img src="images/Drive/bonus.png" alt="Wait for it!" >](https://drive.google.com/drive/folders/1k9Bv44BFTeQjC0KC4iqmyOvZ4KPVE0AC)| [<img src="images/Drive/bonus.png" alt="Wait for it!" >](https://drive.google.com/drive/folders/1RpN-5HgroMFZil3w37JVkZMd7x5B8qtK) | Waiting for you! | 
 
 
 
