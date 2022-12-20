@@ -58,9 +58,9 @@ Chaque section comprendra des ressources et du contenu utiles pour vous aider à
 
 | Mutuel      | Spécialité IOT & systèmes embarqués |Spécialité Ingénierie des Réseaux et Systèmes |
 | ----------- | ----------- |----------- |
-| [Semester Ⅰ](fr/Semester1/1.md )|[Semester Ⅲ - IOT](fr/Semester3-IOT/3.md)|[Semester Ⅲ - IRS](fr/Semester3-IRS/3.md)|
-| [Semester Ⅱ](fr/Semester2/2.md)        |[Semester Ⅳ - IOT](fr/Semester4-IOT/4.md)| [Semester Ⅳ - IRS](fr/Semester4-IRS/4.md)|
-|         |[Semester Ⅴ - IOT](fr/Semester5-IOT/5.md)| [Semester Ⅴ - IRS](fr/Semester5-IRS/5.md) |
+| [Semester Ⅰ](Semester1/1.md )|[Semester Ⅲ - IOT](Semester3-IOT/3.md)|[Semester Ⅲ - IRS](Semester3-IRS/3.md)|
+| [Semester Ⅱ](Semester2/2.md)        |[Semester Ⅳ - IOT](Semester4-IOT/4.md)| [Semester Ⅳ - IRS](Semester4-IRS/4.md)|
+|         |[Semester Ⅴ - IOT](Semester5-IOT/5.md)| [Semester Ⅴ - IRS](Semester5-IRS/5.md) |
 
 
 
