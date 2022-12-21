@@ -5,7 +5,7 @@ It takes  time to thoroughly explore and collect the topics, and that often requ
 
 
 ###  Sharepoint
-Gladly, I started working during that time period, so I could use some of my office tools, so I created a sharepoint excel and sent the link to my classmates, asking them to contribute and help me collect different chapters.
+Gladly, I started working during that time period, so I could use some of my office tools, and I created a sharepoint excel and sent the link to my classmates, asking them to contribute and help me collect different chapters.
 
 <img src="assets/sharepoint.png" width="500">
 
