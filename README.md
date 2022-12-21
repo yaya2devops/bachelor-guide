@@ -5,7 +5,7 @@ Welcome to the documentation for our bachelor's degree project, a project entire
 
 As students ourselves, we understand the challenges that can come with starting a new learning journey. It can be overwhelming to try and navigate through a sea of information, not knowing where to start or what materials are essential. That's why we decided to take on this project - to create a resource that would make it easier for anyone to begin their learning without confusion or a lack of information.
 
-Our project aims to provide instant access to knowledge. We went through a lengthy process to achieve these objectives, which is still ongoing. You can view some of the events that occurred from [here](docs/inspirations.md).
+Our project aims to provide **instant access to knowledge.** We went through a lengthy process to achieve these objectives, which is still ongoing. You can view some of the events that occurred from [here](docs/inspirations.md).
 
 Some assets from a small portion of Behind the Scenes can be found in [this.](docs/behindascene/README.md)
 
