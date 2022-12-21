@@ -129,3 +129,10 @@ TO-DO
 | Resource in Fench/DZ/TN/Marroc or simillar in French zone (Docs/FR) Chapter-based  |   |  
 |  Web-page for univeristy schedule samples of all semesters <br> "schedule.computer-engineering.tech" |   | 
 |  Loading.. |   |  
+
+
+> 21/12/2022
+
+- Materials - table format improve!  done 
+- great readme for welcome GitHub include assets
+- start to feel the value :)
