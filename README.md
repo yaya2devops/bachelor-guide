@@ -61,16 +61,13 @@ From [here](docs/contributors.md), you can join the contributors.
 ## [Sharing Is Caring](https://forms.zohopublic.com/isticbc/form/Resources/formperma/1-4w1KAlQUkKxzvRsc2V688moUg8Ki1yM7fQVmrZpuQ?fbclid=IwAR1FDnq3LGfBSceGha03cWRwXUorw1WSEr_uuH7_egYI33ePVNUCJ0ylLJQ)
 We appreciate your presence; if you have something to posit, please use one of the approaches listed below.
 
-
-|     Email Adresses             |   Value                    |   
+|     Upload/Import Anything           |   [FILL-OUT **THIS FORM**](https://forms.zohopublic.com/isticbc/form/Resources/formperma/1-4w1KAlQUkKxzvRsc2V688moUg8Ki1yM7fQVmrZpuQ?fbclid=IwAR1FDnq3LGfBSceGha03cWRwXUorw1WSEr_uuH7_egYI33ePVNUCJ0ylLJQ)                   |
 |:--------                     |:--------                    | 
+|     Write  Us 👇          |   **Email Adresses**                 |   
 | Overall Project                | Improve@computer-engineering.Tech                     | 
 | IOT Specific               |  Yahya@computer-engineering.Tech                       | 
 | IRS Specific               | Jawher.Smida@computer-engineering.Tech                    | 
-
-
-|     Upload/Import Anything           |   [FILL-OUT **THIS FORM**](https://forms.zohopublic.com/isticbc/form/Resources/formperma/1-4w1KAlQUkKxzvRsc2V688moUg8Ki1yM7fQVmrZpuQ?fbclid=IwAR1FDnq3LGfBSceGha03cWRwXUorw1WSEr_uuH7_egYI33ePVNUCJ0ylLJQ)                   |   
-|:--------                     |:--------                    | 
+   
 
 
 
