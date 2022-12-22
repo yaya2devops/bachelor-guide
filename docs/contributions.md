@@ -26,6 +26,12 @@ If you have a specialty request, please write it to one of the email addresses b
 
 Furthermore, do you have something quick to share? Fill out this [form](https://forms.zohopublic.com/isticbc/form/Resources/formperma/1-4w1KAlQUkKxzvRsc2V688moUg8Ki1yM7fQVmrZpuQ?fbclid=IwAR1FDnq3LGfBSceGha03cWRwXUorw1WSEr_uuH7_egYI33ePVNUCJ0ylLJQ).
 ![Banner](images/latest1.png)
+
+# Summary, You can contribute using one of these options
+- Direct Email;
+- GitHub Pull request;
+- Fill the form and upload the requirements;
+
 ### Why are we doing this?
 I believe knowledge should be accessible to everyone. 
 
