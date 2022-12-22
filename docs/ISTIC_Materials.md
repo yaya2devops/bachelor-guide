@@ -5,21 +5,25 @@
 <img src="images/Drive/welc3.png">
 
 <br>
+<! --- 
+images/Drive/1.png
+images/Drive/3.png
+images/Drive/2.png
+ -->
+      
 
-
-
-|                                                       |    Semester 1               |   Semester 2          |
+|          Computer Engineering                                             |    Semester 1               |   Semester 2          |
 |:--------                                              |:--------:          |:--------:    |
-|   <img src="images/Drive/1.png" >                     |     [<img src="images/Drive/MAT.png" a>](https://drive.google.com/drive/folders/1gftTLJCmQZj167LFH59PvFvBQsE3ED48)               |        [<img src="images/Drive/MAT.png" alt="Wait for it!"  >](https://drive.google.com/drive/folders/1xcZRV-iIe5D_xBhW0YED2JXX6GLeAvAp)      |
+|          **Mutual**        |     [<img src="images/Drive/MAT.png" a>](https://drive.google.com/drive/folders/1gftTLJCmQZj167LFH59PvFvBQsE3ED48)               |        [<img src="images/Drive/MAT.png" alt="Wait for it!"  >](https://drive.google.com/drive/folders/1xcZRV-iIe5D_xBhW0YED2JXX6GLeAvAp)      |
 
 
-|                                                       |    Semester 3               |   Semester 4          | Semester 5 |
+|        Path 1                                               |    Semester 3               |   Semester 4          | Semester 5 |
 |:--------                                              |:--------:          |:--------:    |:--------:    |
-|  <img src="images/Drive/3.png" >                      |    [<img src="images/Drive/MAT.png" alt="Wait for it!"  >](https://drive.google.com/drive/folders/1JE-YKVxuEXXHk_7HxaPY-KQ4A4nKtoeV)              |        [<img src="images/Drive/MAT.png" alt="Wait for it!"  >](https://drive.google.com/drive/folders/1tUIBi8edWYZhlVXxGlEgLLAw5eDsayxn)      |  [<img src="images/Drive/MAT.png" alt="Wait for it!" >](https://drive.google.com/drive/folders/1iaA3hUW-RigsXSjlDPegekHv3UnvZlZX)    |
+|  **IOT & Embedded Systems**             |    [<img src="images/Drive/MAT.png" alt="Wait for it!"  >](https://drive.google.com/drive/folders/1JE-YKVxuEXXHk_7HxaPY-KQ4A4nKtoeV)              |        [<img src="images/Drive/MAT.png" alt="Wait for it!"  >](https://drive.google.com/drive/folders/1tUIBi8edWYZhlVXxGlEgLLAw5eDsayxn)      |  [<img src="images/Drive/MAT.png" alt="Wait for it!" >](https://drive.google.com/drive/folders/1iaA3hUW-RigsXSjlDPegekHv3UnvZlZX)    |
 
-|                                                       |    Semester 3               |   Semester 4          | Semester 5 |
+|     Path 2                                                   |    Semester 3               |   Semester 4          | Semester 5 |
 |:--------                                              |:--------:          |:--------:    |:--------:    |
-|  <img src="images/Drive/2.png" >                       |   [<img src="images/Drive/MAT.png" alt="Wait for it!"  >](https://drive.google.com/drive/folders/1vVGi6lDN0zFIEqgQ7gFasKp4YL27oivJ)               |       [<img src="images/Drive/MAT.png" alt="Wait for it!" >](https://drive.google.com/drive/folders/1F9LLbURNRJs_s7NxcsYDjedVG3PA4noz)       |    [<img src="images/Drive/MAT.png" alt="Wait for it!" >](https://drive.google.com/drive/folders/1frK3DmAr7aBpbCCZ_Dh2H0d2LjZuOgN6)    |
+|  **Network & Systems Engineering**                      |   [<img src="images/Drive/MAT.png" alt="Wait for it!"  >](https://drive.google.com/drive/folders/1vVGi6lDN0zFIEqgQ7gFasKp4YL27oivJ)               |       [<img src="images/Drive/MAT.png" alt="Wait for it!" >](https://drive.google.com/drive/folders/1F9LLbURNRJs_s7NxcsYDjedVG3PA4noz)       |    [<img src="images/Drive/MAT.png" alt="Wait for it!" >](https://drive.google.com/drive/folders/1frK3DmAr7aBpbCCZ_Dh2H0d2LjZuOgN6)    |
 
 
 
