@@ -9,7 +9,7 @@ Hey there, and I hope this has been helpful in your studies. The project is cons
 ![Banner](images/banner.png)
 
 
-
+> [Learn more about the project](https://github.com/Y4HYA4/TheRealBachelorsDocs#readme)
 
 
 
