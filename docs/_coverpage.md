@@ -11,8 +11,12 @@
  <p align="center">
   <img src="images/covermainv2.png" alt="Sublime's custom image"/>
 </p>
-<h1 style="font-weight: 400;font-size: 16px;">The website has been viewed <b><span id="visits"></span> times</b>.</h1>
+
+| Visitors      | <span id="visits"></span>  |
+| ----------- | ----------- |
 
 [GitHub](https://github.com/Y4HYA4/TheRealBachelorsDocs/)
 [Start Exploring!](README.md)
 
+
+<h1 style="font-weight: 400;font-size: 16px;">The website has been viewed <b><span id="visits"></span> times</b>.</h1>
