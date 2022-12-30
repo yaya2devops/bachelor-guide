@@ -1,4 +1,7 @@
 # [Guide to Computer Engineering ](https://istic.computer-engineering.tech/#/)
+
+> ⚠️ READ THIS IN [FRENCH NOW](FR-README.md)
+
 ![Banner](docs/images/mainreadme.gif)
 
 Welcome to the documentation for our bachelor's degree project, a project entirely driven by students with the goal of providing comprehensive and accessible learning materials.
