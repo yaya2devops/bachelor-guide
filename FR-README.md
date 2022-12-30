@@ -1,4 +1,4 @@
-# [Guide de l'ingénierie informatique](https://istic.computer-engineering.tech/#/)
+# [Guide de l'ingénierie informatique](https://istic.computer-engineering.tech/#/fr/)
 ![Bannière](docs/images/mainreadme.gif)
 
 Bienvenue dans la documentation de notre projet de **licence**, un projet entièrement piloté par des étudiants dans le but de fournir des supports d'apprentissage complets et accessibles.
