@@ -12,7 +12,7 @@
   <img src="images/covermainv2.png" alt="Sublime's custom image"/>
 </p>
 
-<h1 style="font-weight: 430;font-size: 20px;">The website has been viewed <b><span id="visits"></span> times</b>.</h1>
+<h1 style="font-weight: 400;font-size: 16px;">The website has been viewed <b><span id="visits"></span> times</b>.</h1>
 
 
 [GitHub](https://github.com/Y4HYA4/TheRealBachelorsDocs/)
