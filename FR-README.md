@@ -11,7 +11,7 @@ Tout au long de ce projet, nous avons été confrontés à un certain nombre de 
 
 Plus de laboratoires peuvent être trouvés [ici](https://github.com/Y4HYA4/UniversityLabs#readme).
 
-Le reste de ce document est organisé en semestres, sujets, chapitres et logiciels pratiques. Nous espérons qu'en suivant cette structure, vous serez en mesure de naviguer facilement dans les informations que nous avons fournies et d'acquérir une compréhension globale du diplôme. Veuillez vous référer à la [barre latérale](https://github.com/Y4HYA4/TheRealBachelorsDocs/blob/main/docs/_sidebar.md).
+Le reste de ce document est organisé en semestres, sujets, chapitres et logiciels pratiques. Nous espérons qu'en suivant cette structure, vous serez en mesure de naviguer facilement dans les informations que nous avons fournies et d'acquérir une compréhension globale du diplôme. Veuillez vous référer à la [barre latérale](https://github.com/Y4HYA4/TheRealBachelorsDocs/blob/main/docs/fr/_sidebar.md).
 
 Nous sommes convaincus que notre projet sera une ressource précieuse pour tous ceux qui cherchent à commencer leur parcours d'apprentissage, et nous espérons qu'il contribuera à rendre le processus un peu plus facile et moins déroutant. <br><br>
 Nous le ferons avec ces citations à l'esprit.
