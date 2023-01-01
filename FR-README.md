@@ -64,6 +64,6 @@ Nous apprécions votre présence; si vous avez quelque chose à dire, veuillez u
 | Télécharger/Importer n'importe quoi | [REMPLISSEZ **CE FORMULAIRE**](https://forms.zohopublic.com/isticbc/form/Resources/formperma/1-4w1KAlQUkKxzvRsc2V688moUg8Ki1yM7fQVmrZpuQ?fbclid=IwAR1FDnq3LGfBSceGha03cWRwXUorw1WSEr_uuH7_egYI33ePVJNUCJ0) |
 |:-------- |:-------- |
 | Écrivez-nous 👇 | **Adresses e-mail** |
-| Projet global | Améliorer@ingénierie-informatique.Tech |
+| Projet global | Improve@computer-engineering.Tech |
 | Spécifique IOT | Yahya@computer-engineering.Tech |
 | Spécifique IRS | Jawher.Smida@computer-engineering.Tech |
