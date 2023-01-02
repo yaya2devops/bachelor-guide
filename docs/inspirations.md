@@ -136,3 +136,13 @@ TO-DO
 - Materials - table format improve!  done 
 - great readme for welcome GitHub include assets
 - start to feel the value :)
+
+
+> 02/01/2023
+
+- Happy new year still going :)
+- timesheet intern to PDF
+- check intern page (pics and translate to french fully)
+- contribution page to FR
+
+
