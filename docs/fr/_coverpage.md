@@ -5,7 +5,7 @@
   <img src="fr/FrenchAssets/frv2.png" width="120" height="120" alt="Sublime's custom image"/>
 </p>
 
-# Docs Licence<small>v2</small>
+# Guide Licence<small>v2</small>
 
 
  <p align="center">
