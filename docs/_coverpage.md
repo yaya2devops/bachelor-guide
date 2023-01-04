@@ -5,7 +5,7 @@
   <img src="images/env3.png" width="120" height="120" alt="Sublime's custom image"/>
 </p>
 
-# BACHELOR Docs<small>v2</small>
+# BACHELOR Guide<small>v2</small>
 
 
  <p align="center">
