@@ -10,6 +10,8 @@ As students ourselves, we understand the challenges that can come with starting 
 
 Our project aims to provide **instant access to knowledge.** We went through a lengthy process to achieve these objectives, which is still ongoing. You can view some of the events that occurred from [here](docs/inspirations.md).
 
+You can find the [older version]() that may inspire you.
+
 Some assets from a small portion of Behind the Scenes can be found in [this.](docs/behindascene/README.md)
 
 Throughout the course of this project, we faced a number of challenges since most students still don't like the idea of sharing their work for the sake of open source, and I had to explain the vision and the value earned. Despite these challenges, we were able to make significant progress and provide a substantial amount of materials along the structure I designed myself to make the path more clear. Some of the most significant results and findings of our project include required documents for all semesters in drive format, as well as a plethora of hands-on lab instructions that students can follow. More labs can be found [here](https://github.com/Y4HYA4/UniversityLabs#readme)
