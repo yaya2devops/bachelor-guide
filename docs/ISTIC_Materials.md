@@ -30,15 +30,21 @@ images/Drive/2.png
 
 ## Students Initiatives
 
-|Bonus Section |  **Computer Science** | **LGLSI 1 & 2:** ISTIC & ISI | LGLSI-2| LGLSI-3|**Universities**: <br>FCB, INSAT, ISIMA, ISITCOM|  Other Projects|  Add Yours HERE.|
-|:--------                              |:--------:                   | :--------:     | :--------:   | :--------:                    | :--------:                    | :--------: |:--------: |
-| **Contributions**|[<img src="images/Drive/bonus.png" >](https://drive.google.com/drive/folders/18q7I3J1gnf0OZArdA6DRdQ6131aRqwhj)  | [<img src="images/Drive/bonus.png" alt="Wait for it!" >](https://drive.google.com/drive/folders/1k9Bv44BFTeQjC0KC4iqmyOvZ4KPVE0AC)|[<img src="images/Drive/bonus.png" alt="Wait for it!" >](https://drive.google.com/drive/folders/17jYEOIhGvFb5DmFfxKj1-a7tEKsscOv3?fbclid=IwAR1zYDwXnHgmloUFA2r1DmtC1Tvt552arlDXWE7eCXceBpZU0zCDP2yslPs) |  [<img src="images/Drive/bonus.png" alt="Wait for it!" >](https://drive.google.com/drive/folders/1ilzdb-gr3uz8fiQ8bZOaG1J2Pl7F74wY) | [<img src="images/Drive/bonus.png" alt="Wait for it!" >](https://drive.google.com/drive/folders/1RpN-5HgroMFZil3w37JVkZMd7x5B8qtK) | [LGLSI Project](https://lglsi-3b.web.app/)|[Waiting for you!](contributions.md#contribution-options) |  
+|Bonus Section |  **Computer Science** | **LGLSI 1 & 2:** ISTIC & ISI | LGLSI-2| LGLSI-3|**Universities**: <br>FCB, INSAT, ISIMA, ISITCOM| End of Study Sample Projects |Sample Presentations|Other Projects|  Add Yours HERE.|
+|:--------                              |:--------:                   | :--------:     | :--------:   | :--------:                    | :--------:    | :--------:             | :--------:   | :--------: |:--------: |
+| **Contributions**|[<img src="images/Drive/bonus.png" >](https://drive.google.com/drive/folders/18q7I3J1gnf0OZArdA6DRdQ6131aRqwhj)  | [<img src="images/Drive/bonus.png" alt="Wait for it!" >](https://drive.google.com/drive/folders/1k9Bv44BFTeQjC0KC4iqmyOvZ4KPVE0AC)|[<img src="images/Drive/bonus.png" alt="Wait for it!" >](https://drive.google.com/drive/folders/17jYEOIhGvFb5DmFfxKj1-a7tEKsscOv3?fbclid=IwAR1zYDwXnHgmloUFA2r1DmtC1Tvt552arlDXWE7eCXceBpZU0zCDP2yslPs) |  [<img src="images/Drive/bonus.png" alt="Wait for it!" >](https://drive.google.com/drive/folders/1ilzdb-gr3uz8fiQ8bZOaG1J2Pl7F74wY) | [<img src="images/Drive/bonus.png" alt="Wait for it!" >](https://drive.google.com/drive/folders/1RpN-5HgroMFZil3w37JVkZMd7x5B8qtK) |🖱️[PFE 2022](https://drive.google.com/drive/folders/1DBWnLCZq-RNfXJa_IEVvRgq9ilqLpckW)<br> 🖱️[PFE 2023](https://drive.google.com/drive/folders/10o9zI8VqP6nhGJhYiKJajm3VVn4VXPs4)  |[Examples](https://drive.google.com/drive/u/0/folders/1bTb1DsvfFpx5a7e7dF1MxciMTy_2t_f7?sort=13&direction=a)| [LGLSI Project](https://lglsi-3b.web.app/)|[Waiting for you!](contributions.md#contribution-options) |  
 
 
 
-# Important Notice: Please Read Before Continuing
+---
+
+# Important Notice
+## Please Read Before Continuing
+
 We are delighted to be able to provide  students with an ever-growing archive of materials that can help them in their studies. By expanding the range of resources available, we hope to give students more choice and autonomy when it comes to deciding which materials best fit their course curriculum. 
 Please feel free to contribute your material in order to increase the overall value. <br>
+<br>
+
 [For more information..](contributions.md)
 
 
