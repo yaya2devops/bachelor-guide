@@ -145,4 +145,9 @@ TO-DO
 - check intern page (pics and translate to french fully)
 - contribution page to FR
 
+> 1/09/2023
+
+- fix discord link
+- include twitter
+
 
