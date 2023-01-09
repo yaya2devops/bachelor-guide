@@ -42,7 +42,7 @@ images/Drive/2.png
 ## Please Read Before Continuing
 
 We are delighted to be able to provide  students with an ever-growing archive of materials that can help them in their studies. By expanding the range of resources available, we hope to give students more choice and autonomy when it comes to deciding which materials best fit their course curriculum. 
-Please feel free to contribute your material in order to increase the overall value. <br>
+**Please feel free to contribute your material in order to increase the overall value**. <br>
 <br>
 
 [For more information..](contributions.md)
