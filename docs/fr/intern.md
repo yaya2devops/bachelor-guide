@@ -7,7 +7,7 @@ Après avoir terminé la deuxième année et 4 semestres de réussite, l'étudia
 ![BRANCH_INSIGHT](FrenchAssets/stage.png)
 ### Documents à considérer
 - [Modèle de Convention de stage d'été](https://github.com/Y4HYA4/TheRealBachelorsDocs/blob/main/docs/images/InternsAssets/Convention-Stage-ete.pdf)
-- [Modèle de feuille de temps](https://github.com/Y4HYA4/TheRealBachelorsDocs/blob/main/docs/images/InternsAssets/Journal-de-stage.docx)
+- [Modèle de feuille de temps](https://github.com/Y4HYA4/TheRealBachelorsDocs/blob/main/docs/images/InternsAssets/Journal-de-stage.pdf)
 - [Exemple d'Attestation de stage](images/InternsAssets/certificate.md)
 - [Rapport de stage](https://github.com/Y4HYA4/ExperienceInCloud/tree/main/First_InternReport#internship-report-at-linedata)
 
