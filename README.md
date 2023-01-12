@@ -74,5 +74,18 @@ We appreciate your presence; if you have something to posit, please use one of t
 | IRS Specific               | Jawher.Smida@computer-engineering.Tech                    | 
    
 
+## Contributors
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+
+[![All Contributors](https://img.shields.io/github/all-contributors/Y4HYA4/Bachelor-Guide?color=ee8449&style=flat-square)](#contributors)
 
 
