@@ -1,7 +1,5 @@
 # [Guide to Computer Engineering ](https://istic.computer-engineering.tech/#/)
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
+
 
 > ⚠️ READ THIS IN [FRENCH NOW](FR-README.md)
 
@@ -77,7 +75,7 @@ We appreciate your presence; if you have something to posit, please use one of t
 | IRS Specific               | Jawher.Smida@computer-engineering.Tech                    | 
    
 
-## Contributors
+<details><summary> Contributors</summary>
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
@@ -104,4 +102,7 @@ We appreciate your presence; if you have something to posit, please use one of t
 
 
 
-
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
+</details>
