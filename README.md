@@ -103,6 +103,5 @@ We appreciate your presence; if you have something to posit, please use one of t
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 
-[![All Contributors](https://img.shields.io/github/all-contributors/Y4HYA4/Bachelor-Guide?color=ee8449&style=flat-square)](#contributors)
 
 
