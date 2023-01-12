@@ -1,4 +1,7 @@
 # [Guide to Computer Engineering ](https://istic.computer-engineering.tech/#/)
+
+> ⚠️ READ THIS IN [FRENCH NOW](FR-README.md)
+
 ![Banner](docs/images/mainreadme.gif)
 
 Welcome to the documentation for our bachelor's degree project, a project entirely driven by students with the goal of providing comprehensive and accessible learning materials.
@@ -6,6 +9,8 @@ Welcome to the documentation for our bachelor's degree project, a project entire
 As students ourselves, we understand the challenges that can come with starting a new learning journey. It can be overwhelming to try and navigate through a sea of information, not knowing where to start or what materials are essential. That's why we decided to take on this project - to create a resource that would make it easier for anyone to begin their learning without confusion or a lack of information.
 
 Our project aims to provide **instant access to knowledge.** We went through a lengthy process to achieve these objectives, which is still ongoing. You can view some of the events that occurred from [here](docs/inspirations.md).
+
+You can find the [older version](https://y4hya4.github.io/BETA_BachelorsDocs/#/) that may inspire you.
 
 Some assets from a small portion of Behind the Scenes can be found in [this.](docs/behindascene/README.md)
 
@@ -25,7 +30,7 @@ We'll do it with these quotes in mind.
 Continue to look through the docs folder.
 Simply shoot the necessary file(s) **.md** after having it forked in your local machine when thinking about contributing.
 
-- [Why we think this is important?](https://istic.computer-engineering.tech/?#/ISTIC_Materials?id=important-notice-please-read-before-continuing)
+- [Why we think this is important?](docs/ISTIC_Materials.md#important-notice)
 
 
 ``` 

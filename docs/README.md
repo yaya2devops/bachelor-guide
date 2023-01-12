@@ -1,7 +1,7 @@
 
 ---
 
-# ISTIC | Computer Engineering
+# GUIDE | Computer Engineering
 
 ![BRANCH_INSIGHT](images/Curriculum/CircEN.png)
 
