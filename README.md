@@ -30,7 +30,7 @@ We'll do it with these quotes in mind.
 Continue to look through the docs folder.
 Simply shoot the necessary file(s) **.md** after having it forked in your local machine when thinking about contributing.
 
-- [Why we think this is important?](https://istic.computer-engineering.tech/?#/ISTIC_Materials?id=important-notice-please-read-before-continuing)
+- [Why we think this is important?](docs/ISTIC_Materials.md#important-notice)
 
 
 ``` 
