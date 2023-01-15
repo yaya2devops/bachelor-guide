@@ -5,7 +5,9 @@ Bienvenue dans la documentation de notre projet de **licence**, un projet entiè
 
 En tant qu'étudiants nous-mêmes, nous comprenons les défis qui peuvent survenir au début d'un nouveau parcours d'apprentissage. Il peut être écrasant d'essayer de naviguer dans une mer d'informations, sans savoir par où commencer ni quels matériaux sont essentiels. C'est pourquoi nous avons décidé d'entreprendre ce projet - créer une ressource qui permettrait à quiconque de commencer plus facilement son apprentissage sans confusion ni manque d'informations.
 
-Notre projet vise à fournir un **accès instantané à la connaissance.** Nous avons suivi un long processus pour atteindre ces objectifs, qui est toujours en cours. Vous pouvez voir certains des événements qui se sont produits depuis [ici](docs/inspirations.md).
+Notre projet vise à fournir un **accès instantané à la connaissance.** Nous avons suivi un long processus pour atteindre ces objectifs, qui est toujours en cours. 
+
+Vous pouvez voir certains des événements qui se sont produits depuis [ici](docs/inspirations.md).
 
 Vous pouvez trouver l'[ancienne version](https://y4hya4.github.io/BETA_BachelorsDocs/#/) qui pourrait vous inspirer.
 
@@ -15,7 +17,9 @@ Tout au long de ce projet, nous avons été confrontés à un certain nombre de 
 
 Plus de laboratoires peuvent être trouvés [ici](https://github.com/Y4HYA4/UniversityLabs#readme).
 
-Le reste de ce document est organisé en semestres, sujets, chapitres et logiciels pratiques. Nous espérons qu'en suivant cette structure, vous serez en mesure de naviguer facilement dans les informations que nous avons fournies et d'acquérir une compréhension globale du diplôme. Veuillez vous référer à la [barre latérale](https://github.com/Y4HYA4/TheRealBachelorsDocs/blob/main/docs/fr/_sidebar.md).
+Le reste de ce document est organisé en semestres, sujets, chapitres et logiciels pratiques. Nous espérons qu'en suivant cette structure, vous serez en mesure de naviguer facilement dans les informations que nous avons fournies et d'acquérir une compréhension globale du diplôme. 
+
+Veuillez vous référer à la [barre latérale](https://github.com/Y4HYA4/TheRealBachelorsDocs/blob/main/docs/fr/_sidebar.md).
 
 Nous sommes convaincus que notre projet sera une ressource précieuse pour tous ceux qui cherchent à commencer leur parcours d'apprentissage, et nous espérons qu'il contribuera à rendre le processus un peu plus facile et moins déroutant. <br><br>
 Nous le ferons avec ces citations à l'esprit.
