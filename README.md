@@ -85,7 +85,7 @@ We appreciate your presence; if you have something to posit, please use one of t
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/BytM3"><img src="https://avatars.githubusercontent.com/u/91340529?v=4?s=100" width="100px;" alt="ByteM3"/><br /><sub><b>ByteM3</b></sub></a><br /><a href="https://github.com/Y4HYA4/Bachelor-Guide/commits?author=BytM3" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/BytM3"><img src="https://avatars.githubusercontent.com/u/91340529?v=4?s=100" width="100px;" alt="ByteM3"/><br /><sub><b>ByteM3</b></sub></a><br /><a href="https://github.com/Y4HYA4/Bachelor-Guide/commits?author=BytM3" title="Documentation">📖</a> <a href="#content-BytM3" title="Content">🖋</a></td>
     </tr>
   </tbody>
 </table>
