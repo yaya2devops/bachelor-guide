@@ -28,10 +28,14 @@ The asset below depicts the proctoring methodology used for each semester.
 - **3:** Final exams, which play the most important role in the semester's success.
 ![Photo of Semester](images/enstructure.png)
 
-# Professional Experience
-Students are required to have at least two internships. Internships provide students with the opportunity to gain experience in their field of interest and to develop professional skills. 
+# Professional Experience: Internship
+Students are required to have at least **two** **internships**. Internships provide students with the opportunity to gain experience in their field of interest and to develop professional skills. 
 ![Interns](images/intern.png)
-For more information on internships, please see [this page](https://istic.computer-engineering.tech/#/intern).
+
+|       |Required Internships|
+| :-----------: | :-----------: |
+|Mandatory Intern1:|[Summer Internship](https://istic.computer-engineering.tech/#/intern)|
+|Mandatory Intern2:| End-of-study Internship|
 
 # Get Started
 

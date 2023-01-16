@@ -1,28 +1,31 @@
-## Contributors
+<details><summary> Contributors</summary>
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
 <table>
-<tr>
-    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
-        <a href=https://github.com/Y4HYA4>
-            <img src=https://avatars.githubusercontent.com/u/87914378?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Yahya Abulhaj/>
-            <br />
-            <sub style="font-size:14px"><b>Yahya Abulhaj</b></sub>
-        </a>
-    </td>
-    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
-        <a href=https://github.com/BytM3>
-            <img src=https://avatars.githubusercontent.com/u/91340529?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Jawher Smida/>
-            <br />
-            <sub style="font-size:14px"><b>Jawher Smida</b></sub>
-        </a>
-    </td>
-  <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
-        <a href=https://github.com/siwardakhlaoui>
-            <img src=https://avatars.githubusercontent.com/u/95567489?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Siwar Dakhlaoui/>
-            <br />
-            <sub style="font-size:14px"><b>Siwar Dakhlaoui</b></sub>
-        </a>
-    </td>
-    
-</tr>
-</table> 
-<br>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/BytM3"><img src="https://avatars.githubusercontent.com/u/91340529?v=4?s=100" width="100px;" alt="ByteM3"/><br /><sub><b>ByteM3</b></sub></a><br /><a href="https://github.com/Y4HYA4/Bachelor-Guide/commits?author=BytM3" title="Documentation">📖</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+
+
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
+</details>
