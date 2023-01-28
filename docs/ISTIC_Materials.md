@@ -12,10 +12,10 @@ images/Drive/2.png
  -->
       
 
-|          Computer Engineering                                             |    Semester 1               |   Semester 2          |
-|:--------                                              |:--------:          |:--------:    |
-|          **Mutual**        |     [<img src="images/Drive/MAT.png" a>](https://drive.google.com/drive/folders/1gftTLJCmQZj167LFH59PvFvBQsE3ED48)               |        [<img src="images/Drive/MAT.png" alt="Wait for it!"  >](https://drive.google.com/drive/folders/1xcZRV-iIe5D_xBhW0YED2JXX6GLeAvAp)      |
-
+|          Computer Engineering                                             |    Semester 1               |   Semester 2          | Get Going|
+|:--------                                              |:--------:          |:--------:    |:--------:    |
+|          **Mutual**        |     [<img src="images/Drive/MAT.png" a>](https://drive.google.com/drive/folders/1gftTLJCmQZj167LFH59PvFvBQsE3ED48)               |        [<img src="images/Drive/MAT.png" alt="Wait for it!"  >](https://drive.google.com/drive/folders/1xcZRV-iIe5D_xBhW0YED2JXX6GLeAvAp)      | [Hands-on Labs](https://yaya2devops.github.io/UniversityLabs/)|
+ 
 
 |        Path 1                                               |    Semester 3               |   Semester 4          | Semester 5 |
 |:--------                                              |:--------:          |:--------:    |:--------:    |
@@ -24,7 +24,6 @@ images/Drive/2.png
 |     Path 2                                                   |    Semester 3               |   Semester 4          | Semester 5 |
 |:--------                                              |:--------:          |:--------:    |:--------:    |
 |  **Network & Systems Engineering**                      |   [<img src="images/Drive/MAT.png" alt="Wait for it!"  >](https://drive.google.com/drive/folders/1vVGi6lDN0zFIEqgQ7gFasKp4YL27oivJ)               |       [<img src="images/Drive/MAT.png" alt="Wait for it!" >](https://drive.google.com/drive/folders/1F9LLbURNRJs_s7NxcsYDjedVG3PA4noz)       |    [<img src="images/Drive/MAT.png" alt="Wait for it!" >](https://drive.google.com/drive/folders/1frK3DmAr7aBpbCCZ_Dh2H0d2LjZuOgN6)    |
-
 
 
 
