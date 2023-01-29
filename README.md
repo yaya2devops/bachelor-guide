@@ -19,7 +19,7 @@ Some assets from a small portion of Behind the Scenes can be found in [this.](do
 
 Throughout the course of this project, we faced a number of challenges since most students still don't like the idea of sharing their work for the sake of open source, and I had to explain the vision and the value earned. Despite these challenges, we were able to make significant progress and provide a substantial amount of materials along the structure I designed myself to make the path more clear. Some of the most significant results and findings of our project include required documents for all semesters in drive format, as well as a plethora of hands-on lab instructions that students can follow.
 
-More labs can be found [here](https://github.com/Y4HYA4/UniversityLabs#readme)
+More labs can be found [here](https://yaya2devops.github.io/UniversityLabs/)
 
 The rest of this document is organized into Semesters, subjects, chapters and Hands-on software. We hope that by following this structure, you will be able to easily navigate through the information we have provided and gain a comprehensive understanding of the degree. 
 
