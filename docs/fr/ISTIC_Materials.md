@@ -16,7 +16,7 @@ images/Drive/2.png
 
 |          Ingénierie informatique                                           |    Semestre 1              |  Semestre 2     | Être en avance. Commencer.   |
 |:--------                                                                  |:--------:                   |:--------:             |:--------:    |
-|          **Mutual**        |     [<img src="../images/Drive/MAT.png" a>](https://drive.google.com/drive/folders/1gftTLJCmQZj167LFH59PvFvBQsE3ED48)               |        [<img src="../images/Drive/MAT.png" alt="Wait for it!"  >](https://drive.google.com/drive/folders/1xcZRV-iIe5D_xBhW0YED2JXX6GLeAvAp)      | [Laboratoires Pratiques](https://yaya2devops.github.io/UniversityLabs/) |
+|          **Mutuel**        |     [<img src="../images/Drive/MAT.png" a>](https://drive.google.com/drive/folders/1gftTLJCmQZj167LFH59PvFvBQsE3ED48)               |        [<img src="../images/Drive/MAT.png" alt="Wait for it!"  >](https://drive.google.com/drive/folders/1xcZRV-iIe5D_xBhW0YED2JXX6GLeAvAp)      | [Laboratoires Pratiques](https://yaya2devops.github.io/UniversityLabs/) |
  
 
 |       Spécialité 1                                      |    Semestre 3               |   Semestre 4          | Semestre 5 |
