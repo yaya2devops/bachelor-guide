@@ -2,8 +2,7 @@
 <br>
 <br>
     
-<img src="../images/Drive/bienvenu.png">
-
+<img src="../images/Drive/frban.png">
 
 <br>
 <! --- 
