@@ -2,7 +2,7 @@
 <br>
 <br>
     
-<img src="../images/Drive/welc3.png">
+<img src="../images/Drive/bienvenu.png">
 
 
 <br>
@@ -36,6 +36,10 @@ images/Drive/2.png
 | **Contributions**|[<img src="../images/Drive/bonus.png" >](https://drive.google.com/drive/folders/18q7I3J1gnf0OZArdA6DRdQ6131aRqwhj)  | [<img src="../images/Drive/bonus.png"   alt="Wait for it!" >](https://drive.google.com/drive/folders/1k9Bv44BFTeQjC0KC4iqmyOvZ4KPVE0AC)|[<img src="../images/Drive/bonus.png" alt="Wait for it!" >](https://drive.google.com/drive/folders/17jYEOIhGvFb5DmFfxKj1-a7tEKsscOv3?fbclid=IwAR1zYDwXnHgmloUFA2r1DmtC1Tvt552arlDXWE7eCXceBpZU0zCDP2yslPs) |  [<img src="../images/Drive/bonus.png" alt="Wait for it!" >](https://drive.google.com/drive/folders/1ilzdb-gr3uz8fiQ8bZOaG1J2Pl7F74wY) | [<img src="../images/Drive/bonus.png" alt="Wait for it!" >](https://drive.google.com/drive/folders/1RpN-5HgroMFZil3w37JVkZMd7x5B8qtK) |[🖱PFE2022](https://drive.google.com/drive/folders/1DBWnLCZq-RNfXJa_IEVvRgq9ilqLpckW)<br> [🖱PFE2023](https://drive.google.com/drive/folders/10o9zI8VqP6nhGJhYiKJajm3VVn4VXPs4)  |[Examples](https://drive.google.com/drive/u/0/folders/1bTb1DsvfFpx5a7e7dF1MxciMTy_2t_f7?sort=13&direction=a)| [LGLSI Project](https://lglsi-3b.web.app/)|[Waiting for you!](contributions.md#contribution-options) |  
 
 
+<div style="text-align: center;">     
+<a href="https://istic.computer-engineering.tech/#/ISTIC_Materials" style="background-color: #0861d6; color: white; padding: 7px 5px; border-radius: 5px; text-decoration: none;"> Get More Clarity By Revisiting Our English Page.</a>
+</div>
+
 ---
 
 # Avis important
@@ -52,8 +56,5 @@ Nous sommes ravis de pouvoir fournir aux étudiants une archive toujours croissa
 
 > Merci à tous ceux qui ont contribué à rendre cette sélection possible. Bonne chance à vous! 🍀
 
-<div style="text-align: center;">     
-<a href="https://istic.computer-engineering.tech/#/ISTIC_Materials" style="background-color: #0861d6; color: white; padding: 7px 5px; border-radius: 5px; text-decoration: none;"> Check English Back.</a>
-</div>
 
 

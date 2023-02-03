@@ -19,7 +19,7 @@ images/Drive/2.png
 |          **Mutual**        |     [<img src="images/Drive/MAT.png" a>](https://drive.google.com/drive/folders/1gftTLJCmQZj167LFH59PvFvBQsE3ED48)               |        [<img src="images/Drive/MAT.png" alt="Wait for it!"  >](https://drive.google.com/drive/folders/1xcZRV-iIe5D_xBhW0YED2JXX6GLeAvAp)      | [Hands-on Labs](https://yaya2devops.github.io/UniversityLabs/) |
  
 <div style="text-align: center;">     
-<a href="https://istic.computer-engineering.tech/#/fr/ISTIC_Materials" style="background-color: #0861d6; color: white; padding: 7px 10px; border-radius: 5px; text-decoration: none;">Disponible en français - Cliquez maintenant.</a>
+<a href="https://istic.computer-engineering.tech/#/fr/ISTIC_Materials" style="background-color: #0861d6; color: white; padding: 9px 15px; border-radius: 5px; text-decoration: none;">Disponible en français - Cliquez maintenant.</a>
 </div>
 
 <br> 
