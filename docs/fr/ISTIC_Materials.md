@@ -37,7 +37,7 @@ images/Drive/2.png
 
 
 <div style="text-align: center;">     
-<a href="https://istic.computer-engineering.tech/#/ISTIC_Materials" style="background-color: #0861d6; color: white; padding: 7px 5px; border-radius: 5px; text-decoration: none;"> Get More Clarity By Revisiting Our English Page.</a>
+<a href="https://istic.computer-engineering.tech/#/ISTIC_Materials" style="background-color: #0861d6; color: white; padding: 7px 5px; border-radius: 5px; text-decoration: none;"> Revisit Our English Page.</a>
 </div>
 
 ---
