@@ -12,9 +12,9 @@ images/Drive/2.png
  -->
       
 
-|          Computer Engineering                                             |    Semester 1               |   Semester 2          | Get Going|
-|:--------                                              |:--------:          |:--------:    |:--------:    |
-|          **Mutual**        |     [<img src="images/Drive/MAT.png" a>](https://drive.google.com/drive/folders/1gftTLJCmQZj167LFH59PvFvBQsE3ED48)               |        [<img src="images/Drive/MAT.png" alt="Wait for it!"  >](https://drive.google.com/drive/folders/1xcZRV-iIe5D_xBhW0YED2JXX6GLeAvAp)      | [Hands-on Labs](https://yaya2devops.github.io/UniversityLabs/)|
+|          Computer Engineering                                             |    Semester 1               |   Semester 2          | Be Early. Start.    |
+|:--------                                                                  |:--------:                   |:--------:             |:--------:    |
+|          **Mutual**        |     [<img src="images/Drive/MAT.png" a>](https://drive.google.com/drive/folders/1gftTLJCmQZj167LFH59PvFvBQsE3ED48)               |        [<img src="images/Drive/MAT.png" alt="Wait for it!"  >](https://drive.google.com/drive/folders/1xcZRV-iIe5D_xBhW0YED2JXX6GLeAvAp)      | [Hands-on Labs](https://yaya2devops.github.io/UniversityLabs/) |
  
 
 |        Path 1                                               |    Semester 3               |   Semester 4          | Semester 5 |
