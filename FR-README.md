@@ -9,7 +9,7 @@ Notre projet vise à fournir un **accès instantané à la connaissance.** Nous 
 
 Vous pouvez voir certains des événements qui se sont produits depuis [ici](docs/inspirations.md).
 
-Vous pouvez trouver l'[ancienne version](https://y4hya4.github.io/BETA_BachelorsDocs/#/) qui pourrait vous inspirer.
+Vous pouvez trouver l'[ancienne version](https://yaya2devops.github.io/BETA_BachelorsDocs/#/) qui pourrait vous inspirer.
 
 Certains éléments d'une petite partie de Behind the Scenes peuvent être trouvés dans [this.](docs/behindascene/README.md)
 
