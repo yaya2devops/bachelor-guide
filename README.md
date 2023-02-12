@@ -13,7 +13,7 @@ Our project aims to provide **instant access to knowledge.** We went through a l
 
 You can view some of the events that occurred from [here](docs/inspirations.md).
 
-You can find the [older version](https://y4hya4.github.io/BETA_BachelorsDocs/#/) that may inspire you.
+You can find the [older version](https://yaya2devops.github.io/BETA_BachelorsDocs/#/) that may inspire you.
 
 Some assets from a small portion of Behind the Scenes can be found in [this.](docs/behindascene/README.md)
 
