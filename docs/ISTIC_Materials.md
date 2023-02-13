@@ -19,7 +19,11 @@ images/Drive/2.png
 |          **Mutual**        |     [<img src="images/Drive/MAT.png" a>](https://drive.google.com/drive/folders/1gftTLJCmQZj167LFH59PvFvBQsE3ED48)               |        [<img src="images/Drive/MAT.png" alt="Wait for it!"  >](https://drive.google.com/drive/folders/1xcZRV-iIe5D_xBhW0YED2JXX6GLeAvAp)      | [Hands-on Labs](https://yaya2devops.github.io/UniversityLabs/) |
  
 <div style="text-align: center;">     
-<a href="https://istic.computer-engineering.tech/#/fr/ISTIC_Materials" style="background-color: #0861d6; color: white; padding: 9px 15px; border-radius: 5px; text-decoration: none;">Disponible en français.</a>
+<a href="https://istic.computer-engineering.tech/#/fr/ISTIC_Materials" style="background-color: #0861d6; color: white; padding: 9px 15px; border-radius: 5px; text-decoration: none;">Disponible En Français.</a>
+</div>
+ 
+<div style="text-align: left;">     
+<a href="https://forms.zohopublic.com/isticbc/form/Resources/formperma/1-4w1KAlQUkKxzvRsc2V688moUg8Ki1yM7fQVmrZpuQ?fbclid=IwAR1FDnq3LGfBSceGha03cWRwXUorw1WSEr_uuH7_egYI33ePVNUCJ0ylLJQ" style="background-color: #0861d6; color: white; padding: 9px 15px; border-radius: 5px; text-decoration: none;">Help Us Improve</a>
 </div>
 
 <br> 
