@@ -27,7 +27,7 @@ Kindly, refer to the [sidebar](https://github.com/Y4HYA4/TheRealBachelorsDocs/bl
 
 We are confident that our project will be a valuable resource for anyone looking to start their learning journey, and we hope it helps to make the process a little easier and less confusing. <br><br>
 We'll do it with these quotes in mind.
-
+ 
 > “Share your knowledge. It is a way to achieve immortality.”  –Dalai Lama
 
 > “Every addition to true knowledge is an addition to human power.” –Horace Mann
