@@ -156,3 +156,10 @@ TO-DO
 - banner fr archive re design
 - mmutual now
 
+> 16/02/2023
+
+to be added to labs assets
+- linux exam work 2022/2022/2023
+- AI and ML work
+- all the work made during revision is delivered as required
+
