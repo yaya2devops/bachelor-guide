@@ -1,7 +1,7 @@
 # [Guide to Computer Engineering ](https://istic.computer-engineering.tech/#/)
 
 
-> ⚠️ READ THIS IN [FRENCH NOW](FR-README.md)
+>  READ THIS IN [FRENCH NOW](FR-README.md) (●'◡'●)
 
 ![Banner](docs/images/mainreadme.gif)
 
