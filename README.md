@@ -80,4 +80,4 @@ We appreciate your presence; if you have something to posit, please use one of t
 | IOT Specific               |  Yahya@computer-engineering.Tech                       | 
 | IRS Specific               | Jawher.Smida@computer-engineering.Tech                    | 
    
-
+ 
