@@ -4,6 +4,6 @@
 
   - [Scan QR](qr.md)
   - [Updates](inspirations.md)
-  - [Discord](https://discord.gg/dbY9xSuK)
+  - [Discord](https://discord.gg/zZQCQMHdUt)
 - [<img src="images/navbar/44.png" alt="Contribute" width="30" height="30"/>](https://istic.computer-engineering.tech/#/contributions)
 
