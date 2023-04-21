@@ -1,9 +1,10 @@
 - [<img src="images/navbar/11.png" alt="Home" width="27" height="27"/>](/)
+  - [Website in English](/fr/)
 - [<img src="images/navbar/22.png" alt="French" width="27" height="27"/>](/fr/)
-- <img src="images/navbar/33.png" alt="More" width="27" height="27"/>
-
-  - [Scan QR](qr.md)
-  - [Updates](inspirations.md)
-  - [Discord](https://discord.gg/zZQCQMHdUt)
+  - [Switch Languages](/fr/)
+- [<img src="images/dic-main-logo.png" alt="Join Discord NOW" width="27" height="27"/>](https://discord.gg/zZQCQMHdUt)
+  - [Communicate with other students](https://discord.gg/zZQCQMHdUt)
 - [<img src="images/navbar/44.png" alt="Contribute" width="30" height="30"/>](https://istic.computer-engineering.tech/#/contributions)
-
+  - [Contribute to Project](https://istic.computer-engineering.tech/#/contributions)
+  - [Check Updates](inspirations.md)
+  - [Scan QR](qr.md)

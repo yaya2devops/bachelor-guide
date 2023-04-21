@@ -5,11 +5,14 @@
 After finishing the second year and 4 semesters of success, student should be able to look for and secure an internship. It is strongly recommended that you seek any experience earlier than that; the earlier you proceed, the higher you will rise.
 
 ![BRANCH_INSIGHT](images/InternsAssets/summerintern.png)
-### Papers to consider 
-- [Summer internship agreement](https://github.com/Y4HYA4/TheRealBachelorsDocs/blob/main/docs/images/InternsAssets/Convention-Stage-ete.pdf)
-- [Timesheet Template](https://github.com/Y4HYA4/TheRealBachelorsDocs/blob/main/docs/images/InternsAssets/Journal-de-stage.pdf)
-- [Training certificate](images/InternsAssets/certificate.md)
-- [Internship Report](https://github.com/Y4HYA4/ExperienceInCloud/tree/main/First_InternReport#internship-report-at-linedata)
+
+
+| Papers                      | Description                                          |
+| ---------------------------|------------------------------------------------------|
+| [Summer agreement](https://github.com/Y4HYA4/TheRealBachelorsDocs/blob/main/docs/images/InternsAssets/Convention-Stage-ete.pdf)| An agreement document for your summer internship.        |
+| [Timesheet Template](https://github.com/Y4HYA4/TheRealBachelorsDocs/blob/main/docs/images/InternsAssets/Journal-de-stage.pdf)          | A template for recording the hours worked during an internship.|
+| [Training certificate](images/InternsAssets/certificate.md)        | A certificate that acknowledges the completion of a training program at company **A**.|
+| [Internship Report](https://github.com/Y4HYA4/ExperienceInCloud/tree/main/First_InternReport#internship-report-at-linedata)           | A report detailing the experience gained during an internship. |
 
 # Workflow
 
