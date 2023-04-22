@@ -12,8 +12,8 @@ images/Drive/2.png
  -->
       
 
-|          Find other students| Hands-on|   Contribute|
-|:--------  |:--------:  |:--------:  |
+|          Find Other Students| Hands-on Labs|   Contribute|
+|:--------:  |:--------:  |:--------:  |
 [![Join Discord and Find Students](images/discord-link.png)](https://discord.gg/zZQCQMHdUt)|    [![My university materials](images/project.png)](https://yaya2devops.github.io/UniversityLabs/) |[![Join Discord and Find Students](images/help-us.png)](https://forms.zohopublic.com/isticbc/form/Resources/formperma/1-4w1KAlQUkKxzvRsc2V688moUg8Ki1yM7fQVmrZpuQ?fbclid=IwAR1FDnq3LGfBSceGha03cWRwXUorw1WSEr_uuH7_egYI33ePVNUCJ0ylLJQ)|
 
 
