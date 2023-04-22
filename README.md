@@ -7,9 +7,14 @@
 </h1>
 
 
+
+## Connect with students
+[<img src="docs/images/discord-link.png" alt="Join Discord and Find Students" data-canonical-src="https://discordapp.com/api/guilds/981586120448020580/widget.png?style=banner3" style="max-width: 100%;">](https://discord.gg/zZQCQMHdUt)
+
+
+
 |     Contribute          |   [ACT HERE](https://forms.zohopublic.com/isticbc/form/Resources/formperma/1-4w1KAlQUkKxzvRsc2V688moUg8Ki1yM7fQVmrZpuQ?fbclid=IwAR1FDnq3LGfBSceGha03cWRwXUorw1WSEr_uuH7_egYI33ePVNUCJ0ylLJQ)                   |
 |:--------                     |:--------                    | 
-
 ## Contact us
 
 | Overall Project              | Improve@computer-engineering.Tech                |
