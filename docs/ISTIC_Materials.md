@@ -12,15 +12,19 @@ images/Drive/2.png
  -->
       
 
+|          Find other students| Hands-on|   Contribute|
+|:--------  |:--------:  |:--------:  |
+[![Join Discord and Find Students](images/discord-link.png)](https://discord.gg/zZQCQMHdUt)|    [![My university materials](images/project.png)](https://yaya2devops.github.io/UniversityLabs/) |[![Join Discord and Find Students](images/help-us.png)](https://forms.zohopublic.com/isticbc/form/Resources/formperma/1-4w1KAlQUkKxzvRsc2V688moUg8Ki1yM7fQVmrZpuQ?fbclid=IwAR1FDnq3LGfBSceGha03cWRwXUorw1WSEr_uuH7_egYI33ePVNUCJ0ylLJQ)|
 
 
-|          Computer Engineering                                             |    Semester 1               |   Semester 2          | Be Early. Start.    |
-|:--------                                                                  |:--------:                   |:--------:             |:--------:    |
-|          **Mutual**        |     [<img src="images/Drive/MAT.png" a>](https://drive.google.com/drive/folders/1gftTLJCmQZj167LFH59PvFvBQsE3ED48)               |        [<img src="images/Drive/MAT.png" alt="Wait for it!"  >](https://drive.google.com/drive/folders/1xcZRV-iIe5D_xBhW0YED2JXX6GLeAvAp)      | [Hands-on Labs](https://yaya2devops.github.io/UniversityLabs/) |
+
  
-<div style="text-align: left;">     
-<a href="https://forms.zohopublic.com/isticbc/form/Resources/formperma/1-4w1KAlQUkKxzvRsc2V688moUg8Ki1yM7fQVmrZpuQ?fbclid=IwAR1FDnq3LGfBSceGha03cWRwXUorw1WSEr_uuH7_egYI33ePVNUCJ0ylLJQ" style="background-color: red; color: white; padding: 9px 15px; border-radius: 5px; text-decoration: none;">Help Us Improve</a>
-</div>
+
+|          Computer Engineering|    Semester 1 |   Semester 2  | Be Early. Start.  |
+|:--------:  |:--------:  |:--------:   |:--------:    |
+|          **Mutual**       |     [<img src="images/Drive/MAT.png" a>](https://drive.google.com/drive/folders/1gftTLJCmQZj167LFH59PvFvBQsE3ED48)               |        [<img src="images/Drive/MAT.png" alt="Wait for it!"  >](https://drive.google.com/drive/folders/1xcZRV-iIe5D_xBhW0YED2JXX6GLeAvAp)      | |
+ 
+
 
 <br> 
 
