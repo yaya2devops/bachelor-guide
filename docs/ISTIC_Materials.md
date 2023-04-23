@@ -20,9 +20,9 @@ images/Drive/2.png
 
  
 
-|          Computer Engineering|    Semester 1 |   Semester 2  | Be Early. Start.  |
-|:--------:  |:--------:  |:--------:   |:--------:    |
-|          **Mutual**       |     [<img src="images/Drive/MAT.png" a>](https://drive.google.com/drive/folders/1gftTLJCmQZj167LFH59PvFvBQsE3ED48)               |        [<img src="images/Drive/MAT.png" alt="Wait for it!"  >](https://drive.google.com/drive/folders/1xcZRV-iIe5D_xBhW0YED2JXX6GLeAvAp)      | |
+|          Computer Engineering|    Semester 1 |   Semester 2  |
+|:--------:  |:--------:  |:--------:   |
+|          **Mutual**       |     [<img src="images/Drive/MAT.png" a>](https://drive.google.com/drive/folders/1gftTLJCmQZj167LFH59PvFvBQsE3ED48)               |        [<img src="images/Drive/MAT.png" alt="Wait for it!"  >](https://drive.google.com/drive/folders/1xcZRV-iIe5D_xBhW0YED2JXX6GLeAvAp)      | 
  
 
 
