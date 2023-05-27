@@ -32,6 +32,8 @@ images/Drive/2.png
 |:--------                                              |:--------:          |:--------:    |:--------:    |
 |  **IOT & Embedded Systems**             |    [<img src="images/Drive/MAT.png" alt="Wait for it!"  >](https://drive.google.com/drive/folders/1JE-YKVxuEXXHk_7HxaPY-KQ4A4nKtoeV)              |        [<img src="images/Drive/MAT.png" alt="Wait for it!"  >](https://drive.google.com/drive/folders/1tUIBi8edWYZhlVXxGlEgLLAw5eDsayxn)      |  [<img src="images/Drive/MAT.png" alt="Wait for it!" >](https://drive.google.com/drive/folders/1iaA3hUW-RigsXSjlDPegekHv3UnvZlZX)    |
 
+> Learn about [Summer Internships](https://istic.computer-engineering.tech/#/intern)
+
 |     Path 2                                                   |    Semester 3               |   Semester 4          | Semester 5 |
 |:--------                                              |:--------:          |:--------:    |:--------:    |
 |  **Network & Systems Engineering**                      |   [<img src="images/Drive/MAT.png" alt="Wait for it!"  >](https://drive.google.com/drive/folders/1vVGi6lDN0zFIEqgQ7gFasKp4YL27oivJ)               |       [<img src="images/Drive/MAT.png" alt="Wait for it!" >](https://drive.google.com/drive/folders/1F9LLbURNRJs_s7NxcsYDjedVG3PA4noz)       |    [<img src="images/Drive/MAT.png" alt="Wait for it!" >](https://drive.google.com/drive/folders/1frK3DmAr7aBpbCCZ_Dh2H0d2LjZuOgN6)    |

@@ -1,16 +1,43 @@
 <br>
 
 # Motivation
+
+Welcome to the guide for aspiring bachelor's students pursuing a career in information technology!
+
 ![THINKING ABOUT THE PERFECT DESIGN](images/welcome.png)
 
-A career in information technology can be extremely rewarding, both financially and professionally. This bachelor's will provide a solid foundation in computers, from low-level hardware (assembly) to widely used languages like C, C++ & Python. In addition to assisting with networking, scripting w/Bash & security. It can also lead to management and executive positions within the industry later on.
+**Is it right for you?**
+- Future-proof career: The demand for IT professionals like you is expected to continue growing
+- Versatile skills: Comprehensive skill set that allows you to adapt to changing tech
+- Lucrative earning potential: Companies are willing to invest more and more in top talent
+
+You can now decide.
+
+🎯 Let's jump on this exciting journey together and discover the fascinating world of information technology!
 
 
-🎯 You'll learn about some of the amazing things people are doing with technology and how you can get involved!
+
+
+# Empowering Students
+This guide aims to complement your Computer Engineering degree by introducing you to a range of remarkable innovations that the world continuously harnesses to create value.
+
+**TL;DR** The content presented does not carry any official affiliation or rights from the designated institution. Instead, it represents a collaborative endeavor by individuals committed to delivering valuable information and resources.
+
+
+
+
+
+
+
+
+
 
 # Degree Curriculum
-This website will serve as a supplement to **Computer Engineering degree** in addition to an introduction to some of the incredible innovation that the world is constantly leveraging to provide value including  web, mobile development, computer architecture, embedded systems, cloud computing, and software testing.
+This website will serve as a supplement to **Computer Engineering degree** and an introduction to some of the incredible innovation that the world is constantly leveraging to provide value including  web, mobile development, computer architecture, embedded systems, cloud computing, and software testing.
 <br>
+
+
+This is not official material
 
 # Path to options
 After two semesters of success in the chosen field of study, the student should be able to select one of two specialties for the remaining three semesters. This will enable the pursuer to concentrate their studies on a specific area and gain more knowledge in that domain. By choosing a specialty, students will also be better prepared for their future career.

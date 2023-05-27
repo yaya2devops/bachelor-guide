@@ -22,7 +22,13 @@
 | **IOT Specific**               |  Yahya@computer-engineering.Tech                       |  
 | **IRS Specific**             | Jawher.Smida@computer-engineering.Tech                    |
 
-   
+
+#### Developer
+
+
+```
+docker run -d -p 8080:80 bachelor-guide
+```
 
 
 ## Feedback

@@ -28,9 +28,9 @@ Furthermore, do you have something quick to share? Fill out this [form](https://
 ![Banner](images/latest1.png)
 
 # Summary, You can contribute using one of these options
-- Direct Email;
-- GitHub Pull request;
-- Fill the form and upload the requirements;
+- [Direct Email;](Yahya@Computer-Engineering.Tech)
+- [GitHub Pull request;](https://github.com/yaya2devops/Bachelor-Guide/compare)
+- [Fill the form](https://forms.zohopublic.com/isticbc/form/Resources/formperma/1-4w1KAlQUkKxzvRsc2V688moUg8Ki1yM7fQVmrZpuQ?fbclid=IwAR1FDnq3LGfBSceGha03cWRwXUorw1WSEr_uuH7_egYI33ePVNUCJ0ylLJQ);
 
 ### Why are we doing this?
 I believe knowledge should be accessible to everyone. 
