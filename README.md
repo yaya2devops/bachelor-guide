@@ -25,6 +25,7 @@
 
 #### Developer
 
+Pull The image from [dockerhub](https://hub.docker.com/r/yaya2devops/bachelor-guide)
 
 ```
 docker run -d -p 8080:80 bachelor-guide
