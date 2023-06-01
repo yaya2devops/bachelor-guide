@@ -19,30 +19,24 @@ You can now decide.
 
 
 # Empowering Students
-This guide aims to complement your Computer Engineering degree by introducing you to a range of remarkable innovations that the world continuously harnesses to create value.
+This guide aims to complement your Computer Engineering degree by introducing you to a range of remarkable innovations that the world is constantly leveraging to provide value incl.  web, mobile development, computer architecture, security, embedded systems, cloud computing, and software testing.
 
-**TL;DR** The content presented does not carry any official affiliation or rights from the designated institution. Instead, it represents a collaborative endeavor by individuals committed to delivering valuable information and resources.
+**TL;DR** The content presented does not carry any official affiliation or rights from the designated institution. 
 
-
-
-
+Instead, it represents a collaborative endeavor by individuals committed to delivering information, resources and help you level up.
 
 
 
 
 
 
-# Degree Curriculum
-This website will serve as a supplement to **Computer Engineering degree** and an introduction to some of the incredible innovation that the world is constantly leveraging to provide value including  web, mobile development, computer architecture, embedded systems, cloud computing, and software testing.
-<br>
-
-
-This is not official material
 
 # Path to options
-After two semesters of success in the chosen field of study, the student should be able to select one of two specialties for the remaining three semesters. This will enable the pursuer to concentrate their studies on a specific area and gain more knowledge in that domain. By choosing a specialty, students will also be better prepared for their future career.
-- IOT & Embedded systems
-- Network and Systems Engineering
+In terms of your degree, you have 5 semesters total. After 2 semesters, the student should be able to select one of two specialties for the remaining three semesters. 
+
+This will enable the pursuer to concentrate their studies on a specific area and gain more knowledge in that domain.
+- IOT & Embedded systems (IOT)
+- Network and Systems Engineering (IRS)
 
 > ISTIC used to assign students with higher grades to IOT; This could imply that IOT is the best option. It is not. Both paths are excellent.
 
