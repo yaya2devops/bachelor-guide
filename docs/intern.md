@@ -15,7 +15,7 @@ Below are the papers I made use of available for you in a click.
 | ---------------------------|------------------------------------------------------|
 | [Summer agreement](https://github.com/Y4HYA4/TheRealBachelorsDocs/blob/main/docs/images/InternsAssets/Convention-Stage-ete.pdf)| An agreement document for your summer internship.        |
 | [Timesheet Template](https://github.com/Y4HYA4/TheRealBachelorsDocs/blob/main/docs/images/InternsAssets/Journal-de-stage.pdf)          | A template for recording the hours worked during an internship.|
-| [Training certificate](images/InternsAssets/certificate.md)        | A certificate that acknowledges the completion of a training program at company **A**.|
+| [Training certificate](https://github.com/yaya2devops/bachelor-guide/blob/main/docs/images/InternsAssets/certificate.md)        | A certificate that acknowledges the completion of a training program at company **A**.|
 | [Internship Report](https://github.com/Y4HYA4/ExperienceInCloud/tree/main/First_InternReport#internship-report-at-linedata)           | A report detailing the experience gained during an internship. |
 
 # Workflow
