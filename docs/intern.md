@@ -8,7 +8,7 @@ It is strongly recommended that you seek any experience earlier than that; the e
 
 ![BRANCH_INSIGHT](images/InternsAssets/summerintern.png)
 
-Below are the papers I made use of available for you in a click.
+Below are the papers I made use of, available for your usage in a click.
 
 
 | Papers                      | Description                                          |
@@ -23,8 +23,11 @@ Below are the papers I made use of available for you in a click.
 Let's discuss further what you should be doing.
 
 **1-** As soon as you start, you must sign an internship agreement at the company and *deliver* it to university.<br>
+
 **2-** The company provides a training certificate that includes the duration and is taken to the university.<br>
+
 **3-** Your timesheet, along with your internship report, must be signed and delivered by the deadline to the university.<br>
+
 **4-** Prepare a presentation and speak up!<br>
 
 ## Presentation - End of the 2nd Year Project
@@ -34,7 +37,9 @@ Along with your **Internship report**, you will be required to prepare a **Power
 
 This is an excellent opportunity for you to share what you have learned while also enhancing your confidence in the real world.
 
-By doing so, you will be able to assist others who are in the same situation as you and show them that it is possible to succeed. Same what I'm currently doing with you right now.
+By doing so, you will be able to assist others who are in the same situation as you. 
+
+Same as what I'm currently doing with you right now.
 
 Presenting will help you improve your communication skills. Prepare!
 
@@ -42,6 +47,7 @@ Presenting will help you improve your communication skills. Prepare!
 ## Summer-Intern, my experience
 
 The dates of delivery that I had while my summer intern are listed below.
+
 | Actions                       |Date|
 | :--------                   |:--------   |
 |     Agreement +  Certificate  | 15 July 2022|
