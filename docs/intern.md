@@ -22,15 +22,15 @@ Below are the papers I made use of, available for your usage in a click.
 
 Let's discuss further what you should be doing.
 
-**1-** As soon as you start, you must sign an internship agreement at the company and *deliver* it to university.<br>
+1. As soon as you start, you must sign an internship agreement at the company and *deliver* it to university.<br>
 
-**2-** The company provides a training certificate that includes the duration and is taken to the university.<br>
+2. The company provides a training certificate that includes the duration and is taken to the university.<br>
 
-**3-** Your timesheet, along with your internship report, must be signed and delivered by the deadline to the university.<br>
+3. Your timesheet, along with your internship report, must be signed and delivered by the deadline to the university.<br>
 
-**4-** Prepare a presentation and speak up!<br>
+4. Prepare a presentation and speak up!<br>
 
-## Presentation - End of the 2nd Year Project
+## Present 2nd Year Project
 After you finish your experience, you will present what you were up to the university. 
 
 Along with your **Internship report**, you will be required to prepare a **PowerPoint** where you can develop more on your report and express your experience.
@@ -44,7 +44,7 @@ Same as what I'm currently doing with you right now.
 Presenting will help you improve your communication skills. Prepare!
 
 
-## Summer-Intern, my experience
+## Reflections on My Summer Internship
 
 The dates of delivery that I had while my summer intern are listed below.
 
@@ -60,7 +60,14 @@ The dates of delivery that I had while my summer intern are listed below.
 - Interact with colleagues, and make communication a key focus.
 
 
-> 🤞Good luck!
+As I conclude, my final advice to you is to get going, even in situations where you may not fully understand.
+
+Take action, ask questions, seek guidance, and strive to learn more.
+
+It is through these experiences that you will truly grow into the architect of your own success.
+
+
+> 🤞Good luck, <br>[Yahya](https://tn.linkedin.com/in/yahya-abulhaj).
 
 
 
