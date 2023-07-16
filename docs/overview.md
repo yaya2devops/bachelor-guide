@@ -53,10 +53,9 @@ The asset below depicts the proctoring methodology used for each semester.
 Students are required to have at least **two** **internships**. Internships provide students with the opportunity to gain experience in their field of interest and to develop professional skills. 
 ![Interns](images/intern.png)
 
-|       |Required Internships|
-| :-----------: | :-----------: |
-|Mandatory Intern1:|[Summer Internship](https://istic.computer-engineering.tech/#/intern)|
-|Mandatory Intern2:| End-of-study Internship|
+
+- *Quickstart* your⚡Summer Internship⚡️from [here.](https://istic.computer-engineering.tech/#/intern)
+
 
 # Get Started
 

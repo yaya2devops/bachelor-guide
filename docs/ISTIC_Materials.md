@@ -14,7 +14,7 @@ images/Drive/2.png
 
 |          Find Other Students| Hands-on Labs|   Contribute|
 |:--------:  |:--------:  |:--------:  |
-[![Join Discord and Find Students](images/discord-link.png)](https://discord.gg/zZQCQMHdUt)|    [![My university materials](images/project.png)](https://yaya2devops.github.io/UniversityLabs/) |[![Join Discord and Find Students](images/help-us.png)](https://forms.zohopublic.com/isticbc/form/Resources/formperma/1-4w1KAlQUkKxzvRsc2V688moUg8Ki1yM7fQVmrZpuQ?fbclid=IwAR1FDnq3LGfBSceGha03cWRwXUorw1WSEr_uuH7_egYI33ePVNUCJ0ylLJQ)|
+[![Join Discord and Find Students](images/discord-link.png)](https://discord.gg/zZQCQMHdUt)|    [![My university materials](images/project.png)](https://labs.computer-engineering.tech/) |[![Join Discord and Find Students](images/help-us.png)](https://forms.zohopublic.com/isticbc/form/Resources/formperma/1-4w1KAlQUkKxzvRsc2V688moUg8Ki1yM7fQVmrZpuQ?fbclid=IwAR1FDnq3LGfBSceGha03cWRwXUorw1WSEr_uuH7_egYI33ePVNUCJ0ylLJQ)|
 
 
 
@@ -42,15 +42,15 @@ images/Drive/2.png
 
 ## 🚀Students Initiatives
 
-|Bonus Section |  **Computer<br>Science** | **LGLSI1&2:** ISTIC & ISI | LGLSI2nd| LGLSIT3rd|University FCB, INSAT, ISIMA, ISITCOM|
-|:--------                              |:--------:                   | :--------:     | :--------:   | :--------:                    | :--------:    | 
-| **Contributions**|[<img src="images/Drive/bonus.png" >](https://drive.google.com/drive/folders/18q7I3J1gnf0OZArdA6DRdQ6131aRqwhj)  | [<img src="images/Drive/bonus.png"   alt="Wait for it!" >](https://drive.google.com/drive/folders/1k9Bv44BFTeQjC0KC4iqmyOvZ4KPVE0AC)|[<img src="images/Drive/bonus.png" alt="Wait for it!" >](https://drive.google.com/drive/folders/17jYEOIhGvFb5DmFfxKj1-a7tEKsscOv3?fbclid=IwAR1zYDwXnHgmloUFA2r1DmtC1Tvt552arlDXWE7eCXceBpZU0zCDP2yslPs) |  [<img src="images/Drive/bonus.png" alt="Wait for it!" >](https://drive.google.com/drive/folders/1ilzdb-gr3uz8fiQ8bZOaG1J2Pl7F74wY) | [<img src="images/Drive/bonus.png" alt="Wait for it!" >](https://drive.google.com/drive/folders/1RpN-5HgroMFZil3w37JVkZMd7x5B8qtK) |
+|  **Computer<br>Science** | **LGLSI1&2:** ISTIC & ISI | LGLSI2nd| LGLSIT3rd|University FCB, INSAT, ISIMA, ISITCOM|
+|:--------:                   | :--------:     | :--------:   | :--------:                    | :--------:    | 
+|[<img src="images/Drive/bonus.png" >](https://drive.google.com/drive/folders/18q7I3J1gnf0OZArdA6DRdQ6131aRqwhj)  | [<img src="images/Drive/bonus.png"   alt="Wait for it!" >](https://drive.google.com/drive/folders/1k9Bv44BFTeQjC0KC4iqmyOvZ4KPVE0AC)|[<img src="images/Drive/bonus.png" alt="Wait for it!" >](https://drive.google.com/drive/folders/17jYEOIhGvFb5DmFfxKj1-a7tEKsscOv3?fbclid=IwAR1zYDwXnHgmloUFA2r1DmtC1Tvt552arlDXWE7eCXceBpZU0zCDP2yslPs) |  [<img src="images/Drive/bonus.png" alt="Wait for it!" >](https://drive.google.com/drive/folders/1ilzdb-gr3uz8fiQ8bZOaG1J2Pl7F74wY) | [<img src="images/Drive/bonus.png" alt="Wait for it!" >](https://drive.google.com/drive/folders/1RpN-5HgroMFZil3w37JVkZMd7x5B8qtK) |
 
 
 
-|Additional Resources|   PFE Hub|End of Study Sample Projects|Other Projects|  Add Yours HERE.|
-|:--------   |:--------: | :--------:     | :--------:   | :--------:                    |
- |Projects Link |[Website](https://pfehub.tn/)|[🖱PFE2022](https://drive.google.com/drive/folders/1DBWnLCZq-RNfXJa_IEVvRgq9ilqLpckW)<br> [🖱PFE2023](https://drive.google.com/drive/folders/10o9zI8VqP6nhGJhYiKJajm3VVn4VXPs4)  | [LGLSI](https://lglsi-3b.web.app/)|[Waiting for you!](contributions.md#contribution-options) |
+|   PFE Hub|End of Study Sample Projects|Other Projects|  ❗Add Yours HERE|
+|:--------: | :--------:     | :--------:   | :--------:                    |
+|[Website](https://pfehub.tn/)|[🖱PFE2022](https://drive.google.com/drive/folders/1DBWnLCZq-RNfXJa_IEVvRgq9ilqLpckW)<br> [🖱PFE2023](https://drive.google.com/drive/folders/10o9zI8VqP6nhGJhYiKJajm3VVn4VXPs4)  | [LGLSI](https://lglsi-3b.web.app/)|[DIRECT ME](welcome/hi.md#contributing) |
 
 
 ---
