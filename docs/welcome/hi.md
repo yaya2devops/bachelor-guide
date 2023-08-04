@@ -73,10 +73,8 @@ From [here](docs/contributors.md), you can join the contributors.
 ## [Sharing Is Caring](https://forms.zohopublic.com/isticbc/form/Resources/formperma/1-4w1KAlQUkKxzvRsc2V688moUg8Ki1yM7fQVmrZpuQ?fbclid=IwAR1FDnq3LGfBSceGha03cWRwXUorw1WSEr_uuH7_egYI33ePVNUCJ0ylLJQ)
 We appreciate your presence; if you have something to posit, please use one of the approaches listed below.
 
-|     Upload/Import Anything           |   [FILL-OUT **THIS FORM**](https://forms.zohopublic.com/isticbc/form/Resources/formperma/1-4w1KAlQUkKxzvRsc2V688moUg8Ki1yM7fQVmrZpuQ?fbclid=IwAR1FDnq3LGfBSceGha03cWRwXUorw1WSEr_uuH7_egYI33ePVNUCJ0ylLJQ)                   |
-|:--------                     |:--------                    | 
-|       **Email Adresses**          |   Improve@computer-engineering.Tech                  |   
-| IOT                |  Yahya@computer-engineering.Tech                       | 
-| IRS                | Jawher.Smida@computer-engineering.Tech                    | 
-   
- 
+### Email Addresses:
+
+- **Overall Issue:** improve@computer-engineering.tech
+- **IOT Related:** yahya@computer-engineering.tech
+- **Networking Related:** jawher.smida@computer-engineering.tech

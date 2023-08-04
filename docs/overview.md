@@ -2,34 +2,24 @@
 
 # Motivation
 
-Welcome to the guide for aspiring bachelor's students pursuing a career in information technology!
+*Welcome* to the guide for computer engineering bachelor's students aspiring to build a successful career in the field of Information Technology.
 
 ![THINKING ABOUT THE PERFECT DESIGN](images/welcome.png)
 
 **Is it right for you?**
-- Future-proof career: The demand for IT professionals like you is expected to continue growing
-- Versatile skills: Comprehensive skill set that allows you to adapt to changing tech
-- Lucrative earning potential: Companies are willing to invest more and more in top talent
+- **Future-proof career:** The demand for IT professionals like you is expected to continue growing.
+- **Versatile skills:** Comprehensive skill set that allows you to adapt to changing tech.
+- **Lucrative earning potential:** Companies are willing to invest more and more in top talent.
 
-You can now decide.
+The power is now in your hands. 
 
 🎯 Let's jump on this exciting journey together and discover the fascinating world of information technology!
 
-
-
-
 # Empowering Students
-This guide aims to complement your Computer Engineering degree by introducing you to a range of remarkable innovations that the world is constantly leveraging to provide value incl.  web, mobile development, computer architecture, security, embedded systems, cloud computing, and software testing.
+This guide aims to complement your Computer Engineering degree by introducing you to a range of remarkable innovations that the world is constantly leveraging to provide value incl.  web, mobile development, computer architecture, security, and cloud computing.
 
 **TL;DR** The content presented does not carry any official affiliation or rights from the designated institution. 
-
-Instead, it represents a collaborative endeavor by individuals committed to delivering information, resources and help you level up.
-
-
-
-
-
-
+Instead, it represents a collaborative endeavor by individuals committed to delivering information, resources and help you level up. Why? Because why not 😉
 
 # Path to options
 In terms of your degree, you have 5 semesters total. After 2 semesters, the student should be able to select one of two specialties for the remaining three semesters. 
@@ -61,7 +51,7 @@ Students are required to have at least **two** **internships**. Internships prov
 
 
 Each section will include usefull resources and content to assist you in excelling in your preparation and making the most of your education.
-##### The documentation is structured as follows.
+##### The guide is structured as follows.
 
 | Mutual      | IOT & Embedded systems Speciality |Network and Systems Engineering Speciality |Compressed Materials|   
 | ----------- | ----------- |----------- |----------- |
