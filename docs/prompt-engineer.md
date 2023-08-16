@@ -1,4 +1,4 @@
-###  🦾Generate Report Content — [Got you!🦾](/images/InternsAssets/gen-latex-prompt.pdf)
+###  🦾Generate Report Content — [Got you!🦾](images/InternsAssets/gen-latex-prompt.pdf)
 
 I have attached for you a prompt I designed personaly to get some cool content! <br> It is yours now, Use it! 🧠
 
