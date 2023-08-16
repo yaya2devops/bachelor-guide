@@ -1,4 +1,4 @@
-###  🦾Generate Report Content — [Got you!🦾](images/InternsAssets/gen-latex-prompt.pdf)
+###  🦾Generate Report Content — [Got you!🦾](https://github.com/yaya2devops/bachelor-guide/blob/e677924dc12622fb017754e2dfe75d15bdea8038/docs/images/InternsAssets/gen-latex-prompt.pdf)
 
 I have attached for you a prompt I designed personaly to get some cool content! <br> It is yours now, Use it! 🧠
 
