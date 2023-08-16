@@ -8,6 +8,10 @@ It is strongly recommended that you seek any experience earlier than that; the e
 
 ![BRANCH_INSIGHT](images/InternsAssets/summerintern.png)
 
+### 🤖[Do you need help with Latex?](prompt-engineer.md)  
+
+
+
 Below are the papers I made use of, available for your usage in a click.
 
 
