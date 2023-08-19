@@ -13,13 +13,13 @@
 
 The power is now in your hands. 
 
-🎯 Let's jump on this exciting journey together and discover the fascinating world of information technology!
+🎯 Let's jump on this exciting journey together and discover the fascinating world of IT and tomorrows!
 
 # Empowering Students
-This guide aims to complement your Computer Engineering degree by introducing you to a range of remarkable innovations that the world is constantly leveraging to provide value incl.  web, mobile development, computer architecture, security, and cloud computing.
+This guide aims to complement your degree by introducing you to a range of remarkable innovations that the world is constantly leveraging to provide value incl.  web, mobile development, computer architecture, security, and cloud computing.
 
 **TL;DR** The content presented does not carry any official affiliation or rights from the designated institution. 
-Instead, it represents a collaborative endeavor by individuals committed to delivering information, resources and help you level up. Why? Because why not 😉
+Instead, it represents a collaborative endeavor by 2 individuals committed to delivering information, resources and help you level up — Why? Because why not!
 
 # Path to options
 In terms of your degree, you have 5 semesters total. After 2 semesters, the student should be able to select one of two specialties for the remaining three semesters. 
