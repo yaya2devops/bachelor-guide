@@ -2,21 +2,21 @@
 
 This guide will walk you through the process of using the output from ChatGPT prompts in your LaTeX project.
 
-- [🤖Latex Success With GPT Prompt](#latex-success-with-gpt-prompt)
 - [Step 1: Generate Content with ChatGPT](#step-1-generate-content-with-chatgpt)
 - [Step 2: Formatting the Content for LaTeX](#step-2-formatting-the-content-for-latex)
 - [Step 3 : Preview and Compliation](#step-3--preview-and-compliation)
-  - [Wrap Up!](#wrap-up)
-  - [Next Steps](#next-steps)
-
 
 ## Step 1: Generate Content with ChatGPT
 
-1. Start by accessing a platform that provides access to ChatGPT.
-2. Take the prompt i created for you and just  repllace the the sectiion name
+1. Start by navigating to the following URL https://chat.openai.com/chat where you can access the ChatGPT platform.
+2. Use the prompt I've crafted for you, simply change the designated section name.
 
 ```js
-Below is a latex structure, i want you to refer to the section title and fill all required area (provide sub sections in the context) with REAL content and make it very long and again in the same context.
+Below is a latex structure, i want you to refer to the section title  
+
+Fill all required area (provide sub sections in the context) with REAL content
+
+Make it very long and again in the same context.
 
 For the figures, suggest an innovative caption only, for each, and i'll include the assets myself.
 
@@ -101,9 +101,10 @@ Give the output in code snippet for easy copy paste
 
 
 
-I needed to remove these `\documentclass{article}`, `\usepackage{graphicx}`, `\usepackage{float}`, `\begin{document}` since they were already present on my page. I directly incorporated the content within the appropriate section and subsection.
+I needed to remove these commands `\documentclass{article}`, `\usepackage{graphicx}`, `\usepackage{float}`, `\begin{document}`, `\end{document}` since they were already present on my page. 
 
 
+2. Directly employ the content within the appropriate section and subsection.
 
 ```js
 \section{Emergence of Prompt Engineering}
@@ -120,55 +121,7 @@ Prompt engineering is the art of formulating precise and effective instructions 
 \end{figure}
 \FloatBarrier
 
-\subsection{Enhancing Model Performance}
-Effective prompt engineering can significantly enhance model performance. By tailoring prompts to specific tasks or domains, models can produce more accurate and relevant outputs. This is particularly useful in applications such as text generation, question answering, and language translation.
-
-\begin{figure}[hbt!]
- \centering
- \includegraphics[width=15cm]{image-path}
- \caption{Comparison of model performance with and without prompt engineering}
- \label{fig:model-performance}
-\end{figure}
-\FloatBarrier
-
-\subsection{Addressing Biases and Ethical Concerns}
-Prompt engineering also plays a role in addressing biases in language models. By carefully crafting prompts, researchers can encourage models to generate fair and unbiased content. This can help mitigate ethical concerns related to biased or offensive outputs from the models.
-
-\begin{figure}[hbt!]
- \centering
- \includegraphics[width=15cm]{image-path}
- \caption{Illustration of bias reduction through prompt design}
- \label{fig:bias-reduction}
-\end{figure}
-\FloatBarrier
-
-\subsubsection{Mitigating Gender Bias}
-One of the important ethical considerations in NLP is gender bias. Prompt engineering can be used to reduce gender bias by providing explicit instructions to models to avoid generating biased or stereotypical content related to gender.
-
-\subsubsection{Cultural Sensitivity}
-Prompt engineering can also address cultural insensitivity. Researchers can design prompts that encourage models to be respectful and considerate of different cultures and backgrounds.
-
-\subsubsection{Balancing Information and Creativity}
-Striking the right balance between providing accurate information and promoting creative responses is crucial in prompt engineering. By guiding models with well-crafted prompts, practitioners can achieve outputs that are both informative and engaging.
-
-\begin{figure}[hbt!]
- \centering
- \includegraphics[width=15cm]{image-path}
- \caption{Balancing information and creativity in model outputs}
- \label{fig:info-creativity}
-\end{figure}
-\FloatBarrier
-
-\subsection{Future Directions}
-As prompt engineering continues to evolve, researchers are exploring novel techniques and strategies. Fine-tuning prompt templates, leveraging external knowledge sources, and developing user-friendly prompt interfaces are areas of active research.
-
-\begin{figure}[hbt!]
- \centering
- \includegraphics[width=15cm]{image-path}
- \caption{Anticipated future advancements in prompt engineering}
- \label{fig:future-directions}
-\end{figure}
-\FloatBarrier
+\etc.. Complete File Provided Below.
 ```
 
 2. I scrolled through the page and merged the content of the second prompt, ensuring it maintains the same context.
@@ -188,61 +141,7 @@ As AI technologies continue to advance, they are being integrated into various i
 \end{figure}
 \FloatBarrier
 
-\subsection{AI's Impact on Employment}
-The potential impact of AI on employment is a subject of debate. While AI can automate routine and repetitive tasks, it can also create new job opportunities in fields related to AI development, maintenance, and human-AI collaboration.
-
-\begin{figure}[hbt!]
- \centering
- \includegraphics[width=15cm]{image-path}
- \caption{Balance between job displacement and creation due to AI}
- \label{fig:job-impact}
-\end{figure}
-\FloatBarrier
-
-\subsection{Shift in Job Roles and Skill Requirements}
-AI's influence on the job market is leading to a shift in job roles and skill requirements. Jobs that require creativity, critical thinking, and emotional intelligence are less likely to be fully automated. However, individuals need to acquire new skills to remain relevant in the changing job landscape.
-
-\subsubsection{Reskilling and Upskilling}
-To adapt to the changing job market, individuals are encouraged to reskill and upskill. Learning new technologies, acquiring digital literacy, and developing interdisciplinary skills are essential to stay competitive.
-
-\subsubsection{Human-AI Collaboration}
-The future of work is likely to involve closer collaboration between humans and AI systems. This collaboration can lead to enhanced productivity and efficiency, with AI assisting humans in decision-making and data analysis.
-
-\begin{figure}[hbt!]
- \centering
- \includegraphics[width=15cm]{image-path}
- \caption{Illustration of human-AI collaboration in the workplace}
- \label{fig:human-ai-collab}
-\end{figure}
-\FloatBarrier
-
-\subsection{Ethical and Societal Considerations}
-As AI becomes more integrated into the workforce, ethical considerations arise. Questions about job displacement, algorithmic bias, and the potential for increased inequality need to be addressed.
-
-\subsubsection{Algorithmic Bias}
-AI systems can perpetuate biases present in training data, leading to biased decisions. Ensuring fairness and transparency in AI algorithms is crucial to prevent discrimination.
-
-\subsubsection{Job Polarization}
-AI's impact on the job market might lead to job polarization, where high-skilled and low-skilled jobs see growth, while middle-skilled jobs decline. Policymakers need to address potential inequalities resulting from this polarization.
-
-\begin{figure}[hbt!]
- \centering
- \includegraphics[width=15cm]{image-path}
- \caption{Addressing societal challenges arising from AI integration}
- \label{fig:ai-society}
-\end{figure}
-\FloatBarrier
-
-\subsection{The Future of Work}
-Predicting the exact trajectory of AI's influence on the job market is complex. The future of work is likely to be a blend of human expertise and AI capabilities, necessitating a flexible approach to career development and education.
-
-\begin{figure}[hbt!]
- \centering
- \includegraphics[width=15cm]{image-path}
- \caption{Anticipating the future landscape of work with AI}
- \label{fig:future-work}
-\end{figure}
-\FloatBarrier
+\etc.. Complete File Provided Below.
 ```
 
 ## Step 3 : Preview and Compliation
@@ -287,6 +186,6 @@ As you can see, we're unable to provide the images, for now, haha.
 | :information_source:        | Recap Resources      |
 |---------------|:------------------------|
 |Yaya's GPT Latex Interaction| [Redirect](https://chat.openai.com/share/2754c1e6-7c80-4199-96e6-73c3cbea7ebe) |
-|Output Merged Tex File|[Redirect](images/latex/2-prompt-5-pages.tex)|
-| 2 Prompt, 5  Pages Latex|[Redirect](images/latex/2-prompt-5-pages.pdf)|
+|Output Merged Tex File|[Redirect](https://github.com/yaya2devops/bachelor-guide/blob/main/docs/images/latex/2-prompt-5-pages.tex)|
+| 2 Prompt, 5  Pages Latex|[Redirect](https://github.com/yaya2devops/bachelor-guide/blob/main/docs/images/latex/2-prompt-5-pages.pdf)|
 

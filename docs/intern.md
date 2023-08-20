@@ -8,7 +8,7 @@ It is strongly recommended that you seek any experience earlier than that; the e
 
 ![BRANCH_INSIGHT](images/InternsAssets/summerintern.png)
 
-### 🤖[Do you need help with Latex?](prompt-engineer.md)  
+### 🤖[Do you need Latex help ?](prompt-engineer.md)  
 
 
 
