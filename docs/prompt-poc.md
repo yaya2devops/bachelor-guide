@@ -92,6 +92,8 @@ For the figures, suggest an innovative caption only, for each, and i'll include 
  \label{fig:two-opt}
 \end{figure}
 \FloatBarrier
+
+
 Give the output in code snippet for easy copy paste
 ```
 
@@ -124,7 +126,7 @@ Prompt engineering is the art of formulating precise and effective instructions 
 \etc.. Complete File Provided Below.
 ```
 
-2. I scrolled through the page and merged the content of the second prompt, ensuring it maintains the same context.
+3. I scrolled through the page and merged the content of the second prompt, ensuring it maintains the same context.
 
 ```js
 \section{Will AI Take My Job?}
@@ -148,13 +150,13 @@ As AI technologies continue to advance, they are being integrated into various i
 
 Please open this using your LaTeX viewer, such as Overleaf, to observe and successfully compile your LaTeX project.
 
-Exited to see?
+Excited to [See the final outcome](https://github.com/yaya2devops/bachelor-guide/blob/main/docs/images/latex/2-prompt-5-pages.pdf)?
 
 ![Latex Preview](images/latex/wow-latex.png)
 
+| ☑️        |  You're not required to create a figure caption; I've already provided one for you in the prompt.      |
+|:---------------|:------------------------:|
 
-
-> You're not required to create a figure caption; I've already provided one for you in the prompt.
 
 ### Wrap Up!
 
@@ -162,15 +164,21 @@ In just under 5 minutes, using two prompts, we managed to generate a comprehensi
 
 Quite astonishing, isn't it?
 
+| :information_source: Recap        | Resources      |
+|:---------------|:------------------------:|
+|Yaya's GPT Latex Interaction| [Redirect](https://chat.openai.com/share/2754c1e6-7c80-4199-96e6-73c3cbea7ebe) |
+|Output Merged Tex File|[Redirect](https://github.com/yaya2devops/bachelor-guide/blob/main/docs/images/latex/2-prompt-5-pages.tex)|
+| 2 Prompt, 5  Pages Latex|[Redirect](https://github.com/yaya2devops/bachelor-guide/blob/main/docs/images/latex/2-prompt-5-pages.pdf)|
 
+> Need templates for your work? [Check Students Initiative Section.](https://istic.computer-engineering.tech/?#/ISTIC_Materials)
 
 ### Next Steps
 
-1. More Prompt, More content, More!
+1. Add More Prompt, More content, More!
 
 As you can see, we're unable to provide the images, for now, haha.
 
-1.  Incorporate assets such as diagrams, architectures, and other into your project, and make sure to provide the precise path in the `image-path` field below.
+2.  Incorporate assets such as diagrams, architectures, and other into your project, and make sure to provide the precise path in the `image-path` field below.
 
 ```tex
 \begin{figure}[hbt!]
@@ -182,10 +190,8 @@ As you can see, we're unable to provide the images, for now, haha.
 \FloatBarrier
 ```
 
+Creating a masterpiece and delivering it for your project has never been more effortless. So, why wait any longer❓
 
-| :information_source:        | Recap Resources      |
-|---------------|:------------------------|
-|Yaya's GPT Latex Interaction| [Redirect](https://chat.openai.com/share/2754c1e6-7c80-4199-96e6-73c3cbea7ebe) |
-|Output Merged Tex File|[Redirect](https://github.com/yaya2devops/bachelor-guide/blob/main/docs/images/latex/2-prompt-5-pages.tex)|
-| 2 Prompt, 5  Pages Latex|[Redirect](https://github.com/yaya2devops/bachelor-guide/blob/main/docs/images/latex/2-prompt-5-pages.pdf)|
+
+
 
