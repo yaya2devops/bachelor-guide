@@ -40,11 +40,18 @@ The asset below depicts the proctoring methodology used for each semester.
 ![Photo of Semester](images/enstructure.png)
 
 # Professional Experience: Internship
-Students are required to have at least **two** **internships**. Internships provide students with the opportunity to gain experience in their field of interest and to develop professional skills. 
+Students are required to have at least **two** **internships**. 
+
+| 𝑛 | Mandatory Internship           |Term   |
+|-- |----------------------          |:-----: |
+| ❶ | Project End of the Year        | PFA    |
+| ❷ | Project End of Study           | PFE    | 
+
+Internships provide students with the opportunity to gain experience in their field of interest and to develop professional skills. 
 ![Interns](images/intern.png)
 
 
-- *Quickstart* your⚡Summer Internship⚡️from [here.](https://istic.computer-engineering.tech/#/intern)
+- ⚠️ *Quickstart* your⚡Summer Internship⚡️from [here.](https://istic.computer-engineering.tech/#/intern)
 
 
 # Get Started
