@@ -46,19 +46,18 @@ For an easy way to work with LaTeX, consider using an **online LaTeX editor** li
 
 <details>
 <summary>
-🤐 Zipping Process!
+🤐 Zipping Face-To-Face!
 </summary>
 
 ![Import Zipped](hello/Hello%20Yaya/yaya-zipped.png)
 
 </details>
+
 4. Create a new project in **Overleaf** and import the zipped `Hello Yaya.zip` Folder.
 
 ![Project->Import->Pick Zip](hello/Hello%20Yaya/import-from-local.png)
 
 > There was internet and It was imported x)
-
-
 
 5. Compile the document and observe the output. 
 
@@ -76,9 +75,7 @@ While having files is great, you also need a PDF version.
 
 Once you've completed your project, simply click the icon depicted below to convert your compilation into a PDF.
 
-
 ![LaTeX To PDF](hello/Hello%20Yaya/pdf-me.png)
-
 
 Great and cool! Although this is quite minimal, it should give you a good idea of what your workflow will be like with the system.
 
@@ -109,7 +106,6 @@ project/
 
 Nothing that serious we just  created a `main.tex` file where we can call all your other **Hello Yaya** files but you can call them something more meaningful to you.
 
-
 Arrange them in the order you want them to be viewed.
 ```
 \begin{document}
@@ -128,11 +124,8 @@ Arrange them in the order you want them to be viewed.
 
 You're likely getting the hang of it by now. This structure helps you keep your project organized and makes it easier to manage your large report.
 
-
-
 ## A Well-Structured LaTeX Project
 An advanced and efficient LaTeX project structure should look something like this.
-
 
 1. On Your LaTeX Editor Create the following structure- You can also create it locally and then import all.
 ```
@@ -175,7 +168,6 @@ An advanced and efficient LaTeX project structure should look something like thi
 2. Incorporate this structure into your main.tex file to organize your document's sections.
 3. Including Subdocuments
 4. Store images, diagrams, and other assets in the assets directory for easy access and inclusion in your LaTeX document.
-
 
 ### Progressing with Your Project
 
