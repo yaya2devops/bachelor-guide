@@ -1,4 +1,14 @@
+
+<br>
+
 # Getting Started with LaTeX
+
+Hey! Welcome where I help you become more proficient with the LaTeX system. We'll start with a basic "Hello Yaya" document and progress towards a more advanced structure, to finaly demonstrate what a good project structure should be.
+
+- [Step 1: Creating Your First LaTeX](#step-1-creating-your-first-latex-document)
+- [Step 2: See What You Created](#step-2-see-what-you-created)
+- [Step 3 : LaTeX Convert to PDF](#step-3--latex-convert-to-pdf)
+- [Go Harder On LaTeX](#go-harder-on-latex)
 
 ### Step 1: Creating Your First LaTeX Document
 Start by creating a simple LaTeX document to get a feel for the system. 
@@ -16,23 +26,39 @@ Hello, Yaya!
 \end{document}
 ```
 
+* `\documentclass{article}`: Specifies that this is an "article" document type.
+* `\begin{document}` and `\end{document}`: Delimit the document content.
+* `\Hello, Yaya!`\: The actual content of the document, which in this case is a simple greeting to me.
+
 ![LaTeX Developer](hello/Hello%20Yaya/hello-yaya.png)
 
-This basic document sets up a LaTeX file with a standard article class and prints "Hello, Yaya!".
+Easy! This basic document sets up a LaTeX file with a standard article class and prints `Hello, Yaya!`.
 
 
 ### Step 2: See What You Created
 For an easy way to work with LaTeX, consider using an **online LaTeX editor** like ***Overleaf***.
 
-1. Access OverLeaf Platform following this URL
+1. Access OverLeaf Platform following this URL [https://www.overleaf.com/login?](https://www.overleaf.com/login?)
 2. Create an account on Overleaf if you don't have one.
 3. Zip your Hello Yaya folder. 
 
 ![Zipping Process](hello/Hello%20Yaya/zip-yaya.png)
 
-4. Create a new project and import the zipped `hello-yaya.tex` file you created in that folder.
+<details>
+<summary>
+🤐 Zipping Process!
+</summary>
 
 ![Import Zipped](hello/Hello%20Yaya/yaya-zipped.png)
+
+</details>
+4. Create a new project in **Overleaf** and import the zipped `Hello Yaya.zip` Folder.
+
+![Project->Import->Pick Zip](hello/Hello%20Yaya/import-from-local.png)
+
+> There was internet and It was imported x)
+
+
 
 5. Compile the document and observe the output. 
 
@@ -42,10 +68,23 @@ Easy right!
 Overleaf provides a real-time preview of your LaTeX document.<br>
 Let's keep going King or Queen!
 
-And yeah, you can find Hello Yaya just [here](hello/Hello%20Yaya.zip).
+And yeah, you can find Hello Yaya just [here](https://github.com/yaya2devops/bachelor-guide/blob/main/docs/hello/Hello%20Yaya.zip).
+
+### Step 3 : LaTeX Convert to PDF
+
+While having files is great, you also need a PDF version.
+
+Once you've completed your project, simply click the icon depicted below to convert your compilation into a PDF.
 
 
-## Go Harder on LaTeX
+![LaTeX To PDF](hello/Hello%20Yaya/pdf-me.png)
+
+
+Great and cool! Although this is quite minimal, it should give you a good idea of what your workflow will be like with the system.
+
+Immediately [view the PDF version](https://github.com/yaya2devops/bachelor-guide/blob/main/docs/hello/Hello%20Yaya/Hello_Yaya.pdf) of `Hello Yaya`!
+
+# Go Harder on LaTeX
 To make the process crystal clear, I've structured this for your convenience.
 
 ```
@@ -141,5 +180,7 @@ An advanced and efficient LaTeX project structure should look something like thi
 ### Progressing with Your Project
 
 Now that you have established a well-structured LaTeX project, it's time to infuse it with substantial content. To maintain clarity and a smooth document flow, refer back to the content generation prompts provided earlier, and diligently work on populating each section. 
+
+### [The Prompt You Need](prompt-poc.md)
 
 Enjoy the power and flexibility of LaTeX for typesetting and document creation!

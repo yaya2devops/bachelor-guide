@@ -17,6 +17,6 @@ To begin, please follow these steps:
 And Yes! Continuously seek out more insights and craft a masterpiece!
 
 
-| :information_source:        | Feeling a bit disoriented? [Click](prompt-poc.md) to redirect.      |
+| :information_source:        | Feeling a bit disoriented? [Click](learntex.md) to redirect.      |
 |---------------|:------------------------|
 

@@ -9,7 +9,7 @@ This guide will walk you through the process of using the output from ChatGPT pr
 
 ## Step 1: Generate Content with ChatGPT
 
-### I need [More LaTeX Guide](learntex.md)
+> Take me back to [more LaTeX](learntex.md)
 
 1. Start by navigating to the following URL https://chat.openai.com/chat where you can access the ChatGPT platform.
 2. Use the prompt I've crafted for you, simply change the designated section name.
