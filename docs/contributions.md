@@ -4,14 +4,13 @@
 
 
 # BACHELOR in Computer Engineering | Details
-Hey there, and I hope this has been helpful in your studies. The project is constantly being improved, we believe that collaboration and community involvement are key to the success of any project, and we welcome your ideas and contributions. Whether you have expertise to share, documents to volunteer, or simply want to stay up-to-date on the latest developments, we encourage you to get involved and make a difference. We look forward to working with you and making a positive impact together. Thank you again for your support.
+Hello, and I hope this has been helpful in your studies. We welcome your ideas and contributions.
 
-![Banner](images/banner.png)
+Whether you have expertise to share, documents to volunteer, or simply want to stay up-to-date on the latest developments.<br> We encourage you to get involved and make a difference.
 
+![Banner](images/new-get-in.png)
 
-> [Learn more about the project](https://github.com/Y4HYA4/TheRealBachelorsDocs#readme)
-
-
+> We look forward to working with you please [Learn more about the project](welcome/hi.md)
 
 ## Contribution Options
 We have provided several options for you to empower the project.

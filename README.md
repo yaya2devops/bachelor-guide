@@ -6,6 +6,7 @@
  <a href="welcome/../docs/welcome/hi.md">Guide to Computer Engineering</a> 
 </h1>
 
+ <img src="docs/images/new-get-in.png">
 
 
 ## Connect with students
