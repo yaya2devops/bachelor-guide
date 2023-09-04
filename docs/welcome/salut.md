@@ -8,15 +8,15 @@ En tant qu'étudiants nous-mêmes, nous comprenons les défis qui peuvent surven
 
 Notre projet vise à fournir un **accès instantané à la connaissance.** Nous avons suivi un long processus pour atteindre ces objectifs, qui est toujours en cours. 
 
-Vous pouvez voir certains des événements qui se sont produits depuis [ici](docs/inspirations.md).
+Vous pouvez voir certains des événements qui se sont produits depuis [ici](../inspirations.md).
 
-Vous pouvez trouver l'[ancienne version](https://yaya2devops.github.io/BETA_BachelorsDocs/#/) qui pourrait vous inspirer.
+Vous pouvez trouver l'[ancienne version](https://stale.computer-engineering.tech/#/) qui pourrait vous inspirer.
 
-Certains éléments d'une petite partie de Behind the Scenes peuvent être trouvés dans [this.](docs/behindascene/README.md)
+Certains éléments d'une petite partie de Behind the Scenes peuvent être trouvés dans [this.](../behindascene/README.md)
 
 Tout au long de ce projet, nous avons été confrontés à un certain nombre de défis car la plupart des étudiants n'aiment toujours pas l'idée de partager leur travail au nom de l'open source, et j'ai dû expliquer la vision et la valeur gagnée. Malgré ces défis, nous avons pu faire des progrès significatifs et fournir une quantité substantielle de matériaux le long de la structure que j'ai moi-même conçue pour rendre le chemin plus clair. Certains des résultats et des découvertes les plus significatifs de notre projet incluent les documents requis pour tous les semestres au format lecteur, ainsi qu'une pléthore d'instructions de laboratoire pratiques que les étudiants peuvent suivre. 
 
-Plus de laboratoires peuvent être trouvés [ici](https://github.com/Y4HYA4/UniversityLabs#readme).
+Plus de laboratoires peuvent être trouvés [ici](https://labs.computer-engineering.tech/).
 
 Le reste de ce document est organisé en semestres, sujets, chapitres et logiciels pratiques. Nous espérons qu'en suivant cette structure, vous serez en mesure de naviguer facilement dans les informations que nous avons fournies et d'acquérir une compréhension globale du diplôme. 
 
