@@ -46,7 +46,6 @@ For an easy way to work with LaTeX, consider using an **online LaTeX editor** li
 
 <details>
 <summary>
-
 🤐 Zipping Face-To-Face!
 
 </summary>
@@ -59,9 +58,11 @@ For an easy way to work with LaTeX, consider using an **online LaTeX editor** li
 
 ![Project->Import->Pick Zip](hello/Hello%20Yaya/import-from-local.png)
 
-> There was internet and It was imported x)
+> There was internet and It was imported.
 
 5. Compile the document and observe the output. 
+
+As soon as you import the project, it will seamlessly direct you to the following page.
 
 ![PoC Hello Yaya](hello/Hello%20Yaya/hello-yaya-preview.png)
 
