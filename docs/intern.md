@@ -96,14 +96,12 @@ Internship experiences vary, but you can expect to work on tasks related to your
 </details>
 
 <details>
-<summary>5. No internship, and I have no idea what topic to go for.. I gave up. <br>What should I do in this situation?</summary>
+<summary>5. No internship. No idea what topic to go for.. I give up?</summary>
 
-Having people around can be nice, it is not an absolute necessity. 
-
+Having people around can be nice, BUT it is not an absolute necessity. <br>
 You possess the potential to chart your own course, and others will take notice in due time.
 
-Meaning. Start to work on your LaTeX report immediately. 
-
+Meaning. Start to work on your LaTeX report immediately. <br>
 I have supplied you with all the resources and information I once hoped to find, which should enable you to successfully complete the job.
 
 Come <a href="#/control">Join me</a> more where I guide you to the next level.
@@ -140,13 +138,11 @@ Certainly, I've already <a href="#/renewal/">renewed the domain here</a>, and I'
 <summary>
 9. This is not a question, but I feel so ready for this. Thanks a lot.
 </summary>
-Pleasure! I love this
+ 
+Pleasure. I love that!
 
-So! It's time to demonstrate your commitment and make the most out of this experience.
-
-Create, Build, Adjust, and deliver!
-
-⚡ This way, I'll sense that energy flowing from the universe without the need for a single word! 
+So! It's time to demonstrate your commitment and make the most out of this experience.<br>
+Create, Build, Adjust, and deliver! <br>This way, I'll sense that energy flowing from the universe without the need for a single word! 
 
 </details>
 
