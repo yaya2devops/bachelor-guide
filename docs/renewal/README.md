@@ -10,7 +10,7 @@ If you're in proximity, this could provide you with valuable insights to the mon
 
 Before  everything, I wanted to ascertain the precise amount I needed, so I turned to Google for assistance.
 
-![Google Helps Conversion TND to US Dollars](assets/0-conversion.png)
+![Google Helps Conversion TND to US Dollars](assets/conver-smaller.png)
 
 # Proceeding to My Bank
 
@@ -35,7 +35,7 @@ I'm pretty sure it was destined for this side; Anyway.
 # Empowering the Future For You
 The money arrived once the operation was completed, and I received the following message from the postal service.
 
-![MSG Yaya Post Deposit Done](assets/4-cti-deposit.png)
+![MSG Yaya Post Deposit Done](assets/CTI-deposit-smaller.png)
 
 I eventually accessed my domain control panel and renewed it exclusively for you!
 

@@ -54,13 +54,15 @@ For an easy way to work with LaTeX, consider using an **online LaTeX editor** li
 
 </details>
 
-4. Create a new project in **Overleaf** and import the zipped `Hello Yaya.zip` Folder.
+4. Create a new project in **Overleaf** and click Import Project
+
+5. Pick the zipped `Hello Yaya.zip` Folder.
 
 ![Project->Import->Pick Zip](hello/Hello%20Yaya/import-from-local.png)
 
 > There was internet and It was imported.
 
-5. Compile the document and observe the output. 
+6. Watch the Compiler do it for you, observe the output.
 
 As soon as you import the project, it will seamlessly direct you to the following page.
 

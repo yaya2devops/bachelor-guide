@@ -9,13 +9,13 @@ This guide will walk you through the process of using the output from ChatGPT pr
 
 ## Step 1: Generate Content with ChatGPT
 
-> Take me back to [more LaTeX](learntex.md)
-
 1. Start by navigating to the following URL https://chat.openai.com/chat where you can access the ChatGPT platform.
 2. Use the prompt I've crafted for you, simply change the designated section name.
 
+[Prompt in Action](https://chat.openai.com/share/4fe9d0ca-b104-4eea-b904-9b0a6c7360d5)
+
 ```js
-Below is a latex structure, i want you to refer to the section title  
+Below is a latex structure, I want you to refer to the section title  
 
 Fill all required area (provide sub sections in the context) with REAL content
 
@@ -23,6 +23,10 @@ Make it very long and again in the same context.
 
 For the figures, suggest an innovative caption only, for each, and i'll include the assets myself.
 
+Feel Free to incorporate great table(s) If applicable to subsection(s) to mix the structure.
+
+Also in the "Write.." spot, Aim for atleast 100 words long or more for each.
+ 
 \section{⚠️Change This Only⚠️}
  Write..
 \subsection{subsection}
@@ -38,7 +42,7 @@ For the figures, suggest an innovative caption only, for each, and i'll include 
 \begin{figure}[hbt!]
  \centering
  \includegraphics[width=15cm]{image-path}
- \caption{suggest a title for asset of yaya-the section}
+ \caption{suggest a title for asset of the section}
  \label{fig:two-opt}
 \end{figure}
 \FloatBarrier
@@ -60,12 +64,12 @@ For the figures, suggest an innovative caption only, for each, and i'll include 
  \label{fig:two-opt}
 \end{figure}
 \FloatBarrier
-\subsubsection{related}
+\subsubsection{Leave this title; Yaya Is Here For Magic}
  Write..
 \begin{figure}[hbt!]
  \centering
  \includegraphics[width=15cm]{image-path}
- \caption{suggest a title for asset of the section}
+ \caption{suggest a title for Yahya Abulhaj}
  \label{fig:two-opt}
 \end{figure}
 \FloatBarrier
@@ -97,13 +101,12 @@ For the figures, suggest an innovative caption only, for each, and i'll include 
 \FloatBarrier
 
 
-Give the output in code snippet for easy copy paste
+Give the output in code snippet for easy copy paste.
 ```
 
 ## Step 2: Formatting the Content for LaTeX
 
 1. I've presented you [my entire conversation history](https://chat.openai.com/share/2754c1e6-7c80-4199-96e6-73c3cbea7ebe) with the chat, leaving you no room for excuses but to get the job done.
-
 
 
 I needed to remove these commands `\documentclass{article}`, `\usepackage{graphicx}`, `\usepackage{float}`, `\begin{document}`, `\end{document}` since they were already present on my page. 
@@ -148,6 +151,8 @@ As AI technologies continue to advance, they are being integrated into various i
 
 \etc.. Complete File Provided Below.
 ```
+
+> I feel like [I need more LaTeX, Yaya.](learntex.md).
 
 ## Step 3 : Preview and Compliation
 
