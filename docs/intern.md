@@ -4,6 +4,13 @@
 # Mandatory Internship 1: Summer Intern
 After the 2nd year and 4 semesters of success, student should be able to look for and secure an internship. 
 
+- [LaTeX Complete Guide](#🤖-do-you-need-latex-help)
+- [Insights On Experience Workflow](#workflow)
+- [Internship Presentation](#present-2nd-year-project)
+- [Yaya and His Reflections](#reflections-on-my-summer-internship)
+- [Tips To win an Intern](#tips-for-a-successful-experience)
+- [Frequently Asked Questions](#students-faq)
+
 It is strongly recommended that you seek any experience earlier than that; the earlier you proceed, the higher you will rise.
 
 ![BRANCH_INSIGHT](images/InternsAssets/summerintern.png)
@@ -38,8 +45,7 @@ Along with your **[Internship report](https://fr.wikipedia.org/wiki/LaTeX)**, yo
 
 This is an excellent opportunity for you to share what you have learned while also enhancing your confidence in the real world.
 
-By doing so, you will be able to assist others who are in the same situation as you. 
-
+By so, you will be able to assist others who are in the same situation as you. 
 Same as what I'm currently doing with you right now.
 
 Presenting will help you improve your communication skills. Prepare!
@@ -56,14 +62,14 @@ The dates of delivery that I had while my summer intern are listed below.
 |    Presentation   | 19 November 2022 |
 
 ## Tips for a successful experience
-- Be goal-oriented in terms of what you want to learn and what interests you prior to this date.
-- Maintain a regular timesheet and keep track of your daily activities meanwhile the experience.
-- Interact with colleagues, and make communication a key focus.
+- Be [goal-oriented](https://greatergood.berkeley.edu/article/item/seven_ways_to_find_your_purpose_in_life) in terms of what you want to learn and what interests you prior to this date.
+- Maintain a [regular timesheet](https://www.healthline.com/health/benefits-of-journaling#reduced-stress) and keep track of your daily activities meanwhile the experience.
+- Interact with colleagues, and make [communication a key focus](https://www.linkedin.com/pulse/power-effective-communication-digital-age-shaik-saleem#:~:text=Clear%20and%20Concise%20Messaging%3A%20In,it%20comes%20to%20digital%20communication.).
 
 
 As I conclude, my final advice to you is to get going, even in situations where you may not fully understand.
 Take action, ask questions, seek guidance, and strive to learn more.
-It is through these experiences that you will truly grow into the architect of your own success.
+It is through these experiences that you will truly grow into [the architect of your own success](https://www.redbull.com/int-en/how-to-shape-your-future-based-on-strengths).
 
 
 ## Students FAQ

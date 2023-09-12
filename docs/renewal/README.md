@@ -1,6 +1,15 @@
+<br>
+<br>
+
 # For You to Learn More
 
 I've just renewed the domain for another year for the generations to come, For You. I guess It exists a profound beauty in the simple act of paying with your own hard-earned money —all for the purpose of facilitating others learning and growth.
+
+- [Starting with Calculations](#starting-with-calculations)
+- [Proceeding to My Bank](#proceeding-to-my-bank)
+- [Pushing the Money ](#pushing-the-money)
+- [Empowering the Future For You](#empowering-the-future-for-you)
+
 
 I thought I invite you to join me on this journey, where we navigate the process of making this domain live, both now and in the years ahead (Yes, I'll commit to keep paying this for You). Residing in North Africa, a developing nation, it's important to note that the process may not unfold as seamlessly as in more developed regions.
 
@@ -35,13 +44,13 @@ I'm pretty sure it was destined for this side; Anyway.
 # Empowering the Future For You
 The money arrived once the operation was completed, and I received the following message from the postal service.
 
-![MSG Yaya Post Deposit Done](assets/CTI-deposit-smaller.png)
+![MSG Yaya Post Deposit Done](assets/money-out-for-you.jpeg)
 
-I eventually accessed my domain control panel and renewed it exclusively for you!
+### I eventually accessed my domain control panel and renewed it exclusively for you!
 
 ![Domain Renwal! For you!!](assets/1-domain-renewal-for-open-source.png)
 
 That concludes a glimpse into my journey to ensure the website works seamlessly for you, all with the aim of fostering your learning and college success!
 
- Go Hard On Your Future!
+ ### Go Hard On Your Future!
 
