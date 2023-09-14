@@ -32,7 +32,7 @@ images/Drive/2.png
 |:--------                                              |:--------:          |:--------:    |:--------:    |
 |  **IOT & Embedded Systems**             |    [<img src="images/Drive/MAT.png" alt="Wait for it!"  >](https://drive.google.com/drive/folders/1JE-YKVxuEXXHk_7HxaPY-KQ4A4nKtoeV)              |        [<img src="images/Drive/MAT.png" alt="Wait for it!"  >](https://drive.google.com/drive/folders/1tUIBi8edWYZhlVXxGlEgLLAw5eDsayxn)      |  [<img src="images/Drive/MAT.png" alt="Wait for it!" >](https://drive.google.com/drive/folders/1iaA3hUW-RigsXSjlDPegekHv3UnvZlZX)    |
 
-> Learn about [Summer Internships](https://istic.computer-engineering.tech/#/intern)
+
 
 |     Path 2                                                   |    Semester 3               |   Semester 4          | Semester 5 |
 |:--------                                              |:--------:          |:--------:    |:--------:    |
@@ -76,6 +76,9 @@ We are delighted to be able to provide  students with an ever-growing archive of
 [For more information..](contributions.md)
 
 <img src="images/Drive/yes.png"  >
+
+|[Get Internships](https://istic.computer-engineering.tech/#/intern)|[Start Issue](https://github.com/yaya2devops/bachelor-guide/issues/new?title=Let%20Us%20Know&body=%0A%0A%5BEnter%20feedback%20here%5D%0A%0A%0A---%0A%23%23%23%23%20Guide%20Details%0A%E2%9A%A0%20*Leave%20This%20section%20for%20GitHub%20and%20Guide%20issue%20redirections*%0A*%20ID%3A%20%5B7e2c0e6e-8b6d-4c2f-aaef-15f736a7b2a1%5D%0A*%20Version%20Independent%20ID%3A%20%5Ba5f1d387-7be9-4f0c-b92d-d52d16ef1d8e%5D%0A*%20Content%3A%20%5BBachelors%20in%20Computer%20Engineering%20Guide%5D%0A*%20Content%20Source%3A%20%5Bbachelor-guide/docs/README.md%5D(https://github.com/yaya2devops/bachelor-guide/blob/main/docs/README.md)%0A*%20Service%3A%20%5Bcollege-students-empower%5D%0A*%20GitHub%20Handle%3A%20%40yaya2devops)|
+|---|---|
 
 
 
