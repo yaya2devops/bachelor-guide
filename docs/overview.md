@@ -47,11 +47,14 @@ Students are required to have at least **two** **internships**.
 | ❶ | Project End of the Year        | PFA    |
 | ❷ | Project End of Study           | PFE    | 
 
+
+
 Internships provide students with the opportunity to gain experience in their field of interest and to develop professional skills. 
 ![Interns](images/intern.png)
 
-
-- ⚠️ *Quickstart* your⚡Summer Internship⚡️from [here.](https://istic.computer-engineering.tech/#/intern)
+<a href="https://istic.computer-engineering.tech/#/intern">
+  <img src="images/InternsAssets/summer-intern.png" alt="Ignite Summer Intern" style="width: 150px; height: auto;" />
+</a>
 
 
 # Get Started
@@ -62,7 +65,7 @@ Each section will include usefull resources and content to assist you in excelli
 
 | Mutual      | IOT & Embedded systems Speciality |Network and Systems Engineering Speciality |Compressed Materials|   
 | ----------- | ----------- |----------- |----------- |
-| [Semester Ⅰ](Semester1/1.md )|[Semester Ⅲ - IOT](Semester3-IOT/3.md)| [Semester Ⅲ - IRS](Semester3-IRS/3.md)|[Content Boost](ISTIC_Materials.md)|
+| [Semester Ⅰ](Semester1/1.md )|[Semester Ⅲ - IOT](Semester3-IOT/3.md)| [Semester Ⅲ - IRS](Semester3-IRS/3.md)|[Renewal Process](renewal/README.md)|
 | [Semester Ⅱ](Semester2/2.md)        |[Semester Ⅳ - IOT](Semester4-IOT/4.md)| [Semester Ⅳ - IRS](Semester4-IRS/4.md) | [Open Labs](https://labs.computer-engineering.tech/)|
 | [Internships](intern.md)       |[Semester Ⅴ - IOT](Semester5-IOT/5.md)| [Semester Ⅴ - IRS](Semester5-IRS/5.md) | [Old Version](https://stale.computer-engineering.tech/#/)|
 

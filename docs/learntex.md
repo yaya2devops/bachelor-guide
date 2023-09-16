@@ -47,19 +47,24 @@ For an easy way to work with LaTeX, consider using an **online LaTeX editor** li
 <details>
 <summary>
 🤐 Zipping Face-To-Face!
+
 </summary>
 
-![Import Zipped](hello/Hello%20Yaya/yaya-zipped.png)
+![Zipping Realtime](hello/Hello%20Yaya/yaya-zipped.png)
 
 </details>
 
-4. Create a new project in **Overleaf** and import the zipped `Hello Yaya.zip` Folder.
+4. Create a new project in **Overleaf** and click Import Project
+
+5. Pick the zipped `Hello Yaya.zip` Folder.
 
 ![Project->Import->Pick Zip](hello/Hello%20Yaya/import-from-local.png)
 
-> There was internet and It was imported x)
+> There was internet and It was imported.
 
-5. Compile the document and observe the output. 
+6. Watch the Compiler do it for you, observe the output.
+
+As soon as you import the project, it will seamlessly direct you to the following page.
 
 ![PoC Hello Yaya](hello/Hello%20Yaya/hello-yaya-preview.png)
 
@@ -67,7 +72,7 @@ Easy right!
 Overleaf provides a real-time preview of your LaTeX document.<br>
 Let's keep going King or Queen!
 
-And yeah, you can find Hello Yaya just [here](https://github.com/yaya2devops/bachelor-guide/blob/main/docs/hello/Hello%20Yaya.zip).
+And yeah, you can find Hello Yaya just [here](https://github.com/yaya2devops/bachelor-guide/blob/main/docs/hello/zip-hello-yaya.zip).
 
 ### Step 3 : LaTeX Convert to PDF
 
@@ -90,9 +95,10 @@ project/
 │   ├── architectures/
 │   │   ├── logical-diagram.png
 │   │   ├── conceptual-diagram.png
-│   │   └── sentinel-to-.png
-│   ├── screenshots/
-│   │   └── prove-of-my-work.jpg
+│   │   └── physical-diagram.png
+│   └── screenshots/
+│       ├── prove-of-my-work.jpg
+│       └── my-thing.jpg
 ├── main.tex
 ├── pages/
 │   ├── TitlePage.pdf
@@ -101,10 +107,10 @@ project/
 │   ├── three.tex
 │   ├── four.tex
 │   ├── five.tex
-└   └── six.tex
+└───└── six.tex
 ```
 
-Nothing that serious we just  created a `main.tex` file where we can call all your other **Hello Yaya** files but you can call them something more meaningful to you.
+Nothing that serious we just  created a `main.tex` file where we can call all your other **Hello Yaya** files but you can call them something more meaningful to you like one, two, .. **or?** Keep reading.
 
 Arrange them in the order you want them to be viewed.
 ```
@@ -125,9 +131,8 @@ Arrange them in the order you want them to be viewed.
 You're likely getting the hang of it by now. This structure helps you keep your project organized and makes it easier to manage your large report.
 
 ## A Well-Structured LaTeX Project
-An advanced and efficient LaTeX project structure should look something like this.
+The time comes to expose the secret for you. An advanced and efficient **LaTeX project structure** should look something like this.
 
-1. On Your LaTeX Editor Create the following structure- You can also create it locally and then import all.
 ```
 ./
 ├── assets/
@@ -139,7 +144,7 @@ An advanced and efficient LaTeX project structure should look something like thi
 │   ├── E-Acronyms/
 │   ├── F-Introduction/
 │   ├── G-your-path/
-│   ├── H-more insights
+│   ├── H-more-insights
 │   ├── I-architect/
 │   ├── J-Implement/
 │   ├── K-Conclude/
@@ -154,7 +159,7 @@ An advanced and efficient LaTeX project structure should look something like thi
 │   ├── E-Acronyms.tex
 │   ├── F-Introduction.tex
 │   ├── G-your-path.tex
-│   ├── H-more insights.tex
+│   ├── H-more-insights.tex
 │   ├── I-architect.tex
 │   ├── J-Implement.tex
 │   ├── K-Conclude.tex
@@ -165,9 +170,17 @@ An advanced and efficient LaTeX project structure should look something like thi
 └── README.md---why-me
 ```
 
+### Action Required
+1. On Your LaTeX Editor Create the following structure. You can also create it locally and then import all.
 2. Incorporate this structure into your main.tex file to organize your document's sections.
 3. Including Subdocuments
 4. Store images, diagrams, and other assets in the assets directory for easy access and inclusion in your LaTeX document.
+
+#### Just [hand me a Template](https://drive.google.com/drive/folders/1OLvX6kEaIFk-8JgGyrW1E_Wl-5sx_zhP?usp=sharing)
+
+The attached document serves as a starting point made by our university ISTIC and provided to its students, You. 
+
+Please ensure adherence to the title page format while incorporating your own content. 
 
 ### Progressing with Your Project
 

@@ -5,21 +5,21 @@
  
 ![Banner](../images/mainreadme.gif)
 
-Welcome to the documentation for our bachelor's degree project, a project entirely driven by students with the goal of providing comprehensive and accessible learning materials.
+Welcome to the guide for our bachelor's degree project, a project entirely driven by students with the goal of providing comprehensive and accessible learning materials.
 
 As students ourselves, we understand the challenges that can come with starting a new learning journey. It can be overwhelming to try and navigate through a sea of information, not knowing where to start or what materials are essential. That's why we decided to take on this project - to create a resource that would make it easier for anyone to begin their learning without confusion or a lack of information.
 
 Our project aims to provide **instant access to knowledge.** We went through a lengthy process to achieve these objectives, which is still ongoing. 
 
-You can view some of the events that occurred from [here](docs/inspirations.md).
+You can view some of the events that occurred from [here](../inspirations.md).
 
-You can find the [older version](https://yaya2devops.github.io/BETA_BachelorsDocs/#/) that may inspire you.
+You can find the [older version](https://stale.computer-engineering.tech/#/) that may inspire you.
 
-Some assets from a small portion of Behind the Scenes can be found in [this.](docs/behindascene/README.md)
+Some assets from a small portion of Behind the Scenes can be found in [this.](../behindascene/README.md)
 
 Throughout the course of this project, we faced a number of challenges since most students still don't like the idea of sharing their work for the sake of open source, and I had to explain the vision and the value earned. Despite these challenges, we were able to make significant progress and provide a substantial amount of materials along the structure I designed myself to make the path more clear. Some of the most significant results and findings of our project include required documents for all semesters in drive format, as well as a plethora of hands-on lab instructions that students can follow.
 
-More labs can be found [here](https://yaya2devops.github.io/UniversityLabs/)
+More labs can be found [here](https://labs.computer-engineering.tech/)
 
 The rest of this document is organized into Semesters, subjects, chapters and Hands-on software. We hope that by following this structure, you will be able to easily navigate through the information we have provided and gain a comprehensive understanding of the degree. 
 
@@ -37,7 +37,7 @@ We'll do it with these quotes in mind.
 Continue to look through the docs folder.
 Simply shoot the necessary file(s) **.md** after having it forked in your local machine when thinking about contributing.
 
-- [Why we think this is important?](docs/ISTIC_Materials.md#important-notice)
+- [Why we think this is important?](../ISTIC_Materials.md#important-notice)
 
 
 ``` 
@@ -68,7 +68,7 @@ Simply shoot the necessary file(s) **.md** after having it forked in your local 
 ```
 
 Have you finished committing? Return to this repository and pull a request.
-From [here](docs/contributors.md), you can join the contributors.
+From [here](../contributors.md), you can join the contributors.
 
 ## [Sharing Is Caring](https://forms.zohopublic.com/isticbc/form/Resources/formperma/1-4w1KAlQUkKxzvRsc2V688moUg8Ki1yM7fQVmrZpuQ?fbclid=IwAR1FDnq3LGfBSceGha03cWRwXUorw1WSEr_uuH7_egYI33ePVNUCJ0ylLJQ)
 We appreciate your presence; if you have something to posit, please use one of the approaches listed below.
