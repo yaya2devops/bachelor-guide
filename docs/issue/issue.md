@@ -1,6 +1,6 @@
 ## A Roadmap for Your Unique Issue
 
-We'll go through the process of creating a custom GitHub URL, enabling you to seamlessly assist users in requesting support for their issues.
+We'll go through the process of making a customized GitHub issue direction URL, enabling you to seamlessly assist users in requesting support for their issues.
 
 
 <details>
@@ -9,8 +9,11 @@ We'll go through the process of creating a custom GitHub URL, enabling you to se
 Facilitating their resolution with a pre-filled, personalized message.
 </summary>
 
+<br>
+
 |💡Issue Explained| It is like a virtual sticky note where people can write down problems, ideas, or tasks related to a project. |
 |---:|:---|
+
 
 <img src="assets/issue-url-end-query.png">
 
@@ -76,7 +79,15 @@ https://github.com/yaya2devops/bachelor-guide/issues/new?title=Let%20Us%20Know&b
 The URL will simplify the process of creating a new issue for users.
 
 
-Make sure to [share this URL with your users to direct them to create issues](https://github.com/yaya2devops/bachelor-guide/issues/new?title=Let%20Us%20Know&body=%0A%0A%5BEnter%20feedback%20here%5D%0A%0A%0A---%0A%23%23%23%23%20Guide%20Details%0A%E2%9A%A0%20*Leave%20This%20section%20for%20GitHub%20and%20Guide%20issue%20redirections*%0A*%20ID%3A%20%5B7e2c0e6e-8b6d-4c2f-aaef-15f736a7b2a1%5D%0A*%20Version%20Independent%20ID%3A%20%5Ba5f1d387-7be9-4f0c-b92d-d52d16ef1d8e%5D%0A*%20Content%3A%20%5BBachelors%20in%20Computer%20Engineering%20Guide%5D%0A*%20Content%20Source%3A%20%5Bbachelor-guide/docs/README.md%5D(https://github.com/yaya2devops/bachelor-guide/blob/main/docs/README.md)%0A*%20Service%3A%20%5Bcollege-students-empower%5D%0A*%20GitHub%20Handle%3A%20%40yaya2devops). <br>This will help them create issues and take their experience to the next level.
+Make sure to [share this URL with your users to direct them to create issues](https://github.com/yaya2devops/bachelor-guide/issues/new?title=Let%20Us%20Know&body=%0A%0A%5BEnter%20feedback%20here%5D%0A%0A%0A---%0A%23%23%23%23%20Guide%20Details%0A%E2%9A%A0%20*Leave%20This%20section%20for%20GitHub%20and%20Guide%20issue%20redirections*%0A*%20ID%3A%20%5B7e2c0e6e-8b6d-4c2f-aaef-15f736a7b2a1%5D%0A*%20Version%20Independent%20ID%3A%20%5Ba5f1d387-7be9-4f0c-b92d-d52d16ef1d8e%5D%0A*%20Content%3A%20%5BBachelors%20in%20Computer%20Engineering%20Guide%5D%0A*%20Content%20Source%3A%20%5Bbachelor-guide/docs/README.md%5D(https://github.com/yaya2devops/bachelor-guide/blob/main/docs/README.md)%0A*%20Service%3A%20%5Bcollege-students-empower%5D%0A*%20GitHub%20Handle%3A%20%40yaya2devops). 
+
+
+####  Coding Dreams
+The URL leads people directly to a sign in/up page in order to view the issue.
+
+When taking such action, it has the potential to ignite their interest in the platform and motivating them to become future developers.
+
+And in that way, you were a significant factor behind such a noble decision!
 
  
 

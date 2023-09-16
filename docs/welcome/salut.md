@@ -2,7 +2,7 @@
 
 ![Bannière](../images/mainreadme.gif)
 
-Bienvenue dans la documentation de notre projet de **licence**, un projet entièrement piloté par des étudiants dans le but de fournir des supports d'apprentissage complets et accessibles.
+Bienvenue dans ce guide de notre projet de **licence**, un projet entièrement piloté par des étudiants dans le but de fournir des supports d'apprentissage complets et accessibles.
 
 En tant qu'étudiants nous-mêmes, nous comprenons les défis qui peuvent survenir au début d'un nouveau parcours d'apprentissage. Il peut être écrasant d'essayer de naviguer dans une mer d'informations, sans savoir par où commencer ni quels matériaux sont essentiels. C'est pourquoi nous avons décidé d'entreprendre ce projet - créer une ressource qui permettrait à quiconque de commencer plus facilement son apprentissage sans confusion ni manque d'informations.
 

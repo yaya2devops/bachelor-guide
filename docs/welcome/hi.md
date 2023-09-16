@@ -5,7 +5,7 @@
  
 ![Banner](../images/mainreadme.gif)
 
-Welcome to the documentation for our bachelor's degree project, a project entirely driven by students with the goal of providing comprehensive and accessible learning materials.
+Welcome to the guide for our bachelor's degree project, a project entirely driven by students with the goal of providing comprehensive and accessible learning materials.
 
 As students ourselves, we understand the challenges that can come with starting a new learning journey. It can be overwhelming to try and navigate through a sea of information, not knowing where to start or what materials are essential. That's why we decided to take on this project - to create a resource that would make it easier for anyone to begin their learning without confusion or a lack of information.
 

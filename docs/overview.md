@@ -47,11 +47,14 @@ Students are required to have at least **two** **internships**.
 | ❶ | Project End of the Year        | PFA    |
 | ❷ | Project End of Study           | PFE    | 
 
+
+
 Internships provide students with the opportunity to gain experience in their field of interest and to develop professional skills. 
 ![Interns](images/intern.png)
 
-
-- ⚠️ *Quickstart* your⚡Summer Internship⚡️from [here.](https://istic.computer-engineering.tech/#/intern)
+<a href="https://istic.computer-engineering.tech/#/intern">
+  <img src="images/InternsAssets/summer-intern.png" alt="Ignite Summer Intern" style="width: 150px; height: auto;" />
+</a>
 
 
 # Get Started
