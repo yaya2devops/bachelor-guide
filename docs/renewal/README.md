@@ -19,13 +19,13 @@ If you're in proximity, this could provide you with valuable insights to the mon
 
 Before  everything, I wanted to ascertain the precise amount I needed, so I turned to Google for assistance.
 
-![Google Helps Conversion TND to US Dollars](assets/conver-smaller.png)
+![Google Helps Conversion TND to US Dollars](assets/lq/conver-smaller.png)
 
 # Proceeding to My Bank
 
 I proceeded to my bank to obtain the necessary funds.
 
-![ATB Bank Receipt](assets/2-for-open-source.png)
+![ATB Bank Receipt](assets/lq/lq-atb-rec.png)
 
 # Pushing the Money 
 I proceeded to visit our neighborhood's postal service to handle the funds.
@@ -35,11 +35,19 @@ I proceeded to visit our neighborhood's postal service to handle the funds.
 
 The officer did that and returned me the following
 
-![Deposit Backside CTI](assets/3-in-post-deposit-2.png)
+![Deposit Backside CTI](assets/lq/lq-post-depo.png)
 
-I'm pretty sure it was destined for this side; Anyway.
+<details>
 
-![Deposit Realside CTI](assets/4-deposit-was-supposed-to-be-here.jpeg)
+<summary> I'm pretty sure it was destined for this side;
+
+</summary>
+
+![Deposit Realside CTI](assets/lq/lq-depo-back.png)
+
+</details>
+
+Anyway ..
 
 # Empowering the Future For You
 The money arrived once the operation was completed, and I received the following message from the postal service.
