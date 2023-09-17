@@ -46,7 +46,8 @@ Along with your **[Internship report](https://fr.wikipedia.org/wiki/LaTeX)**, yo
 This is an excellent opportunity for you to share what you have learned while also enhancing your confidence in the real world.
 
 By so, you will be able to assist others who are in the same situation as you. 
-Same as what I'm currently doing with you right now.
+
+I'm doing exactly that for you!
 
 Presenting will help you improve your communication skills. Prepare!
 
@@ -70,87 +71,6 @@ The dates of delivery that I had while my summer intern are listed below.
 As I conclude, my final advice to you is to get going, even in situations where you may not fully understand.
 Take action, ask questions, seek guidance, and strive to learn more.
 It is through these experiences that you will truly grow into [the architect of your own success](https://www.redbull.com/int-en/how-to-shape-your-future-based-on-strengths).
-
-
-## Students FAQ
-
-
-<details>
-<summary>1. What is an end-of-year project (PFA)?</summary>
-
-An end-of-year project (PFA) is a comprehensive academic project that students complete at the end of a given year while pursuing a degree program e.g. at the end of your first or second year in college.
-</details>
-
-<details>
-<summary>2. What is an end-of-study project (PFE)?</summary>
-
-An end-of-study project also PFE is a comprehensive academic project that students complete at the end of their degree program.
-</details>
-
-<details>
-<summary>3. Is the internship paid or unpaid?</summary>
-
-Internships can be paid, unpaid, or offer a stipend. Paid internships are more common in certain industries, but the experience gained from an unpaid internship is valuable. 
-
-My internship at <a href="https://raw.githubusercontent.com/yaya2devops/bachelor-guide/main/docs/images/InternsAssets/attes.png">Linedata</a> was unpaid but got my takeoff to the sky.
-</details>
-
-<details>
-<summary>4. What can I expect during my internship?</summary>
-
-Internship experiences vary, but you can expect to work on tasks related to your field, collaborate with colleagues, attend meetings, and learn from professionals in the industry.
-</details>
-
-<details>
-<summary>5. No internship. No idea what topic to go for.. I give up?</summary>
-
-Having people around can be nice, BUT it is not an absolute necessity. <br>
-You possess the potential to chart your own course, and others will take notice in due time.
-
-Meaning. Start to work on your LaTeX report immediately. <br>
-I have supplied you with all the resources and information I once hoped to find, which should enable you to successfully complete the job.
-
-Come <a href="#/control">Join me</a> more where I guide you to the next level.
-
-</details>
-
-
-<details>
-<summary>
-6. How much pages You suggest I do for my report?
-</summary>
-
-I highly recommend doing a 30 "plus" pages for your PFA. So you can aim and feel comfortable for 60 plus on your PFE.
-</details>
-
-<details>
-<summary>
-7. Good! What about the languages for report and presenation?
-</summary>
-
-You have the flexibility to choose a language for both tasks. This means you can, for instance, select French for your report and French for your presentation, or opt for English for both your report and presentation.
-</details>
-
-<details>
-<summary>
-8. Will this website stay live and I can access it whenever I need.
-</summary>
-
-Certainly, I've already <a href="#/renewal/">renewed the domain here</a>, and I'll continue to do so consistently to ensure you can learn anytime, anywhere. Promise!
-
-</details>
-
-<details>
-<summary>
-9. This is not a question, but I feel so ready for this. Thanks a lot.
-</summary>
- 
-Pleasure. I love that!
-
-So! It's time to demonstrate your commitment and make the most out of this experience.<br>
-Create, Build, Adjust, and deliver! <br>This way, I'll sense that energy flowing from the universe without the need for a single word! 
-
-</details>
 
 
 
