@@ -176,11 +176,11 @@ The time comes to expose the secret for you. An advanced and efficient **LaTeX p
 3. Including Subdocuments
 4. Store images, diagrams, and other assets in the assets directory for easy access and inclusion in your LaTeX document.
 
-#### Just [hand me a Template](https://drive.google.com/drive/folders/1OLvX6kEaIFk-8JgGyrW1E_Wl-5sx_zhP?usp=sharing)
+#### Just hand me [a Template](https://drive.google.com/drive/folders/1OLvX6kEaIFk-8JgGyrW1E_Wl-5sx_zhP?usp=sharing) or let me [know more](control.md)
 
-The attached document serves as a starting point made by our university ISTIC and provided to its students, You. 
+The attached template serves as a starting point made by our university ISTIC and provided to its students. You. 
 
-Please ensure adherence to the title page format while incorporating your own content. 
+> Please ensure adherence to the title page format while incorporating your own content. 
 
 ### Progressing with Your Project
 

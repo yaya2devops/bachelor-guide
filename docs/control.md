@@ -1,9 +1,26 @@
-## Take Control
+# Take Control Today
 
-Here are clear instructions to proactively shape your future:
+I'll give you precise steps to follow closely, allocating significant effort to each, to maximize benefits and unleash your full potential.
 
-1. Choose a topic that genuinely interests you.
+
+We will begin by addressing some improvements to the mind.  <br>Please take into account the statements I am presenting to you;
+
+
+<img src="issue/assets/thoughts-to-shape-ur-future.jpeg" width="320">
+
+
+### Here are clear instructions to proactively shape your future;
+
+1. [Choose a topic](https://www.knowledgehut.com/blog/cloud-computing/cloud-computing-future) that genuinely interests you.
 2. Learn about [LaTeX From here.](learntex.md)
-2. Compose your report using LaTeX with that topic in mind.
+2. Compose your report using this [LaTeX template](https://drive.google.com/drive/u/4/folders/1OLvX6kEaIFk-8JgGyrW1E_Wl-5sx_zhP?usp=sharing) with that topic.
 3. Use [this prompt](prompt-poc.md) to get the job done faster.
+
+
+So, what **are you waiting for**? 
+
+Given all multitude of opportunities before you, opting for inactivity might be construed as irrational.
+
+
+
 

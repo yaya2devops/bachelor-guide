@@ -11,11 +11,11 @@ Facilitating their resolution with a pre-filled, personalized message.
 
 <br>
 
-|💡Issue Explained| It is like a virtual sticky note where people can write down problems, ideas, or tasks related to a project. |
+|💡Issue|  is like a virtual sticky note where people can write down problems, ideas, or tasks related to a project. |
 |---:|:---|
 
 
-<img src="assets/issue-url-end-query.png">
+<img src="https://raw.githubusercontent.com/yaya2devops/bachelor-guide/main/docs/issue/assets/issue-url-end-query.png">
 
 
 
@@ -59,9 +59,10 @@ To exemplify this idea, let's begin with a call to the base URL and easy query p
 
 * **Base URL:** `https://github.com/yaya2devops/bachelor-guide/issues/new` - This is the base URL of the GitHub repository where the issue is being created.
 
+[Yaya Ask For Your feedback here]
 
 ```sh
-https://github.com/yaya2devops/bachelor-guide/issues/new?title=&body=%0A%0A%5BEnter%20feedback%20here%5D%0A%0A%0A
+https://github.com/yaya2devops/bachelor-guide/issues/new?title=&body=%0A%0A%5BYaya%20Ask%20For%20Your%20feedback%20here%5D%0A%0A%0A
 ```
 
 
@@ -73,13 +74,13 @@ Best, consider passing additional data in the parameters  and deliver a query of
    2. Set an interesting body content for the issue e.g. for guide details and additional information related to the issue, including IDs, content details, source, service, and GitHub handle.
 
 ```sh
-https://github.com/yaya2devops/bachelor-guide/issues/new?title=Let%20Us%20Know&body=%0A%0A%5BEnter%20feedback%20here%5D%0A%0A%0A---%0A%23%23%23%23%20Guide%20Details%0A%E2%9A%A0%20*Leave%20This%20section%20for%20GitHub%20and%20Guide%20issue%20redirections*%0A*%20ID%3A%20%5B7e2c0e6e-8b6d-4c2f-aaef-15f736a7b2a1%5D%0A*%20Version%20Independent%20ID%3A%20%5Ba5f1d387-7be9-4f0c-b92d-d52d16ef1d8e%5D%0A*%20Content%3A%20%5BBachelors%20in%20Computer%20Engineering%20Guide%5D%0A*%20Content%20Source%3A%20%5Bbachelor-guide/docs/README.md%5D(https://github.com/yaya2devops/bachelor-guide/blob/main/docs/README.md)%0A*%20Service%3A%20%5Bcollege-students-empower%5D%0A*%20GitHub%20Handle%3A%20%40yaya2devops
+https://github.com/yaya2devops/bachelor-guide/issues/new?title=Let%20Us%20Know&body=%0A%0A%5BYaya%20Ask%20For%20Your%20feedback%20here%5D%0A%0A%0A---%0A%23%23%23%23%20Guide%20Details%0A%E2%9A%A0%20*Leave%20This%20section%20for%20GitHub%20and%20Guide%20issue%20redirections*%0A*%20ID%3A%20%5B7e2c0e6e-8b6d-4c2f-aaef-15f736a7b2a1%5D%0A*%20Version%20Independent%20ID%3A%20%5Ba5f1d387-7be9-4f0c-b92d-d52d16ef1d8e%5D%0A*%20Content%3A%20%5BBachelors%20in%20Computer%20Engineering%20Guide%5D%0A*%20Content%20Source%3A%20%5Bbachelor-guide/docs/README.md%5D(https://github.com/yaya2devops/bachelor-guide/blob/main/docs/README.md)%0A*%20Service%3A%20%5Bcollege-students-empower%5D%0A*%20GitHub%20Handle%3A%20%40yaya2devops
  ```
 
 The URL will simplify the process of creating a new issue for users.
 
 
-Make sure to [share this URL with your users to direct them to create issues](https://github.com/yaya2devops/bachelor-guide/issues/new?title=Let%20Us%20Know&body=%0A%0A%5BEnter%20feedback%20here%5D%0A%0A%0A---%0A%23%23%23%23%20Guide%20Details%0A%E2%9A%A0%20*Leave%20This%20section%20for%20GitHub%20and%20Guide%20issue%20redirections*%0A*%20ID%3A%20%5B7e2c0e6e-8b6d-4c2f-aaef-15f736a7b2a1%5D%0A*%20Version%20Independent%20ID%3A%20%5Ba5f1d387-7be9-4f0c-b92d-d52d16ef1d8e%5D%0A*%20Content%3A%20%5BBachelors%20in%20Computer%20Engineering%20Guide%5D%0A*%20Content%20Source%3A%20%5Bbachelor-guide/docs/README.md%5D(https://github.com/yaya2devops/bachelor-guide/blob/main/docs/README.md)%0A*%20Service%3A%20%5Bcollege-students-empower%5D%0A*%20GitHub%20Handle%3A%20%40yaya2devops). 
+Make sure to [share this URL with your users to direct them to create issues](https://github.com/yaya2devops/bachelor-guide/issues/new?title=Let%20Us%20Know&body=%0A%0A%5BYaya%20Ask%20For%20Your%20feedback%20here%5D%0A%0A%0A---%0A%23%23%23%23%20Guide%20Details%0A%E2%9A%A0%20*Leave%20This%20section%20for%20GitHub%20and%20Guide%20issue%20redirections*%0A*%20ID%3A%20%5B7e2c0e6e-8b6d-4c2f-aaef-15f736a7b2a1%5D%0A*%20Version%20Independent%20ID%3A%20%5Ba5f1d387-7be9-4f0c-b92d-d52d16ef1d8e%5D%0A*%20Content%3A%20%5BBachelors%20in%20Computer%20Engineering%20Guide%5D%0A*%20Content%20Source%3A%20%5Bbachelor-guide/docs/README.md%5D(https://github.com/yaya2devops/bachelor-guide/blob/main/docs/README.md)%0A*%20Service%3A%20%5Bcollege-students-empower%5D%0A*%20GitHub%20Handle%3A%20%40yaya2devops). 
 
 
 ####  Coding Dreams

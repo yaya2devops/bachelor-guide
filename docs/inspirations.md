@@ -163,3 +163,9 @@ to be added to labs assets
 - AI and ML work
 - all the work made during revision is delivered as required
 
+---
+
+- PFA landpage
+- FAQ Hyperlinks;PFE, expectation(to-do)
+- schedule page remake, using digrams
+
