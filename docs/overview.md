@@ -64,8 +64,8 @@ Internships provide students with the opportunity to gain experience in their fi
 Each section will include usefull resources and content to assist you in excelling in your preparation and making the most of your education.
 ##### The guide is structured as follows.
 
-| Mutual      | IOT |Network  | Projects|   
-| ----------- | ----------- |----------- |----------- |
+| Mutual      | IOT |Net  | Projects|   
+| -----------: | :-----------: |:-----------: |:----------- |
 | [Ⅰ](Semester1/1.md )|[Ⅲ](Semester3-IOT/3.md)| [Ⅲ](Semester3-IRS/3.md)|[Linuxmap](https://linux.computer-engineering.tech/)|
 | [Ⅱ](Semester2/2.md)        |[Ⅳ](Semester4-IOT/4.md)| [Ⅳ](Semester4-IRS/4.md) | [OpenLabs](https://labs.computer-engineering.tech/)|
 | [Interns](intern.md)       |[Ⅴ](Semester5-IOT/5.md)| [Ⅴ](Semester5-IRS/5.md) | [StaledVer](https://stale.computer-engineering.tech/#/)|
@@ -76,15 +76,15 @@ Each section will include usefull resources and content to assist you in excelli
 <details>
 <summary>1. What is an end-of-year project (PFA)?</summary>
 
-An end-of-year project (PFA) is a comprehensive academic project that students complete at the end of a given year while pursuing a degree program 
+An end-of-year project also PFA is a comprehensive academic project that students complete at the end of a given year while pursuing a degree program 
 
-E.g. at the end of your 1st or 2nd college year during a <a href="https://raw.githubusercontent.com/yaya2devops/bachelor-guide/main/docs/images/InternsAssets/attes.png">Summer Internship</a>.
+E.g. at the end of your 1st or 2nd college year during a <a href="#/intern">Summer Internship</a>.
 </details>
 
 <details>
 <summary>2. What is an end-of-study project (PFE)?</summary>
 
-An end-of-study project also PFE is a comprehensive academic project that students complete at the end of their degree program.
+An end-of-study project also PFE is a comprehensive academic project that students complete at the very end of their degree program.
 </details>
 
 <details>
@@ -155,7 +155,18 @@ Create, Build, Adjust, and deliver!
 <br>
 I'll sense your energy flowing from the universe! 
 
-<br> Also, If you require any more help.<br> Please feel free to <a href="https://github.com/yaya2devops/bachelor-guide/issues/new?title=Let%20Us%20Know&body=%0A%0A%5BYaya%20Ask%20For%20Your%20feedback%20here%5D%0A%0A%0A---%0A%23%23%23%23%20Guide%20Details%0A%E2%9A%A0%20*Leave%20This%20section%20for%20GitHub%20and%20Guide%20issue%20redirections*%0A*%20ID%3A%20%5B7e2c0e6e-8b6d-4c2f-aaef-15f736a7b2a1%5D%0A*%20Version%20Independent%20ID%3A%20%5Ba5f1d387-7be9-4f0c-b92d-d52d16ef1d8e%5D%0A*%20Content%3A%20%5BBachelors%20in%20Computer%20Engineering%20Guide%5D%0A*%20Content%20Source%3A%20%5Bbachelor-guide/docs/README.md%5D(https://github.com/yaya2devops/bachelor-guide/blob/main/docs/README.md)%0A*%20Service%3A%20%5Bcollege-students-empower%5D%0A*%20GitHub%20Handle%3A%20%40yaya2devops">let us know here</a>.<br> 
-We will get back to you asap!
+</details>
+
+
+<details>
+<summary>
+10.  Bonus! Ask Us anything!
+</summary>
+
+If you require any more help. Whatever it may be!<br> 
+
+Please feel free to <a href="https://github.com/yaya2devops/bachelor-guide/issues/new?title=Let%20Us%20Know&body=%0A%0A%5BYaya%20Ask%20For%20Your%20feedback%20here%5D%0A%0A%0A---%0A%23%23%23%23%20Guide%20Details%0A%E2%9A%A0%20*Leave%20This%20section%20for%20GitHub%20and%20Guide%20issue%20redirections*%0A*%20ID%3A%20%5B7e2c0e6e-8b6d-4c2f-aaef-15f736a7b2a1%5D%0A*%20Version%20Independent%20ID%3A%20%5Ba5f1d387-7be9-4f0c-b92d-d52d16ef1d8e%5D%0A*%20Content%3A%20%5BBachelors%20in%20Computer%20Engineering%20Guide%5D%0A*%20Content%20Source%3A%20%5Bbachelor-guide/docs/README.md%5D(https://github.com/yaya2devops/bachelor-guide/blob/main/docs/README.md)%0A*%20Service%3A%20%5Bcollege-students-empower%5D%0A*%20GitHub%20Handle%3A%20%40yaya2devops">let us know just here</a>.<br> 
+
+Yes! <br>Create an account!<br>We will get back to you ASAP.
 
 </details>

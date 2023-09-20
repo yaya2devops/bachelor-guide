@@ -4,12 +4,12 @@
 # Mandatory Internship 1: Summer Intern
 After the 2nd year and 4 semesters of success, student should be able to look for and secure an internship. 
 
-- [LaTeX Complete Guide](#🤖-do-you-need-latex-help)
-- [Insights On Experience Workflow](#workflow)
-- [Internship Presentation](#present-2nd-year-project)
-- [Yaya and His Reflections](#reflections-on-my-summer-internship)
-- [Tips To win an Intern](#tips-for-a-successful-experience)
-- [Frequently Asked Questions](#students-faq)
+- [Mandatory Internship 1: Summer Intern](#mandatory-internship-1-summer-intern)
+    - [🤖 Do you need LaTeX help ?](#-do-you-need-latex-help-)
+- [Workflow](#workflow)
+  - [Present 2nd Year Project](#present-2nd-year-project)
+  - [Reflections on My Summer Internship](#reflections-on-my-summer-internship)
+  - [Tips for a successful experience](#tips-for-a-successful-experience)
 
 It is strongly recommended that you seek any experience earlier than that; the earlier you proceed, the higher you will rise.
 
