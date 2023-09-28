@@ -1,6 +1,17 @@
 # Time Schedule
-"Description" 
+"all the tables will be filled soon, knowing that all info presented in tabels down below are not 100% reliable but it gives an approach on how the time schedule would look like." 
 ## ISI 
+### First Semester
+
+| Time         |  Monday   | Tuesday   | Wednesday | Thursday  | Friday    | Saturday  |
+|-------       |-----------|-----------|-----------|-----------|-----------|-----------|
+| 8:30-9:45    |           |           |           |           |           |           |
+| 10:00-11:30  |           |           |           |           |           |           |  
+| 11:30-13:00  |Lunch Break|Lunch Break|Lunch Break|Lunch Break|Lunch Break|Lunch Break|
+| 13:00-14:30  |           |           |           |           |           |           |
+| 14:45-4:15   |           |           |           |           |           |           |
+---
+### Second Semester
 
 | Time         |  Monday   | Tuesday   | Wednesday | Thursday  | Friday    | Saturday  |
 |-------       |-----------|-----------|-----------|-----------|-----------|-----------|
@@ -11,6 +22,18 @@
 | 14:45-4:15   |           |           |           |           |           |           |
 ---
 ## IOT 
+### First Semester
+
+| Time         |  Monday   | Tuesday   | Wednesday | Thursday  | Friday    | Saturday  |
+|-------       |-----------|-----------|-----------|-----------|-----------|-----------|
+| 8:30-9:45    |           |           |           |           |           |           |
+| 10:00-11:30  |           |           |           |           |           |           |  
+| 11:30-13:00  |Lunch Break|Lunch Break|Lunch Break|Lunch Break|Lunch Break|Lunch Break|
+| 13:00-14:30  |           |           |           |           |           |           |
+| 14:45-4:15   |           |           |           |           |           |           |
+---
+
+### Second Semester
 
 | Time         |  Monday   | Tuesday   | Wednesday | Thursday  | Friday    | Saturday  |
 |-------       |-----------|-----------|-----------|-----------|-----------|-----------|
@@ -22,6 +45,7 @@
 ---
 
 ## IRS 
+### First Semester
 
 | Time         |  Monday   | Tuesday   | Wednesday | Thursday  | Friday    | Saturday  |
 |-------       |-----------|-----------|-----------|-----------|-----------|-----------|
@@ -31,6 +55,18 @@
 | 13:00-14:30  |           |           |           |           |           |           |
 | 14:45-4:15   |           |           |           |           |           |           |
 ---
+
+### Second Semester
+
+| Time         |  Monday   | Tuesday   | Wednesday | Thursday  | Friday    | Saturday  |
+|-------       |-----------|-----------|-----------|-----------|-----------|-----------|
+| 8:30-9:45    |           |           |           |           |           |           |
+| 10:00-11:30  |           |           |           |           |           |           |  
+| 11:30-13:00  |Lunch Break|Lunch Break|Lunch Break|Lunch Break|Lunch Break|Lunch Break|
+| 13:00-14:30  |           |           |           |           |           |           |
+| 14:45-4:15   |           |           |           |           |           |           |
+---
+
 ## holiday
 "Description"
 - New Year's Day: January 1st
