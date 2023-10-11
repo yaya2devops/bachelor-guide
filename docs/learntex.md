@@ -1,7 +1,7 @@
 
 <br>
 
-# Getting Started with LaTeX
+# LaTeX Xcellence 
 
 Hey! Welcome where I help you become more proficient with the LaTeX system. We'll start with a basic "Hello Yaya" document and progress towards a more advanced structure, to finaly demonstrate what a good project structure should be.
 
@@ -72,11 +72,11 @@ Easy right!
 Overleaf provides a real-time preview of your LaTeX document.<br>
 Let's keep going King or Queen!
 
-And yeah, you can find Hello Yaya just [here](https://github.com/yaya2devops/bachelor-guide/blob/main/docs/hello/zip-hello-yaya.zip).
+And yeah, [you can find Hello Yaya just here](https://github.com/yaya2devops/bachelor-guide/blob/main/docs/hello/zip-hello-yaya.zip).
 
 ### Step 3 : LaTeX Convert to PDF
 
-While having files is great, you also need a PDF version.
+While having files is great, [you also need a PDF version](https://en.wikipedia.org/wiki/History_of_PDF#:~:text=The%20Portable%20Document%20Format%20(PDF,an%20open%20standard%20in%202008.).
 
 Once you've completed your project, simply click the icon depicted below to convert your compilation into a PDF.
 
@@ -176,11 +176,13 @@ The time comes to expose the secret for you. An advanced and efficient **LaTeX p
 3. Including Subdocuments
 4. Store images, diagrams, and other assets in the assets directory for easy access and inclusion in your LaTeX document.
 
-#### Just hand me [a Template](https://drive.google.com/drive/folders/1OLvX6kEaIFk-8JgGyrW1E_Wl-5sx_zhP?usp=sharing) or let me [know more](control.md)
+#### [Hand me a Template](https://drive.google.com/drive/folders/1OLvX6kEaIFk-8JgGyrW1E_Wl-5sx_zhP?usp=sharing) 
 
 The attached template serves as a starting point made by our university ISTIC and provided to its students. You. 
 
 > Please ensure adherence to the title page format while incorporating your own content. 
+
+#### [Dude Let Me Know More](control.md)
 
 ### Progressing with Your Project
 
