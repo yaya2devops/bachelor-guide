@@ -3,8 +3,8 @@
 ## ISI 
 ### First Semester
 
-| Time         |  Monday   | Tuesday   | Wednesday | Thursday  | Friday    | Saturday  |
-|-------       |-----------|-----------|-----------|-----------|-----------|-----------|
+| Time         |  Monday   | Tuesday   | Wednesday | Thursday  | Friday    |
+|-------       |-----------|-----------|-----------|-----------|-----------|
 | 8:30-9:45    |Tech. de Com |Algèbre 1|Algoritmique et Structure de données 1|Systèmes Logiques|A-Syst.Exploit./B-At. de Prog 1|           |
 | 10:00-11:30  | Analyse 1| Algèbre 1|Algoritmique et Structure de données 1|A-At. de Prog 1/B-At. de Prog 1|A-Syst.Exploit./B-At. de Prog 1|           |  
 | 11:30-13:00  |Lunch Break|Lunch Break|Lunch Break|Lunch Break|Lunch Break|Lunch Break|
@@ -13,8 +13,8 @@
 ---
 ### Second Semester
 
-| Time         |  Monday   | Tuesday   | Wednesday | Thursday  | Friday    | Saturday  |
-|-------       |-----------|-----------|-----------|-----------|-----------|-----------|
+| Time         |  Monday   | Tuesday   | Wednesday | Thursday  | Friday    |
+|-------       |-----------|-----------|-----------|-----------|-----------|
 | 8:30-9:45    |Fondements BD|Antennes Lign. Tran.|A-Transmission Signal/B-Graphes et Opt.|Techno. Multimedia|A-Prog. Python/B-P.O.O|           |
 | 10:00-11:30  |Réseaux Loc. Ind.|Prob. et Stat.|Transmission Signal|Méth. Conc. Logiciel|A-Prog. Python/B-P.O.O|           |  
 | 11:30-13:00  |Lunch Break|Lunch Break|Lunch Break|Lunch Break|Lunch Break|Lunch Break|
@@ -24,8 +24,8 @@
 ## IOT 
 ### First Semester
 
-| Time         |  Monday   | Tuesday   | Wednesday | Thursday  | Friday    | Saturday  |
-|-------       |-----------|-----------|-----------|-----------|-----------|-----------|
+| Time         |  Monday   | Tuesday   | Wednesday | Thursday  | Friday    |
+|-------       |-----------|-----------|-----------|-----------|-----------|
 | 8:30-9:45    |           |           |           |           |           |           |
 | 10:00-11:30  |           |           |           |           |           |           |  
 | 11:30-13:00  |Lunch Break|Lunch Break|Lunch Break|Lunch Break|Lunch Break|Lunch Break|
@@ -35,8 +35,8 @@
 
 ### Second Semester
 
-| Time         |  Monday   | Tuesday   | Wednesday | Thursday  | Friday    | Saturday  |
-|-------       |-----------|-----------|-----------|-----------|-----------|-----------|
+| Time         |  Monday   | Tuesday   | Wednesday | Thursday  | Friday    |
+|-------       |-----------|-----------|-----------|-----------|-----------|
 | 8:30-9:45    |P.O.O|Méth. Conc. Logiciel|A-Archi. µP et µC/B-Prob. et Stat.|A-capt & instrument/B-Méth. Conc. Logiciel|A-Fondements BD/B-Réseaux Loc. Ind|           |
 | 10:00-11:30  |Fondements BD|Techno. Multimedia|Prob. et Stat.|Graphes et Opt.|Anglais 3|           |  
 | 11:30-13:00  |Lunch Break|Lunch Break|Lunch Break|Lunch Break|Lunch Break|Lunch Break|
@@ -45,8 +45,8 @@
 ---
 ### Third Semester
 
-| Time         |  Monday   | Tuesday   | Wednesday | Thursday  | Friday    | Saturday  |
-|-------       |-----------|-----------|-----------|-----------|-----------|-----------|
+| Time         |  Monday   | Tuesday   | Wednesday | Thursday  | Friday    |
+|-------       |-----------|-----------|-----------|-----------|-----------|
 | 8:30-9:45    |A-IA ML/B-Dépl. serv.Cloud|Big Data|Prep. Env. Prof.|Certif. Réseaux|Sécurité des réseaux|           |
 | 10:00-11:30  |A-IA ML/B-Dépl. serv.Cloud|IA Machine learning|Virt Réseaux|Anglais 5|Virt & Conteneur|           |  
 | 11:30-13:00  |Lunch Break|Lunch Break|Lunch Break|Lunch Break|Lunch Break|Lunch Break|
@@ -56,8 +56,8 @@
 ## IRS 
 ### First Semester
 
-| Time         |  Monday   | Tuesday   | Wednesday | Thursday  | Friday    | Saturday  |
-|-------       |-----------|-----------|-----------|-----------|-----------|-----------|
+| Time         |  Monday   | Tuesday   | Wednesday | Thursday  | Friday    |
+|-------       |-----------|-----------|-----------|-----------|-----------|
 | 8:30-9:45    |           |           |           |           |           |           |
 | 10:00-11:30  |           |           |           |           |           |           |  
 | 11:30-13:00  |Lunch Break|Lunch Break|Lunch Break|Lunch Break|Lunch Break|Lunch Break|
@@ -67,8 +67,8 @@
 
 ### Second Semester
 
-| Time         |  Monday   | Tuesday   | Wednesday | Thursday  | Friday    | Saturday  |
-|-------       |-----------|-----------|-----------|-----------|-----------|-----------|
+| Time         |  Monday   | Tuesday   | Wednesday | Thursday  | Friday    |
+|-------       |-----------|-----------|-----------|-----------|-----------|
 | 8:30-9:45    |Fondements BD|P.O.O|A-Transmission Signal/B-Graphes et Opt.|Techno. Multimedia|A-Prog. Python/B-P.O.O|           |
 | 10:00-11:30  |Réseaux Loc. Ind.|Prob. et Stat.|Transmission Signal|Méth. Conc. Logiciel|A-Prog. Python/B-P.O.O|           |  
 | 11:30-13:00  |Lunch Break|Lunch Break|Lunch Break|Lunch Break|Lunch Break|Lunch Break|
@@ -77,8 +77,8 @@
 ---
 ### Third Semester
 
-| Time         |  Monday   | Tuesday   | Wednesday | Thursday  | Friday    | Saturday  |
-|-------       |-----------|-----------|-----------|-----------|-----------|-----------|
+| Time         |  Monday   | Tuesday   | Wednesday | Thursday  | Friday    |
+|-------       |-----------|-----------|-----------|-----------|-----------|
 | 8:30-9:45    |A-IA ML/B-Dépl. serv.Cloud|Big Data|Prep. Env. Prof.|Certif. Réseaux|Sécurité des réseaux|           |
 | 10:00-11:30  |A-IA ML/B-Dépl. serv.Cloud|IA Machine learning|Virt Réseaux|Anglais 5|Virt & Conteneur|           |  
 | 11:30-13:00  |Lunch Break|Lunch Break|Lunch Break|Lunch Break|Lunch Break|Lunch Break|
