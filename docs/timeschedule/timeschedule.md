@@ -1,6 +1,9 @@
+<br>
+<br>
+
+
 # Time Schedule
 
-<img src="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2020-02/work_hard_dream_big.jpg?itok=3JRIQQjI" width="800">
 
 ###  **Mutual:** 1st Semester
 
@@ -103,4 +106,4 @@
 | Muhammad's Birth | 2-3 day|
 | National Day          | March 25th                      |
 
-For `Eid al-Fitr`, `Eid al-Adha`, `Islamic New Year` and `Muhammad's Birth`; <br>The date varies and it is best to refer to the Islamic calendar.
+For `Eid al-Fitr,` `Eid al-Adha,` `Islamic New Year` and `Muhammad's Birth`; The date varies and it is best to refer to the **Islamic calendar**.
