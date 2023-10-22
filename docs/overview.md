@@ -4,7 +4,7 @@
 
 *Welcome* to the guide for computer engineering bachelor's students aspiring to build a successful career in the field of Information Technology.
 
-![THINKING ABOUT THE PERFECT DESIGN](images/welcome.png)
+![THINKING ABOUT THE PERFECT DESIGN](images/welcome-modified.png)
 
 **Is it right for you?**
 - **Future-proof career:** The demand for IT professionals like you is expected to continue growing.
