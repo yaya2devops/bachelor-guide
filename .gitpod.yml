@@ -1,5 +1,5 @@
 
 tasks:
-  - init: npm install && npm install docsify
+  - init: npm install && npm install docsify-cli -g
 
 
