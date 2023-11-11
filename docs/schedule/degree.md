@@ -1,1 +1,1 @@
-![Your Degree In A shot](assets//exp-power-size.png)
+![Your Degree In A shot](assets/alpha.png)
