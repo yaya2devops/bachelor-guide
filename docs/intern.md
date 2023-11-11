@@ -4,23 +4,18 @@
 # Mandatory Internship 1: Summer Intern
 After the 2nd year and 4 semesters of success, student should be able to look for and secure an internship. 
 
-- [Mandatory Internship 1: Summer Intern](#mandatory-internship-1-summer-intern)
-    - [🤖 Do you need LaTeX help ?](#-do-you-need-latex-help-)
-- [Workflow](#workflow)
-  - [Present 2nd Year Project](#present-2nd-year-project)
-  - [Reflections on My Summer Internship](#reflections-on-my-summer-internship)
-  - [Tips for a successful experience](#tips-for-a-successful-experience)
+- [What's Expected Of You](#workflow)
+- [Present 2nd Year Project](#present-2nd-year-project)
+- [Reflections on My Own Intern](#reflections-on-my-summer-internship)
+- [Tips To Win Your First Experience](#tips-for-a-successful-experience)
 
-It is strongly recommended that you seek any experience earlier than that; the earlier you proceed, the higher you will rise.
+It is strongly recommended that you seek related experiences earlier than that; the earlier you proceed, [the higher you will rise](schedule/degree.md).
 
 ![BRANCH_INSIGHT](images/InternsAssets/summerintern.png)
 
 ### 🤖 [Do you need LaTeX help ?](prompt-engineer.md)  
 
-
-
 Below are the papers I made use of, available for your usage in a click.
-
 
 | Papers                      | Description                                          |
 | ---------------------------|------------------------------------------------------|
@@ -51,12 +46,11 @@ I'm doing exactly that for you!
 
 Presenting will help you improve your communication skills. Prepare!
 
-
 ## Reflections on My Summer Internship
 
 The dates of delivery that I had while my summer intern are listed below.
 
-| [Actions](https://raw.githubusercontent.com/yaya2devops/ExperienceInCloud/main/First_InternReport/assets/valide.jpg)                      |Date|
+| Actions                      |Date|
 | :--------                   |:--------   |
 |     Agreement +  Certificate  | 15 July 2022|
 |    Report + Timesheet  | 7 October 2022|
@@ -66,7 +60,6 @@ The dates of delivery that I had while my summer intern are listed below.
 - Be [goal-oriented](https://greatergood.berkeley.edu/article/item/seven_ways_to_find_your_purpose_in_life) in terms of what you want to learn and what interests you prior to this date.
 - Maintain a [regular timesheet](https://www.healthline.com/health/benefits-of-journaling#reduced-stress) and keep track of your daily activities meanwhile the experience.
 - Interact with colleagues, and make [communication a key focus](https://www.linkedin.com/pulse/power-effective-communication-digital-age-shaik-saleem#:~:text=Clear%20and%20Concise%20Messaging%3A%20In,it%20comes%20to%20digital%20communication.).
-
 
 As I conclude, my final advice to you is to get going, even in situations where you may not fully understand.
 Take action, ask questions, seek guidance, and strive to learn more.

@@ -182,7 +182,7 @@ The attached template serves as a starting point made by our university ISTIC an
 
 > Please ensure adherence to the title page format while incorporating your own content. 
 
-#### [Dude Let Me Know More](control.md)
+#### [And Let Me Know More](control.md)
 
 ### Progressing with Your Project
 

@@ -6,13 +6,16 @@
 
 ![THINKING ABOUT THE PERFECT DESIGN](images/welcome-modified.png)
 
-**Is it right for you?**
-- **Future-proof career:** The demand for IT professionals like you is expected to continue growing.
-- **Versatile skills:** Comprehensive skill set that allows you to adapt to changing tech.
-- **Lucrative earning potential:** Companies are willing to invest more and more in top talent.
+**Is this the perfect fit for you?**
 
-The power is now in your hands. 
+- **Future-proof your career:** Embrace a field with consistently growing demand for IT professionals like yourself.
+- **Adaptable skill set:** Develop a versatile skill repertoire that enables you to navigate seamlessly through evolving technologies.
+- **Lucrative earning potential:** Capitalize on the increasing investment companies are making in top-tier talent like you. 
 
+Your skills are not just in demand; they are a valuable asset in the competitive landscape of the future.
+
+
+The power is now in your hands✌️<br>
 🎯 Let's jump on this exciting journey together and discover the fascinating world of IT and tomorrows!
 
 # Empowering Students
@@ -30,14 +33,15 @@ This will enable the pursuer to concentrate their studies on a specific area and
 
 > ISTIC used to assign students with higher grades to IOT; This could imply that IOT is the best option. It is not. Both paths are excellent.
 
-![BRANCH_INSIGHT](images/edit0.png)
+![BRANCH_INSIGHT](images/edit0-1.png)
 
 # Examining methodology
 The asset below depicts the proctoring methodology used for each semester.
 - **1:** A written exam on all of the subjects covered.
 - **2:** Hands-on exams for specific subjects that necessitate the use of software.
 - **3:** Final exams, which play the most important role in the semester's success.
-![Photo of Semester](images/enstructure.png)
+
+![Photo of Semester](images/enstructure-1.png)
 
 # Professional Experience: Internship
 Students are required to have at least **two** **internships**. 
@@ -47,15 +51,11 @@ Students are required to have at least **two** **internships**.
 | ❶ | Project End of the Year        | PFA    |
 | ❷ | Project End of Study           | PFE    | 
 
-<a href="https://istic.computer-engineering.tech/#/intern">
-  <img src="images/InternsAssets/summer-intern.png" alt="Ignite Summer Intern" style="width: 300px; height: auto;" />
-</a>
 
 <br>
 
 Internships provide students with the opportunity to gain experience in their field of interest and to develop professional skills. 
 ![Interns](images/intern.png)
-
 
 
 # Get Started
@@ -169,3 +169,9 @@ Please feel free to <a href="https://github.com/yaya2devops/bachelor-guide/issue
 You have to create an account to fetch it.<br>We will get back to you ASAP.
 
 </details>
+
+---
+
+<a href="https://istic.computer-engineering.tech/#/intern">
+  <img src="images/InternsAssets/ad-intern.png" alt="Ignite Summer Intern" style="width: auto; height: auto;" />
+</a>
