@@ -15,7 +15,7 @@
 Your skills are not just in demand; they are a valuable asset in the competitive landscape of the future.
 
 
-The power is now in your hands✌️<br>
+The power is now in your hands.<br>
 🎯 Let's jump on this exciting journey together and discover the fascinating world of IT and tomorrows!
 
 # Empowering Students
