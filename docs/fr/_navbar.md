@@ -1,4 +1,4 @@
 - [<img src="../images/navbar/22.png" alt="Anglais" width="27" height="27"/>](/)
   - [Better Join Discord Before](/)
-- [<img src="../images/dic-main-logo.png" alt="Join Discord" width="27" height="27"/>](https://discord.gg/zZQCQMHdUt)
-  - [Rejoignez vos camarades de l'université](https://discord.gg/zZQCQMHdUt)
+- [<img src="../images/dic-main-logo.png" alt="Join Discord" width="27" height="27"/>](https://discord.gg/DGpA2vFuF4)
+  - [Rejoignez vos camarades de l'université](https://discord.gg/DGpA2vFuF4)
