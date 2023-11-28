@@ -5,8 +5,6 @@
 
 ![BRANCH_INSIGHT](images/Curriculum/CircEN.png)
 
-> [Start now](overview.md)
-
 ---
 
 <a href="https://istic.computer-engineering.tech/#/overview">
