@@ -1,7 +1,7 @@
 
 <br>
 
-# LaTeX Xcellence 
+# LaTe𝕏cellence 
 
 Hey! Welcome where I help you become more proficient with the LaTeX system. We'll start with a basic "Hello Yaya" document and progress towards a more advanced structure, to finaly demonstrate what a good project structure should be.
 
