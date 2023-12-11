@@ -9,7 +9,7 @@
 
 
  <p align="center">
-  <img src="images/clean-logo.png" alt="Website Guide Main Logo"/>
+  <img src="assets/logo-fit.png" width="500px" alt="Website Guide Main Logo"/>
 </p>
 
 <!--h1 style="font-weight: 400;font-size: 16px;">The website has been viewed <b><span id="visits"></span> times</b>.</!--h1-->
