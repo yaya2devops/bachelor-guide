@@ -9,6 +9,8 @@ Hey! Welcome where I help you become more proficient with the LaTeX system. We'l
 - [Step 2: See What You Created](#step-2-see-what-you-created)
 - [Step 3 : LaTeX Convert to PDF](#step-3--latex-convert-to-pdf)
 - [Go Harder On LaTeX](#go-harder-on-latex)
+- [ISTIC Project Template](#action-required)
+- [LaTeX Prompt For LLM](#progressing-with-your-project)
 
 ### Step 1: Creating Your First LaTeX Document
 Start by creating a simple LaTeX document to get a feel for the system. 
@@ -28,7 +30,7 @@ Hello, Yaya!
 
 * `\documentclass{article}`: Specifies that this is an "article" document type.
 * `\begin{document}` and `\end{document}`: Delimit the document content.
-* `\Hello, Yaya!`\: The actual content of the document, which in this case is a simple greeting to me.
+* `Hello, Yaya!`: The actual content of the document, which in this case is a simple greeting to me.
 
 ![LaTeX Developer](hello/Hello%20Yaya/hello-yaya.png)
 
@@ -72,7 +74,7 @@ Easy right!
 Overleaf provides a real-time preview of your LaTeX document.<br>
 Let's keep going King or Queen!
 
-And yeah, [you can find Hello Yaya just here](https://github.com/yaya2devops/bachelor-guide/blob/main/docs/hello/zip-hello-yaya.zip).
+And yeah, you can [find `Hello Yaya`](https://github.com/yaya2devops/bachelor-guide/blob/main/docs/hello/zip-hello-yaya.zip).
 
 ### Step 3 : LaTeX Convert to PDF
 
