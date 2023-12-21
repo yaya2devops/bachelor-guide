@@ -196,8 +196,8 @@ I know things may feel hard.<br>
 I worked a lot with the system.
 
 
-I understand you may be confusing.<br>
-You maybe facing some pain in your life.
+I understand this may be confusing.<br>
+You may be facing some pain in your life.
 
 
 I am trying to make life easier for your side.<br>
