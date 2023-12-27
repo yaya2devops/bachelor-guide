@@ -84,7 +84,7 @@ E.g. at the end of your 1st or 2nd college year during a <a href="#/intern">Summ
 <details>
 <summary>2. What is an end-of-study project (PFE)?</summary>
 
-An end-of-study project also PFE is a comprehensive academic project that students complete at the very end of their degree program.
+An <a href="#/pfe">end-of-study project also PFE</a> is a comprehensive academic project that students complete at the very end of their degree program.
 </details>
 
 <details>
