@@ -8,12 +8,12 @@ From this point and beyond please...
 - Satisfy the univeristy administration documents.
 - Start or continue working on [your end of study project](learntex?id=action-required).
 
-Considering the papers you have to validate with college.You should be more aware of these after [your summer intern](intern.md).
+Considering the papers you have to validate with college. You should be more aware of these after [your summer intern](intern.md).
 
 Let me kindly re-step the process in a better way.
 
-Deposit an amount to the postal service and save the receipt.<br>
-Take an agreement from your administration and others to company.
+- Deposit an amount to the postal service and save the receipt.<br>
+- Take an agreement from your administration and others to company.
 
 **What To Expect:**
 - The head of deparment¹ will assign you a mentor² from university side.
