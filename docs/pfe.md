@@ -28,20 +28,40 @@ But before, you must deposit your project report.
 
 Make a memorable printable copy to each of those great people¹⁻⁷.
 
-- You will defend your work in front of the president⁵ and your rapporteur⁶.
+- You will defend your work in front of the president⁵ and the rapporteur⁶.
 - Your mentors²﹐⁴ will stand by your side, ready to protect it alongside you.
 
 Prepare a presentation tell the key findings of your intensive report doing real works.
 
 - Expect to recieve and act on the feedback of the defense day.
 - Make the changes needed, report to the rapporteur.
+
+<img src="pfe/powered.svg" width="500px">
+
+Once this day and those that follow are fulfilled.
+
+- [x] You succeeded on your Defense Day.
+- [x] You followed the feedback.
+- [x] You had your work validated.
+
+You are ready to proceed to the next step.
 - Deliver the final product to the library.
 - Make a digital copy to a CD and take both.
 
+<img src="pfe/lib-process.svg" width="500px">
+
 The coordinator⁷ will verify your assets and confirm your deposit.
 
-You will receive situation settlement confirming the above but also to take it further.
-- To the scholarchip to validate your payment stats.
+<details>
+<summary>
+You will receive <i>situation settlement</i> confirming the above but also to take it further.
+</summary>
+
+<img src="pfe/situation-settlement.jpg" width="500px">
+
+</details>
+
+- To the Scholarite to validate your payment stats.
 - To the rapporteur for inputs on your performance.
 
 If that goes well and surely will, you are ready to expect your college diploma and other great assets from your past hard work and effort.
@@ -58,6 +78,10 @@ If that goes well and surely will, you are ready to expect your college diploma 
 - ⁵: Responsible for overseeing and evaluating the candidate defense.
 - ⁶: Examining the content of reports and offering constructive feedback¹⁻⁷.
 - ⁷: Oversees the process of taking reports and publishing them in the school library.
+
+
+|ℹ️|Improve visibility—switch to white mode.|
+|---|---|
 
 
 
