@@ -1,0 +1,36 @@
+https://dreampuf.github.io/GraphvizOnline/#digraph%20G%20%7B%0D%0A%0D%0A%20%20subgraph%20cluster_0%20%7B%0D%0A%20%20%20%20style%3Dfilled%3B%0D%0A%20%20%20%20color%3Dlightgrey%3B%0D%0A%20%20%20%20node%20%5Bstyle%3Dfilled%2Ccolor%3Dwhite%5D%3B%0D%0A%20%20%20%20President%20->%20TakeFeedback%20->%20UpdateReport%20->%20SendDigitalVersion%20->%20ValidateLatestVersion%20->%20AskForNewVersion%3B%0D%0A%20%20%20%20label%20%3D%20"Defense%20Day%20Report%2C%2008%20Dec%202023"%3B%0D%0A%20%20%7D%0D%0A%0D%0A%20%20subgraph%20cluster_1%20%7B%0D%0A%20%20%20%20node%20%5Bstyle%3Dfilled%5D%3B%0D%0A%20%20%20%20Rapporteur%20->%20ValidateLatestVersion%20->%20AskForNewVersion%20->%20TakeFeedback%20->%20UpdateNewVersion%20->%20ReportBack%20->%20ConfirmAndValidate%3B%0D%0A%20%20%20%20label%20%3D%20"Interaction"%3B%0D%0A%20%20%20%20color%3Dblue%3B%0D%0A%20%20%7D%0D%0A%0D%0A%20%20President%20%5Bshape%3DMdiamond%5D%3B%0D%0A%20%20Rapporteur%20%5Bshape%3DMdiamond%5D%3B%0D%0A%20%20Start%20%5Bshape%3Dcircle%20width%3D.15%5D%3B%0D%0A%0D%0A%20%20Start%20->%20President%20%5Blabel%3D"You%20report%20to"%5D%3B%0D%0A%20%20Start%20->%20Rapporteur%20%5Blabel%3D"You%20report%20to"%5D%3B%0D%0A%0D%0A%20%20UpdateReport%20->%20SendDigitalVersion%20%5Blabel%3D"Update%20%26%5CnSend%20Digital%20Version"%5D%3B%0D%0A%20%20SendDigitalVersion%20->%20ValidateLatestVersion%20%5Blabel%3D"Validate"%5D%3B%0D%0A%20%20ValidateLatestVersion%20->%20AskForNewVersion%20%5Blabel%3D"Ask%20for%20New%20Version"%5D%3B%0D%0A%20%20AskForNewVersion%20->%20TakeFeedback%20%5Blabel%3D"Ask%20for%20Feedback"%5D%3B%0D%0A%20%20TakeFeedback%20->%20UpdateNewVersion%20%5Blabel%3D"Take%20Feedback"%5D%3B%0D%0A%20%20UpdateNewVersion%20->%20ReportBack%20%5Blabel%3D"Update%20%26%5CnReport%20Back"%5D%3B%0D%0A%20%20ReportBack%20->%20ConfirmAndValidate%20%5Blabel%3D"Confirm%20%26%5CnValidate"%5D%3B%0D%0A%20%20ConfirmAndValidate%20->%20Library%20%5Blabel%3D"Proceed%20to%5CnNext%20Step"%5D%3B%0D%0A%7D%0D%0A
+
+
+digraph G {
+
+  subgraph cluster_0 {
+    style=filled;
+    color=lightgrey;
+    node [style=filled,color=white];
+    President -> TakeFeedback -> UpdateReport -> SendDigitalVersion -> ValidateLatestVersion -> AskForNewVersion;
+    label = "Defense Day Report, 08 Dec 2023";
+  }
+
+  subgraph cluster_1 {
+    node [style=filled];
+    Rapporteur -> ValidateLatestVersion -> AskForNewVersion -> TakeFeedback -> UpdateNewVersion -> ReportBack -> ConfirmAndValidate;
+    label = "Interaction";
+    color=blue;
+  }
+
+  President [shape=Mdiamond];
+  Rapporteur [shape=Mdiamond];
+  Start [shape=circle width=.15];
+
+  Start -> President [label="You report to"];
+  Start -> Rapporteur [label="You report to"];
+
+  UpdateReport -> SendDigitalVersion [label="Update &\nSend Digital Version"];
+  SendDigitalVersion -> ValidateLatestVersion [label="Validate"];
+  ValidateLatestVersion -> AskForNewVersion [label="Ask for New Version"];
+  AskForNewVersion -> TakeFeedback [label="Ask for Feedback"];
+  TakeFeedback -> UpdateNewVersion [label="Take Feedback"];
+  UpdateNewVersion -> ReportBack [label="Update &\nReport Back"];
+  ReportBack -> ConfirmAndValidate [label="Confirm &\nValidate"];
+  ConfirmAndValidate -> Library [label="Proceed to\nNext Step"];
+}

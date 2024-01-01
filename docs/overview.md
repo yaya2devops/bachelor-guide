@@ -84,7 +84,7 @@ E.g. at the end of your 1st or 2nd college year during a <a href="#/intern">Summ
 <details>
 <summary>2. What is an end-of-study project (PFE)?</summary>
 
-An end-of-study project also PFE is a comprehensive academic project that students complete at the very end of their degree program.
+An <a href="#/pfe">end-of-study project also PFE</a> is a comprehensive academic project that students complete at the very end of their degree program.
 </details>
 
 <details>
@@ -163,16 +163,17 @@ I'll sense your energy flowing from the universe!
 10.  Bonus! Ask Us anything.
 </summary>
 
-If you require any more help for your studies<br> 
+If you require any more help for your studies, **Click** the following asset.<br> 
 
-<a href="https://github.com/yaya2devops/bachelor-guide/issues/new?title=Let%20Us%20Know&body=%0A%0A%5BYaya%20Ask%20For%20Your%20feedback%20here%5D%0A%0A%0A---%0A%23%23%23%23%20Guide%20Details%0A%E2%9A%A0%20*Leave%20This%20section%20for%20GitHub%20and%20Guide%20issue%20redirections*%0A*%20ID%3A%20%5B7e2c0e6e-8b6d-4c2f-aaef-15f736a7b2a1%5D%0A*%20Version%20Independent%20ID%3A%20%5Ba5f1d387-7be9-4f0c-b92d-d52d16ef1d8e%5D%0A*%20Content%3A%20%5BBachelors%20in%20Computer%20Engineering%20Guide%5D%0A*%20Content%20Source%3A%20%5Bbachelor-guide/docs/README.md%5D(https://github.com/yaya2devops/bachelor-guide/blob/main/docs/README.md)%0A*%20Service%3A%20%5Bcollege-students-empower%5D%0A*%20GitHub%20Handle%3A%20%40yaya2devops"><b>Raise an issue</b></a>.<br> 
+[<img src="issue/assets/issue-ticket.png">](https://github.com/yaya2devops/bachelor-guide/issues/new?title=Heyy%20,%20I%20know%20a%20lot%20,%20and%20Im%20HERE%20To%20Help%20Just%20You%20!!%20Np%20,%20You%20can%20write%20me.&body=%0A%0A%5BYaya%20Asks%20For%20Your%20feedback%20here%5D%0A%0A%0A---%0A%23%23%23%23%20Guide%20Details%0A%E2%9A%A0%20*Leave%20This%20section%20for%20GitHub%20and%20Guide%20issue%20redirections*%0A*%20ID%3A%20%5B7e2c0e6e-8b6d-4c2f-aaef-15f736a7b2a1%5D%0A*%20Version%20Independent%20ID%3A%20%5Ba5f1d387-7be9-4f0c-b92d-d52d16ef1d8e%5D%0A*%20Content%3A%20%5BBachelors%20in%20Computer%20Engineering%20Guide%5D%0A*%20Content%20Source%3A%20%5Bbachelor-guide/docs/README.md%5D(https://github.com/yaya2devops/bachelor-guide/blob/main/docs/README.md)%0A*%20Service%3A%20%5Bcollege-students-empower%5D%0A*%20GitHub%20Handle%3A%20%40yaya2devops)
 
-You have to create an account to fetch your data.<br>We will get back to you ASAP.
+> <a href="https://github.com/yaya2devops/bachelor-guide/issues/new?title=Your%20Second%20Call%20To%20Action%20,%20Just%20Do%20It%20%20..We%20will%20answer%20ASAP&body=%0A%0A%5BYaya%20Asks%20AGAIN%20To%20Help%20You%20here%5D%0A%0A%0A---%0A%23%23%23%23%20Guide%20Details%0A%E2%9A%A0%20*Leave%20This%20section%20for%20GitHub%20and%20Guide%20issue%20redirections*%0A*%20ID%3A%20%5B7e2c0e6e-8b6d-4c2f-aaef-15f736a7b2a1%5D%0A*%20Version%20Independent%20ID%3A%20%5Ba5f1d387-7be9-4f0c-b92d-d52d16ef1d8e%5D%0A*%20Content%3A%20%5BBachelors%20in%20Computer%20Engineering%20Guide%5D%0A*%20Content%20Source%3A%20%5Bbachelor-guide/docs/README.md%5D(https://github.com/yaya2devops/bachelor-guide/blob/main/docs/README.md)%0A*%20Service%3A%20%5Bcollege-students-empower%5D%0A*%20GitHub%20Handle%3A%20%40yaya2devops"><b>Re-seize Your Power</b></a>.<br> 
+
 
 </details>
 
 ---
 
 <a href="https://istic.computer-engineering.tech/#/intern">
-  <img src="images/InternsAssets/ad-intern.png" alt="Ignite Summer Intern" style="width: auto; height: auto;" />
+  <img src="images/InternsAssets/intern-push.png" alt="Ignite Summer Intern" style="width: auto; height: auto;" />
 </a>

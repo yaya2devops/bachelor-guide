@@ -9,6 +9,8 @@ Hey! Welcome where I help you become more proficient with the LaTeX system. We'l
 - [Step 2: See What You Created](#step-2-see-what-you-created)
 - [Step 3 : LaTeX Convert to PDF](#step-3--latex-convert-to-pdf)
 - [Go Harder On LaTeX](#go-harder-on-latex)
+- [ISTIC Project Template](#action-required)
+- [LaTeX Prompt For LLM](#progressing-with-your-project)
 
 ### Step 1: Creating Your First LaTeX Document
 Start by creating a simple LaTeX document to get a feel for the system. 
@@ -28,7 +30,7 @@ Hello, Yaya!
 
 * `\documentclass{article}`: Specifies that this is an "article" document type.
 * `\begin{document}` and `\end{document}`: Delimit the document content.
-* `\Hello, Yaya!`\: The actual content of the document, which in this case is a simple greeting to me.
+* `Hello, Yaya!`: The actual content of the document, which in this case is a simple greeting to me.
 
 ![LaTeX Developer](hello/Hello%20Yaya/hello-yaya.png)
 
@@ -72,7 +74,7 @@ Easy right!
 Overleaf provides a real-time preview of your LaTeX document.<br>
 Let's keep going King or Queen!
 
-And yeah, [you can find Hello Yaya just here](https://github.com/yaya2devops/bachelor-guide/blob/main/docs/hello/zip-hello-yaya.zip).
+And yeah, you can [find `Hello Yaya`](https://github.com/yaya2devops/bachelor-guide/blob/main/docs/hello/zip-hello-yaya.zip).
 
 ### Step 3 : LaTeX Convert to PDF
 
@@ -170,24 +172,37 @@ The time comes to expose the secret for you. An advanced and efficient **LaTeX p
 └── README.md---why-me
 ```
 
-### Action Required
+## Action Required
+I am providing for you a LaTeX template serving as your starting point.
+
+[<img src="assets/LaTeX-ISTIC-Template.png">](https://drive.google.com/drive/folders/1OLvX6kEaIFk-8JgGyrW1E_Wl-5sx_zhP?usp=sharing)
+
+> Please ensure adherence to the title page format while incorporating your own content. 
+
 1. On Your LaTeX Editor Create the following structure. You can also create it locally and then import all.
 2. Incorporate this structure into your main.tex file to organize your document's sections.
 3. Including Subdocuments
 4. Store images, diagrams, and other assets in the assets directory for easy access and inclusion in your LaTeX document.
 
-#### [Hand me a Template](https://drive.google.com/drive/folders/1OLvX6kEaIFk-8JgGyrW1E_Wl-5sx_zhP?usp=sharing) 
+The materials was made by our university ISTIC—learn how to [get yourself enabled](control.md).
 
-The attached template serves as a starting point made by our university ISTIC and provided to its students. You. 
-
-> Please ensure adherence to the title page format while incorporating your own content. 
-
-#### [And Let Me Know More](control.md)
 
 ### Progressing with Your Project
 
-Now that you have established a well-structured LaTeX project, it's time to infuse it with substantial content. To maintain clarity and a smooth document flow, refer back to the content generation prompts provided earlier, and diligently work on populating each section. 
+Now that you have established a well-structured LaTeX project, it's time to infuse it with substantial content.
 
-### [The Prompt You Need](prompt-poc.md)
 
-Enjoy the power and flexibility of LaTeX for typesetting and document creation!
+I know things may feel hard.<br>
+I worked a lot with the system.
+
+
+I understand this may be confusing.<br>
+You may be facing some pain in your life.
+
+
+I am trying to make life easier for your side.<br>
+I considered inventing a prompt that get you do more.<br>
+You give it what you are interested in diving and learning about.
+
+It then tells you more about yourself—here is [the prompt you truly need](prompt-poc.md).
+
