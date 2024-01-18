@@ -64,8 +64,36 @@ You will receive <i>situation settlement</i> confirming the above but also to ta
 - To the Scholarite to validate your payment stats.
 - To the rapporteur for inputs on your performance.
 
-If that goes well and surely will, you are ready to expect your college diploma and other great assets from your past hard work and effort.
+<details>
+<summary>
+If that goes well and surely will! 
 
+</summary>
+
+<br>
+
+<img src="pfe/yay-thanks.jpg" width="500px">
+
+</details>
+
+You are now ready to expect your college diploma.
+
+
+<details>
+<summary>
+But also other great assets from your past hard work and effort.
+</summary>
+
+<br>
+
+<img src="pfe/yaya-defense-exposed.png" width="500px">
+
+</details>
+
+You will be taking those from the administration (1) specifically from the secretarial, and you'll observe where teachers and other staff interact on your exit.
+
+
+> Explore [where Admin (1) is located](https://campus.computer-engineering.tech).
 
 ---
 

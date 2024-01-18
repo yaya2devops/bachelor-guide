@@ -120,7 +120,7 @@ Come <a href="#/control">Join me</a> more where I guide you to the next level.
 6. How many pages You suggest I do for my report?
 </summary>
 
-I highly recommend doing a 30 "plus" pages for your PFA. So you can aim and feel comfortable for 60 plus on your PFE.
+I highly recommend doing a 40 "plus" pages for your PFA. So you can aim and feel comfortable for 80 plus on your PFE.
 </details>
 
 <details>

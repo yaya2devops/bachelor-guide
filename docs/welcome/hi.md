@@ -1,11 +1,12 @@
+
+<br>
+<br>
+
 # [Guide to Computer Engineering ](https://istic.computer-engineering.tech/#/)
 
+ Welcome to the guide for our bachelor's degree project, a project entirely driven by students with the goal of providing comprehensive and accessible learning materials.
 
->  READ THIS IN [FRENCH NOW](salut.md) 
- 
 ![Banner](../images/mainreadme.gif)
-
-Welcome to the guide for our bachelor's degree project, a project entirely driven by students with the goal of providing comprehensive and accessible learning materials.
 
 As students ourselves, we understand the challenges that can come with starting a new learning journey. It can be overwhelming to try and navigate through a sea of information, not knowing where to start or what materials are essential. That's why we decided to take on this project - to create a resource that would make it easier for anyone to begin their learning without confusion or a lack of information.
 
@@ -37,7 +38,7 @@ We'll do it with these quotes in mind.
 Continue to look through the docs folder.
 Simply shoot the necessary file(s) **.md** after having it forked in your local machine when thinking about contributing.
 
-- [Why we think this is important?](../ISTIC_Materials.md#important-notice)
+- [Learn why we think this is important.](../ISTIC_Materials.md#important-notice)
 
 
 ``` 
