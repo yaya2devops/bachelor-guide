@@ -26,12 +26,11 @@ These people are very important to you.
 I must highlight the importance of focusing and following their instructions carefully.
 
 After doing works, 4 months later, that day will come.
-Before, you must deposit your report.
+But before, you must deposit your project report.
 
 <img src="pfe/assets/pre-def-act.png" width="650px">
 
 Make a memorable printable copy to each of those great people¹⁻⁷.
-
 
 - You will defend your work in front of the president⁵ and the rapporteur⁶.
 - Your mentors²﹐⁴ will stand by your side, ready to protect it alongside you.
@@ -40,7 +39,7 @@ Prepare a presentation tell the key findings of your intensive report doing real
 
 <img src="pfe/defense.svg" width="500px">
 
-- Expect to recieve constructive the feedback of the defense day.
+- Expect to recieve constructive feedback on the defense day.
 - Expect to act asap on the feedback of the defense day.
 - Make the changes needed, report to the rapporteur.
 
@@ -81,7 +80,6 @@ Dr Wassim also mentioned that he will contact me soon to arrange Azure training 
 <br>
 
 It went smoothly; we met at the student center, it was a pleasant encounter as we signed the documents and expressed mutual gratitude.
-
 
 Everything went well and SS fulfilled the following two steps.
 
