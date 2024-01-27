@@ -88,7 +88,7 @@ An <a href="#/pfe">end-of-study project also PFE</a> is a comprehensive academic
 </details>
 
 <details>
-<summary>3. Is the internship paid or unpaid?</summary>
+<summary>3. Is the internship process paid or unpaid?</summary>
 
 Internships can be paid, unpaid, or offer a stipend. Paid internships are more common in certain industries, but the experience gained from an unpaid internship is valuable. 
 
@@ -96,13 +96,13 @@ My internship at <a href="https://raw.githubusercontent.com/yaya2devops/bachelor
 </details>
 
 <details>
-<summary>4. What can I expect during my internship?</summary>
+<summary>4. What can I really expect during my internship?</summary>
 
 Internship experiences vary, but you can expect to work on tasks related to your field, collaborate with colleagues, attend meetings, and learn from professionals in the industry.
 </details>
 
 <details>
-<summary>5. No internship. No idea what topic to go for.. I give up?</summary>
+<summary>5. No internship. No idea what topic to go for..I give up?</summary>
 
 Having people around can be nice, BUT it is not an absolute necessity. <br>
 You possess the potential to chart your own course, and others will take notice in due time.
@@ -117,10 +117,13 @@ Come <a href="#/control">Join me</a> more where I guide you to the next level.
 
 <details>
 <summary>
-6. How many pages You suggest I do for my report?
+6. How many pages do you suggest I perform  for my report?
 </summary>
 
 I highly recommend doing a 40 "plus" pages for your PFA. So you can aim and feel comfortable for 80 plus on your PFE.
+
+My "PFE" by the 3rd year ended up 172+ pages, <a href="https://pfe-webo.ya-ya.tech">learn more</a>.
+
 </details>
 
 <details>
@@ -133,7 +136,7 @@ You have the flexibility to choose a language for both tasks. This means you can
 
 <details>
 <summary>
-8. Will this website stay live and I can access it whenever I need?
+8. Will this website stay online and can I access it whenever I need?
 </summary>
 
 Certainly, I've already <a href="#/renewal/">renewed the domain here</a>, and I'll continue to do so consistently to ensure you can learn anytime, anywhere. Promise!
@@ -142,7 +145,7 @@ Certainly, I've already <a href="#/renewal/">renewed the domain here</a>, and I'
 
 <details>
 <summary>
-9. This is not a question, but I feel so ready for this. Thanks a lot.
+9. This is for sure not a question, but I feel so ready for this. Thanks a lot.
 </summary>
 
  
@@ -160,7 +163,7 @@ I'll sense your energy flowing from the universe!
 
 <details>
 <summary>
-10.  Bonus! Ask Us anything.
+10.  OK. Bonus!
 </summary>
 
 If you require any more help for your studies, **Click** the following asset.<br> 
