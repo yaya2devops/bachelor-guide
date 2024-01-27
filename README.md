@@ -9,17 +9,18 @@
  <img src="docs/images/new-get-in.png">
 
 
-## Connect with students
-[<img src="docs/images/discord-link.png" alt="Join Discord and Find Students" data-canonical-src="https://discordapp.com/api/guilds/981586120448020580/widget.png?style=banner3" style="max-width: 100%;">](https://discord.gg/zZQCQMHdUt)
+<div align="center">
+    
+## [Connect](https://discord.gg/NE95VdWS8V) with students
+[<img src="docs/images/discord-link.png" alt="Join Discord and Find Students" data-canonical-src="https://discordapp.com/api/guilds/981586120448020580/widget.png?style=banner3" width="500px" style="max-width: 100%;">](https://discord.gg/NE95VdWS8V)
 
 
+## Important Directions
+[Act and help others](https://forms.zohopublic.com/isticbc/form/Resources/formperma/1-4w1KAlQUkKxzvRsc2V688moUg8Ki1yM7fQVmrZpuQ?fbclid=IwAR1FDnq3LGfBSceGha03cWRwXUorw1WSEr_uuH7_egYI33ePVNUCJ0ylLJQ) <br>
+[Open Source Materials](docs/ISTIC_Materials.md) <br>
+[College Labs Starter](https://labs.computer-engineering.tech/)
 
-#### Important Directions
-- [Act and help others](https://forms.zohopublic.com/isticbc/form/Resources/formperma/1-4w1KAlQUkKxzvRsc2V688moUg8Ki1yM7fQVmrZpuQ?fbclid=IwAR1FDnq3LGfBSceGha03cWRwXUorw1WSEr_uuH7_egYI33ePVNUCJ0ylLJQ)
-- [Open Source Materials](docs/ISTIC_Materials.md)
-- [College Labs Starter](https://labs.computer-engineering.tech/)
-
-## Contact us
+# Contact us
 
 | Overall Project              | Improve@computer-engineering.Tech                |
 |:--------                     |:--------                    |
@@ -37,8 +38,10 @@ docker run -d -p 8080:80 bachelor-guide
 
 
 ## Feedback
-Please feel free to leave feedback in issues/PRs.
+Please feel free to leave feedback in [issues](https://github.com/yaya2devops/bachelor-guide/issues)/[PRs](https://github.com/yaya2devops/bachelor-guide/pulls).
 
 ## LICENSE
 Licensed under [MIT License](LICENSE).
- 
+
+ </div>
+
