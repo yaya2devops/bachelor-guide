@@ -85,5 +85,5 @@ We are delighted to be able to provide  students with an ever-growing archive of
 ---
 
 <a href="https://istic.computer-engineering.tech/#/Semester1/1?id=%f0%9f%93%96-communication-techniques">
-  <img src="images/InternsAssets/sem-1-ignite.png" alt="Advertise Semester One, Computer Engineering" style="width: auto; height: auto;" />
+  <img src="images/InternsAssets/sem-1-ignite.png" alt="Advertise Semester One, Computer Engineering" style="width: 100%; height: auto;" />
 </a>

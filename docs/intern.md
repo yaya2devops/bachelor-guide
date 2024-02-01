@@ -78,7 +78,7 @@ It is through these experiences that you will truly grow into [the architect of 
 ---
 
 <a href="https://istic.computer-engineering.tech/#/schedule/degree">
-  <img src="images/InternsAssets/ad-schedule.png" alt="Ignite Summer Intern" style="width: auto; height: auto;" />
+  <img src="images/InternsAssets/ad-schedule.png" alt="Ignite Summer Intern" style="width: 100%;  height: auto;" />
 </a>
 
  

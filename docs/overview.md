@@ -15,10 +15,11 @@
 Your skills are not just in demand; they are a valuable asset in the competitive landscape of the future.
 
 
-The power is now in your hands.<br>
-🎯 Let's jump on this exciting journey together and discover the fascinating world of IT and tomorrows!
+🎯 The power is now in your hands.
 
-# Empowering Students
+Let's jump on this exciting journey together and discover the fascinating world of IT and tomorrows!
+
+# ⚡ Empowering Students
 This guide aims to complement your degree by introducing you to a range of remarkable innovations that the world is constantly leveraging to provide value incl.  web, mobile development, computer architecture, security, and cloud computing.
 
 **TL;DR** The content presented does not carry any official affiliation or rights from the designated institution. 
@@ -43,8 +44,8 @@ The asset below depicts the proctoring methodology used for each semester.
 
 ![Photo of Semester](images/enstructure-1.png)
 
-# Professional Experience: Internship
-Students are required to have at least **two** **internships**. 
+# Professional Internship
+Students are required to have at least **two** **internships**. You must do your best to find one regardless.
 
 | 𝑛 | Mandatory Internship           |Term   |
 |-- |----------------------          |:-----: |
@@ -52,9 +53,8 @@ Students are required to have at least **two** **internships**.
 | ❷ | Project End of Study           | PFE    | 
 
 
-<br>
-
 Internships provide students with the opportunity to gain experience in their field of interest and to develop professional skills. 
+
 ![Interns](images/intern.png)
 
 
@@ -178,5 +178,6 @@ If you require any more help for your studies, **Click** the following asset.<br
 ---
 
 <a href="https://istic.computer-engineering.tech/#/intern">
-  <img src="images/InternsAssets/intern-push.png" alt="Ignite Summer Intern" style="width: auto; height: auto;" />
+  <img src="images/InternsAssets/intern-push.png" alt="Ignite Summer Intern" style="width: 100%; height: auto;" />
 </a>
+
