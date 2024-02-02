@@ -22,7 +22,14 @@ The following content is authored in LaTeX. If you're interested in learning how
 
 ### Not only that.
 
-But I also gift you the following papers I created for you; in one click.
+I want to first thank Amal for the chance to work at [Linedata](https://www.linedata.com). 
+
+Just a month in, and I've already landed another opportunity at a [canadian startup](https://nxci.ca) to move up.
+
+<img src="pfa/ack-amal.png" width="500px">
+
+And then I also gift you the following papers I created for you; in one click.
+
 
 | Papers                      | Description                                          |
 | ---------------------------|------------------------------------------------------|
