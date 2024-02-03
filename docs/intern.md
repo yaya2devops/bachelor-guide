@@ -26,6 +26,8 @@ I want to first thank Amal for the chance to work at [Linedata](https://www.line
 
 Just a month in, and I've already landed another opportunity at a [canadian startup](https://nxci.ca) to move up.
 
+[Expand on acknowledgments.](pfa/ack-amal.md)
+
 <img src="pfa/ack-amal.png" width="500px">
 
 And then I also gift you the following papers I created for you; in one click.
