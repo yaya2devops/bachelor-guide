@@ -9,7 +9,7 @@
 
 |          Find Others | Hands-on |   Contribute|
 |:--------:  |:--------:  |:--------:  |
-[![Join Discord and Find Students](images/discord-link.png)](https://discord.gg/zZQCQMHdUt)|    [![My university materials](images/project.png)](https://labs.computer-engineering.tech/) |[![Join Discord and Find Students](images/help-us.png)](https://forms.zohopublic.com/isticbc/form/Resources/formperma/1-4w1KAlQUkKxzvRsc2V688moUg8Ki1yM7fQVmrZpuQ?fbclid=IwAR1FDnq3LGfBSceGha03cWRwXUorw1WSEr_uuH7_egYI33ePVNUCJ0ylLJQ)|
+[![Join Discord and Find Students](images/discord-link.png)](https://discord.gg/zcD5xV3S)|    [![My university materials](images/project.png)](https://labs.computer-engineering.tech/) |[![Join Discord and Find Students](images/help-us.png)](https://forms.zohopublic.com/isticbc/form/Resources/formperma/1-4w1KAlQUkKxzvRsc2V688moUg8Ki1yM7fQVmrZpuQ?fbclid=IwAR1FDnq3LGfBSceGha03cWRwXUorw1WSEr_uuH7_egYI33ePVNUCJ0ylLJQ)|
 
 
 ---
