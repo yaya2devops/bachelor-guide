@@ -177,7 +177,6 @@ If you require any more help for your studies, **Click** the following asset.<br
 
 ---
 
-<a href="https://istic.computer-engineering.tech/#/intern">
-  <img src="images/InternsAssets/intern-push.png" alt="Ignite Summer Intern" style="width: 100%; height: auto;" />
+<a href="https://istic.computer-engineering.tech/#/schedule/degree">
+  <img src="images/InternsAssets/ad-schedule.png" alt="Ignite Summer Intern" style="width: 100%;  height: auto;" />
 </a>
-
