@@ -1,14 +1,16 @@
+<br>
+
 # When You Are Done 
 
 There will come a time when your report comes to an end. You may also decide that it is now the time for just that.
 
-At that exact point, you'll have to print it.
+At that exact point, **you'll have to print it**.
 
-There is a good place around you just for that.
+There is a good place around you just for that. Take your content once converted it to PDF. 
 
-Take your content after you have converted it to PDF. 
+Don't say you don't know how.
 
-Don't say you don't know how, I showed you [exactly how](../learntex.md).
+I showed you [exactly how](../learntex.md).
 
 
 - Get out of [technopole (2/2)](https://isticampus.s3.eu-west-3.amazonaws.com/navigator/round/7-step-to-techno-pole.png) to the right-front.
@@ -16,23 +18,40 @@ Don't say you don't know how, I showed you [exactly how](../learntex.md).
 
 
 
-![Print that here!](assets/sola-print.jpg)
+<div align="center">
 
-## You should not have it this way.
-
-![This is wrong](assets/not-that.jpg)
-
-## You should have it this way.
+## BEMINA Sevices!
 
 
-![This is correct](assets/perfect-PFE.jpg)
 
-You will also need a CD, as discussed. The same place where you printed can serve it for you.
+![This is wrong](assets/sola-print-modified.png)
 
-- Do that, take them and take both to the library.
-- And if you feel lost, you can always [get back and learn more](../pfe.md).
 
-That's with the above process, great to see your speed.
+## HAVE IT THIS WAY.
+
+
+![This is correct](assets/perfect-PFE-modified.png)
+
+
+## AND NOT THIS!
+
+![This is wrong](assets/not-that-modified.png)
+
+ </div>
+
+
+You will also need a CD, as discussed. 
+
+This same place where you just printed your report can also serve it for you.
+
+- Take them to college library.
+
+
+And again, if you feel lost, you can always [get back and learn more](../pfe.md).
+
+That's with the above process.
+
+Great to see your speed.
 
 Now proceed with the following to get some knowledge.
 

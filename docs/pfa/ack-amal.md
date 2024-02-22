@@ -10,3 +10,16 @@
 |:---|
 | Cleopatre Center Building, Block B - North Urban Center 1082 TUNIS, North Urban Center |
 
+
+# Related Assets
+
+![I passed AWS CCP and AZ-700 using this](assets/linedata/linedata-notebook.jpg)
+
+![Best Notes Taking Ever!](assets/linedata/notes-on-linedata.jpg)
+
+![The real Goodbye!](assets/linedata/office-badge-bye.jpg)
+
+![Finally out OF poverty!](assets/linedata/linedata-to-NGCSC.jpg)
+
+
+> Yaya & Internships ! Fun.
