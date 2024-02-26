@@ -22,4 +22,4 @@
 ![Finally out OF poverty!](assets/linedata/linedata-to-NGCSC.jpg)
 
 
-> Yaya & Internships ! Fun.
+> Yaya & Internships ! Fun, [next.](../pfe.md)

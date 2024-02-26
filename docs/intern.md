@@ -22,11 +22,12 @@ The following content is authored in LaTeX. If you're interested in learning how
 
 ### Not only that.
 
+### [Expand on acknowledgments.](pfa/ack-amal.md)
+
 I want to first thank Amal for the chance to work at [Linedata](https://www.linedata.com). 
 
 Just a month in, and I've already landed another opportunity at a [canadian startup](https://nxci.ca) to move up.
 
-[Expand on acknowledgments.](pfa/ack-amal.md)
 
 <img src="pfa/ack-amal.png" width="500px">
 
