@@ -18,7 +18,7 @@ The following is the direction I designed for you so you fully abstract most of 
 
 Without requiring external validation or requests, and more towards self control and mastery.
 
-<img src="assets/re-guide.png" width="800px"> 
+![Something wrong with <img>](assets/re-guide.png)
 
 To be transparent, the project aims and after two years I'm confident to say that it reached the level to provide you **instant access to knowledge.** 
 
