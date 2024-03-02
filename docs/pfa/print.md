@@ -4,12 +4,12 @@
 
 There will come a time when your report comes to an end. You may also decide that it is now the time for just that.
 
-At that exact point, **you'll have to print it**.
+At that exact point, <br>
+**You'll have to print it**.
 
-There is a good place around you just for that. Take your content once converted it to PDF. 
+There is a good place around you just for that. Take your content converted it to PDF. 
 
-Don't say you don't know how.
-
+Don't say you don't know how.<br>
 I showed you [exactly how](../learntex.md).
 
 
@@ -20,7 +20,7 @@ I showed you [exactly how](../learntex.md).
 
 <div align="center">
 
-## BEMINA Sevices!
+## Sola Print!
 
 
 
@@ -33,7 +33,7 @@ I showed you [exactly how](../learntex.md).
 ![This is correct](assets/perfect-PFE-modified.png)
 
 
-## AND NOT THIS!
+## PLZZ NOT THIS!
 
 ![This is wrong](assets/not-that-modified.png)
 
@@ -49,8 +49,7 @@ This same place where you just printed your report can also serve it for you.
 
 And again, if you feel lost, you can always [get back and learn more](../pfe.md).
 
-That's with the above process.
-
+That's with the above process.<br>
 Great to see your speed.
 
 Now proceed with the following to get some knowledge.
