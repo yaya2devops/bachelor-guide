@@ -1,0 +1,3 @@
+- add linetdata assets to ack-amal.md
+- deposit pfe and print process story
+- left drawio arch in images

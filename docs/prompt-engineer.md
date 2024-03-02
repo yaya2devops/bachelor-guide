@@ -4,7 +4,10 @@ Happy to help you King or Queen.
 
 I'm thrilled to share a personally crafted prompt for you – a creative tool designed to unlock some amazing content! 
 
-— [Download From Here: ███████▒▒▒ 70%](https://github.com/yaya2devops/bachelor-guide/blob/e677924dc12622fb017754e2dfe75d15bdea8038/docs/images/InternsAssets/gen-latex-prompt.pdf) —
+
+[<img src="download-prompt.png" alt="Download From Here"  >](https://github.com/yaya2devops/bachelor-guide/blob/e677924dc12622fb017754e2dfe75d15bdea8038/docs/images/InternsAssets/gen-latex-prompt.pdf)
+
+
 
 🌟 It's all yours – unleash your imagination and dive in! 🚀
 

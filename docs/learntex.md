@@ -3,7 +3,7 @@
 
 # LaTe𝕏cellence 
 
-Hey! Welcome where I help you become more proficient with the LaTeX system. We'll start with a basic "Hello Yaya" document and progress towards a more advanced structure, to finaly demonstrate what a good project structure should be.
+Hey! Welcome where I help you become more proficient with the LaTeX system. We'll start with a basic "Hello Yaya" document and progress towards a more advanced structure, to finaly demonstrate what a good project structure should be. We'll then provide a template so you can get into the right action instantly.
 
 - [Step 1: Creating Your First LaTeX](#step-1-creating-your-first-latex-document)
 - [Step 2: See What You Created](#step-2-see-what-you-created)

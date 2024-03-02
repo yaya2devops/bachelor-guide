@@ -8,26 +8,62 @@
 
 ![Banner](../images/mainreadme.gif)
 
-As students ourselves, we understand the challenges that can come with starting a new learning journey. It can be overwhelming to try and navigate through a sea of information, not knowing where to start or what materials are essential. That's why we decided to take on this project - to create a resource that would make it easier for anyone to begin their learning without confusion or a lack of information.
+As students ourselves, we understand the challenges that can come with starting a new learning journey. 
 
-Our project aims to provide **instant access to knowledge.** We went through a lengthy process to achieve these objectives, which is still ongoing. 
+Very overwhelming to navigate through a sea of information, not knowing where to start or what materials are essential. 
 
-You can view some of the events that occurred from [here](../inspirations.md).
+We, therefore, decided to take on this project - to create a resource that would make it easier for anyone as dear as you to begin their learning without confusion or a lack of information.
 
-You can find the [older version](https://stale.computer-engineering.tech/#/) that may inspire you.
+The following is the direction I designed for you so you fully abstract most of the concepts, terms, and methodologies required to ace your degree. 
 
-Some assets from a small portion of Behind the Scenes can be found in [this.](../behindascene/README.md)
+Without requiring external validation or requests, and more towards self control and mastery.
 
-Throughout the course of this project, we faced a number of challenges since most students still don't like the idea of sharing their work for the sake of open source, and I had to explain the vision and the value earned. Despite these challenges, we were able to make significant progress and provide a substantial amount of materials along the structure I designed myself to make the path more clear. Some of the most significant results and findings of our project include required documents for all semesters in drive format, as well as a plethora of hands-on lab instructions that students can follow.
+![Something wrong with <img>](assets/re-guide.png)
 
-More labs can be found [here](https://labs.computer-engineering.tech/)
+To be transparent, the project aims and after two years I'm confident to say that it reached the level to provide you **instant access to knowledge.** 
 
-The rest of this document is organized into Semesters, subjects, chapters and Hands-on software. We hope that by following this structure, you will be able to easily navigate through the information we have provided and gain a comprehensive understanding of the degree. 
+We went through a very lengthy process, time and effort consuming with pure evidence to achieve these objectives, which never end till the end of the internet.
 
-Kindly, refer to the [sidebar](https://github.com/Y4HYA4/TheRealBachelorsDocs/blob/main/docs/_sidebar.md).
+- You can view some of the events that occurred from [here](../inspirations.md).
+- You can find the [older version](https://stale.computer-engineering.tech/#/) that may inspire you.
+- You can check some assets of behind the scenes [here.](../behindascene/README.md).
+- You can look for labs we've done [here](https://labs.computer-engineering.tech/).
 
-We are confident that our project will be a valuable resource for anyone looking to start their learning journey, and we hope it helps to make the process a little easier and less confusing. <br><br>
-We'll do it with these quotes in mind.
+Throughout the course, again, we faced many pullbacks since most students were not into sharing their god-like materials for the sake of open source.
+
+I had to explain the vision and the value earned. 
+
+Despite all those that, we were able to make significant progress and provide a substantial amount of materials.
+
+I also designed a structure that made it crystal clear for you. 
+
+Some of the most significant results and findings of our project include a compression of value for all semesters in various format 
+
+A plethora of hands-on lab instructions that students can follow.
+
+I've written and traced those labs as well and can be found above.
+
+The rest of this website is organized into Semesters, subjects, chapters, and Hands-on software. 
+
+I also narrated some intense experiences as soon as I lived it.
+
+
+We hope that by following that, you will be able to navigate through the information easily.
+
+
+To abstract it with less pain and more ways through.
+
+We love to see you win. 
+
+You can now e.g. refer to the [sidebar](https://github.com/Y4HYA4/TheRealBachelorsDocs/blob/main/docs/_sidebar.md).
+
+Or do whatever as everything you'll face will get you enlightened.
+
+We are confident that our project will be a valuable resource for you.
+
+We do not doubt that. 
+
+We'll keep doing it with these quotes in mind.
  
 > “Share your knowledge. It is a way to achieve immortality.”  –Dalai Lama
 
@@ -35,11 +71,24 @@ We'll do it with these quotes in mind.
 
 
 ## [Contributing](https://istic.computer-engineering.tech/#/how-to-contribute)
-Continue to look through the docs folder.
-Simply shoot the necessary file(s) **.md** after having it forked in your local machine when thinking about contributing.
 
-- [Learn why we think this is important.](../ISTIC_Materials.md#important-notice)
+There are two kinds of people, those who only consume and those who create for those who do just that.
 
+I mean feel free, to consume buddy. But could you think about it?
+
+Add your taste to this masterpiece.
+
+What did you get from your experiences that others can scale on?
+
+That's what is this section for.
+
+Continue to look through `docs`.
+
+Attack those who you have things to add on.
+
+[We think this is important.](../ISTIC_Materials.md#important-notice)
+
+Whether you support us or not, we'll help more students and YOU watch.
 
 ``` 
 
@@ -68,14 +117,17 @@ Simply shoot the necessary file(s) **.md** after having it forked in your local 
 ├── package.json
 ```
 
-Have you finished committing? Return to this repository and pull a request.
-From [here](../contributors.md), you can join the contributors.
 
 ## [Sharing Is Caring](https://forms.zohopublic.com/isticbc/form/Resources/formperma/1-4w1KAlQUkKxzvRsc2V688moUg8Ki1yM7fQVmrZpuQ?fbclid=IwAR1FDnq3LGfBSceGha03cWRwXUorw1WSEr_uuH7_egYI33ePVNUCJ0ylLJQ)
-We appreciate your presence; if you have something to posit, please use one of the approaches listed below.
+
+
+Your computer has something for others. Give it or hide it with this key 🔑
+
 
 ### Email Addresses:
 
 - **Overall Issue:** improve@computer-engineering.tech
 - **IOT Related:** yahya@computer-engineering.tech
 - **Networking Related:** jawher.smida@computer-engineering.tech
+
+There above are open emails as well, we always looking to what you have to say.

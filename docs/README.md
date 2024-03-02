@@ -5,7 +5,7 @@
 ---
 
 <a href="https://istic.computer-engineering.tech/#/overview">
-  <img src="images/InternsAssets/pursue-students.png" alt="Direct Students To Next Step" style="width: auto; height: auto;" />
+  <img src="images/InternsAssets/pursue-students.png" alt="Direct Students To Next Step" style="width: 100%; height: auto;" />
 </a>
 
  

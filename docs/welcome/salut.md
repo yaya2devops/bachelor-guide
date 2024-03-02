@@ -6,6 +6,8 @@ Bienvenue dans ce guide de notre projet de **licence**, un projet entièrement p
 
 En tant qu'étudiants nous-mêmes, nous comprenons les défis qui peuvent survenir au début d'un nouveau parcours d'apprentissage. Il peut être écrasant d'essayer de naviguer dans une mer d'informations, sans savoir par où commencer ni quels matériaux sont essentiels. C'est pourquoi nous avons décidé d'entreprendre ce projet - créer une ressource qui permettrait à quiconque de commencer plus facilement son apprentissage sans confusion ni manque d'informations.
 
+![Direct The Student Experience](assets/re-guide.png)
+
 Notre projet vise à fournir un **accès instantané à la connaissance.** Nous avons suivi un long processus pour atteindre ces objectifs, qui est toujours en cours. 
 
 Vous pouvez voir certains des événements qui se sont produits depuis [ici](../inspirations.md).

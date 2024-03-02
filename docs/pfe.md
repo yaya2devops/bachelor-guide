@@ -1,4 +1,4 @@
-## The Spectacle of Academic Culmination
+## The Spectacle of Academic Culmination (NxCi)
 
 I will be taking this chance to outline for you the entire process and the social interactions that must be fulfilled in order to get out with a great experience and a lasting memory. Whether you believe it or not, memories make the man and I want you to have more good of that.
 
@@ -64,16 +64,13 @@ The coordinator⁷ will verify your assets and confirm your deposit.
 You will receive <i>situation settlement</i> confirming the above but also to take it further.
 </summary>
 
-
 It started with seeking confirmation from the rapporteur regarding his availability!
-
 
 <img src="pfe/assets/SS/SS-sig-request-1.jpg" width="500px">
 
 <br>
 
 Dr Wassim also mentioned that he will contact me soon to arrange Azure training sessions! I truly appreciated it!
-
 
 <img src="pfe/assets/SS/SS-sig-request-2.jpg" width="500px">
 
@@ -83,11 +80,9 @@ It went smoothly; we met at the student center, it was a pleasant encounter as w
 
 Everything went well and SS fulfilled the following two steps.
 
-
 <img src="pfe/assets/SS/situation-settlement.jpg" width="500px">
 
 <br>
-
 
 </details>
 
@@ -124,7 +119,6 @@ But also other great assets from your past hard work and effort.
 </details>
 
 You will be taking those from the administration (1) specifically from the secretarial, and you'll observe where teachers and other staff interact on your exit.
-
 
 > Explore [where Admin (1) is located](https://campus.computer-engineering.tech).
 

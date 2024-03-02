@@ -16,7 +16,7 @@
 
 
 [Join Campus](https://campus.computer-engineering.tech)
-[Start Exploring!](README.md)
+[Start Expl⦿ring](README.md)
 
 
 

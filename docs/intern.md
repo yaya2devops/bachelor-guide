@@ -22,7 +22,17 @@ The following content is authored in LaTeX. If you're interested in learning how
 
 ### Not only that.
 
-But I also gift you the following papers I created for you; in one click.
+### [Expand on acknowledgments.](pfa/ack-amal.md)
+
+I want to first thank Amal for the chance to work at [Linedata](https://www.linedata.com). 
+
+Just a month in, and I've already landed another opportunity at a [canadian startup](https://nxci.ca) to move up.
+
+
+<img src="pfa/ack-amal.png" width="500px">
+
+And then I also gift you the following papers I created for you; in one click.
+
 
 | Papers                      | Description                                          |
 | ---------------------------|------------------------------------------------------|
@@ -77,8 +87,8 @@ It is through these experiences that you will truly grow into [the architect of 
 
 ---
 
-<a href="https://istic.computer-engineering.tech/#/schedule/degree">
-  <img src="images/InternsAssets/ad-schedule.png" alt="Ignite Summer Intern" style="width: auto; height: auto;" />
+<a href="https://istic.computer-engineering.tech/#/pfa/print">
+  <img src="pfa/assets/print-dat.png" alt="Ignite Summer Intern" style="width: 100%;  height: auto;" />
 </a>
 
  
