@@ -15,7 +15,18 @@
 
 ![I passed AWS CCP and AZ-700 using this](assets/linedata/linedata-notebook.jpg)
 
+
+![Needed to learn docker asap while others eating (SPEED)](assets/linedata/docker-time-during-lunch.jpg)
+
 ![Best Notes Taking Ever!](assets/linedata/notes-on-linedata.jpg)
+
+![The real Goodbye!](assets/linedata/badge-is-mine-31.jpg)
+
+
+![That was neat when I first saw it](assets/linedata/emails-before-gpt-to-my-i7+.jpg)
+
+![Inspire admin Process!](assets/linedata/on-manager-desk.jpg)
+
 
 ![The real Goodbye!](assets/linedata/office-badge-bye.jpg)
 
