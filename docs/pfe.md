@@ -134,6 +134,8 @@ You will be taking those from the administration (1) specifically from the secre
 - ⁶: Examining the content of reports and offering constructive feedback¹⁻⁷.
 - ⁷: Oversees the process of taking reports and publishing them in the school library.
 
+![Im just an artist and Alan Watts in spotify)](pfe/assets/yaya-in-nxci.png)
+
 
 |ℹ️|Improve visibility—switch to white mode.|
 |---|---|
