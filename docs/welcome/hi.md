@@ -2,7 +2,7 @@
 <br>
 <br>
 
-# [Guide to Computer Engineering ](https://istic.computer-engineering.tech/#/)
+# [You're,](https://istic.computer-engineering.tech/#/)
 
  Welcome to the guide for our bachelor's degree project, a project entirely driven by students with the goal of providing comprehensive and accessible learning materials.
 
