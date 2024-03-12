@@ -1,0 +1,12 @@
+sequenceDiagram
+    participant Student
+    participant Library
+
+    Student->>Library: Provide report (book-printed)
+    Student->>Library: Provide digital version in CD
+    Library-->>Student: Validate the rapporteur tracability
+    Library-->>Student: Provide and validate situation settlement
+    Student->>Library: Take the situation settlement to the Scholarship
+
+
+    https://www.mermaidchart.com/app/projects/d440aed0-e962-4f9b-b9bf-8d1f1c355808/diagrams/ad3a0f1b-a1be-4c62-b802-ca26025ac613/version/v0.1/edit

@@ -1,0 +1,12 @@
+graph TD
+  president[PRESIDENT] -->|Oversees| defendDay[DEFEND DAY]
+  defendDay -->|Organizes| presenter[PRESENTER]
+  defendDay -->|Organizes| mentor[MENTOR]
+  defendDay -->|Organizes| rapporteur[RAPPORTUER]
+
+  presenter -->|Presents| defendDay
+  mentor -->|Guides| presenter
+  rapporteur -->|Reports on| defendDay
+
+
+https://www.mermaidchart.com

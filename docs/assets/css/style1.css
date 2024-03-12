@@ -55,7 +55,7 @@ p::selection{
 /*Search design*/
 .search input {
         width: 95% !important;
-        border-radius: 60px;
+        border-radius: 45px;
         text-indent: 20px;
 }  
 .sidebar ul li a {
@@ -218,4 +218,15 @@ div#app:empty:before {
 /*log image*/
 .log-img {
     align-self: center;
+}
+/*-- sidebar-nav style --*/
+.sidebar li ul a:hover{
+    border-right: 2px solid;
+    color: var(--accent);
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.sidebar .search .input-wrap input{
+    padding: 20px;
 }

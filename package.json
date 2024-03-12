@@ -1,5 +1,7 @@
 {
   "dependencies": {
-    "docsify-darklight-theme": "^3.2.0"
+    "docsify": "^4.13.1",
+    "docsify-darklight-theme": "^3.2.0",
+    "http-server": "^14.1.1"
   }
 }

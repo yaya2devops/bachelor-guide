@@ -151,3 +151,21 @@ TO-DO
 - include twitter
 
 
+> 3/02/2023
+
+- banner fr archive re design
+- mmutual now
+
+> 16/02/2023
+
+to be added to labs assets
+- linux exam work 2022/2022/2023
+- AI and ML work
+- all the work made during revision is delivered as required
+
+---
+
+- PFA landpage
+- FAQ Hyperlinks;PFE, expectation(to-do)
+- schedule page remake, using digrams
+

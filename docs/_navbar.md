@@ -1,9 +1,9 @@
 - [<img src="images/navbar/11.png" alt="Home" width="27" height="27"/>](/)
+  - [This is English](/)
 - [<img src="images/navbar/22.png" alt="French" width="27" height="27"/>](/fr/)
-- <img src="images/navbar/33.png" alt="More" width="27" height="27"/>
-
-  - [Scan QR](qr.md)
-  - [Updates](inspirations.md)
-  - [Discord](https://discord.gg/dbY9xSuK)
-- [<img src="images/navbar/44.png" alt="Contribute" width="30" height="30"/>](https://istic.computer-engineering.tech/#/contributions)
-
+  - [Try "Français"](/fr/)
+- [<img src="images/navbar/44.png" alt="Contribute" width="30" height="30"/>](#)
+  - [Engage](contributions.md)
+  - [Discord](https://discord.gg/DGpA2vFuF4)
+  - [Give QR](qr.md)
+  - [Get Help](https://github.com/yaya2devops/bachelor-guide/issues/new?title=Let%20Us%20Know&body=%0A%0A%5BYaya%20Ask%20For%20Your%20feedback%20here%5D%0A%0A%0A---%0A%23%23%23%23%20Guide%20Details%0A%E2%9A%A0%20*Leave%20This%20section%20for%20GitHub%20and%20Guide%20issue%20redirections*%0A*%20ID%3A%20%5B7e2c0e6e-8b6d-4c2f-aaef-15f736a7b2a1%5D%0A*%20Version%20Independent%20ID%3A%20%5Ba5f1d387-7be9-4f0c-b92d-d52d16ef1d8e%5D%0A*%20Content%3A%20%5BBachelors%20in%20Computer%20Engineering%20Guide%5D%0A*%20Content%20Source%3A%20%5Bbachelor-guide/docs/README.md%5D(https://github.com/yaya2devops/bachelor-guide/blob/main/docs/README.md)%0A*%20Service%3A%20%5Bcollege-students-empower%5D%0A*%20GitHub%20Handle%3A%20%40yaya2devops)
