@@ -143,7 +143,7 @@ You will be taking those from the administration (1) specifically from the secre
 ---
 
 
-<a href="https://istic.computer-engineering.tech/#/lifeline/lifeline">
+<a href="https://istic.computer-engineering.tech/#/lifeline">
   <img src="lifeline/direct-lifeline.png" alt="Wrap up Guide" style="width: 100%;  height: auto;" />
 </a>
 
