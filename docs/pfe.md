@@ -140,5 +140,13 @@ You will be taking those from the administration (1) specifically from the secre
 |ℹ️|Improve visibility—switch to white mode.|
 |---|---|
 
+---
+
+
+<a href="https://istic.computer-engineering.tech/#/lifeline/lifeline">
+  <img src="lifeline/direct-lifeline.png" alt="Wrap up Guide" style="width: 100%;  height: auto;" />
+</a>
+
+
 
 
