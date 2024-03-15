@@ -6,7 +6,9 @@ After the years spent doing the program, your last exams should be accomplished 
 
 From this point and beyond please...
 - Satisfy the univeristy administration documents.
-- Start or continue working on [your end of study project](learntex?id=action-required).
+- Start or continue working on [your end of study project](learntex?id=action-required) (snapshot below).
+
+<iframe src="pfe/snapshot.html" width="150" height="700"></iframe>
 
 Considering the papers you have to validate with college. You should be more aware of these after [your summer intern](intern.md).
 
