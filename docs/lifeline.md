@@ -1,5 +1,8 @@
 
 
-<iframe src="lifeline/him/lifeline.html" width="150" height="700"></iframe>
+<iframe src="lifeline/him/vite-svp/accelerate-x.html" width="150" height="700"></iframe>
 
-> Welcome to [this advanced guide](lifeline/guide.md).
+
+<br>
+
+[<img src="lifeline/magic.png">](lifeline/guide)

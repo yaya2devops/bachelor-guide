@@ -16,7 +16,7 @@ I'm thrilled to share a personally crafted prompt for you – a creative tool de
 # Quickstart ✨
 To begin, please follow these steps:
 
-0. **Click *Download* above:** Access the prompt in PDF format that I'm providing just for you.
+0. **Click *the gifted asset* above:** Download the prompt in PDF format that I'm providing just for you.
 1. **Copy the entire page:** Copy both the instructions and the LaTeX prompt attached.
 2. **Replace section and subsection values:** Modify with the specific topic you intend to explore.
 3. **Push the content to the chat:** Paste the modified content, including the updated LaTeX prompt, in the chat.

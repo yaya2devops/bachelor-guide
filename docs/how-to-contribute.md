@@ -1,6 +1,12 @@
-## Contributing
+<br>
+
+# Contributing
 Continue to look through the docs folder.
-Simply shoot the necessary file(s) **.md** after having it forked in your local machine when thinking about contributing.
+
+
+Fork the code and work all your added value.
+
+If you feel ready, give it back for others to benefit.
 
 ``` 
 
@@ -29,5 +35,14 @@ Simply shoot the necessary file(s) **.md** after having it forked in your local 
 ├── package.json
 ```
 
-Have you finished committing? Return to this repository and pull a request.
-From [here](contributors.md), you can join the contributors.
+
+## Be A Fellow Student
+
+We have made the following form so that you can support your materials for the overall good.
+
+You can pick the semester and you'll have assocaited subjects.
+
+
+[<img src="assets/save-others.png">](https://forms.zohopublic.com/isticbc/form/Resources/formperma/1-4w1KAlQUkKxzvRsc2V688moUg8Ki1yM7fQVmrZpuQ?fbclid=IwAR1FDnq3LGfBSceGha03cWRwXUorw1WSEr_uuH7_egYI33ePVNUCJ0ylLJQ)
+
+> Click the above asset and Just Do It!
