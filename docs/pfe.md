@@ -68,7 +68,7 @@ You will receive <i>situation settlement</i> confirming the above but also to ta
 
 It started with seeking confirmation from the rapporteur regarding his availability!
 
-|[Validate](https://raw.githubusercontent.com/yaya2devops/bachelor-guide/main/docs/pfe/assets/SS/SS-sig-request-1.jpg) | [Translate](pfe/assets/translated.md)|
+|[Valid I](https://raw.githubusercontent.com/yaya2devops/bachelor-guide/main/docs/pfe/assets/SS/SS-sig-request-1.jpg) - [Valid II](https://raw.githubusercontent.com/yaya2devops/bachelor-guide/main/docs/pfe/assets/yes-finally.jpg)| [Translate](pfe/assets/translated.md) |
 |---|---|
 
 
@@ -167,11 +167,10 @@ I received excellent feedback even before initiating the process of settling my 
 
 
 
-|[Validate](https://raw.githubusercontent.com/yaya2devops/bachelor-guide/main/docs/pfe/assets/SS/SS-sig-request-1.jpg) | [Translate](pfe/yay-translated.md)|
+|[Validate](https://raw.githubusercontent.com/yaya2devops/bachelor-guide/main/docs/pfe/yay-thanks.jpg) | [Translate](pfe/yay-translated.md)|
 |---|---|
 
 
-[Validate it now](pfe/yay-translates.md)
 
 <pre><code class="language-json">
 {
