@@ -68,13 +68,76 @@ You will receive <i>situation settlement</i> confirming the above but also to ta
 
 It started with seeking confirmation from the rapporteur regarding his availability!
 
-<img src="pfe/assets/SS/SS-sig-request-1.jpg" width="500px">
+|[Validate](https://raw.githubusercontent.com/yaya2devops/bachelor-guide/main/docs/pfe/assets/SS/SS-sig-request-1.jpg) | [Translate](pfe/assets/translated.md)|
+|---|---|
+
+
+<pre><code class="language-json">
+{
+  "communication_type": "Email",
+  "messages": [
+    {
+      "sender": "Wassim Abbessi",
+      "timestamp": "19 Dec 2023",
+      "recipient": "Yahya Abulhaj, College student",
+      "message": "Translate to English\nquand tu seras à l'istic envoie moi un message je viens le signer",
+      "role": "Project Rapporteur"
+    },
+    {
+      "sender": "Yahya Abulhaj, College student",
+      "timestamp": "20 Dec 2023",
+      "recipient": ["Wassim", "Marsit"],
+      "message": "Bonjour Mr Wassim,\nJe vais prendre ce vendredi. Je serai à ISTIC vers 11h.\nMerci infiniment !"
+    },
+    {
+      "sender": "Yahya Abulhaj, College student",
+      "timestamp": "20 Dec 2023",
+      "recipient": "Wassim",
+      "message": "Voici mon numéro : xxx9xxxx"
+    }
+  ]
+}
+</code></pre>
 
 <br>
 
-Dr Wassim also mentioned that he will contact me soon to arrange Azure training sessions! I truly appreciated it!
+Dr. Wassim also mentioned that he will contact me soon to arrange Azure training sessions! I truly appreciated it!
 
-<img src="pfe/assets/SS/SS-sig-request-2.jpg" width="500px">
+
+|[Validate](https://raw.githubusercontent.com/yaya2devops/bachelor-guide/main/docs/pfe/assets/SS/SS-sig-request-2.jpg) | [Translate](pfe/assets/SS/translated.md)|
+|---|---|
+
+
+<pre><code class="language-json">
+{
+  "imessages": [
+    {
+      "sender": "Wassim Abbessi, Ph.D",
+      "medium": "Message texte",
+      "date": "Ven, 22 déc à 11h10",
+      "subject": "Post-défense",
+      "messages": [
+        {
+          "time": "11h10",
+          "content": "Bonjour, je suis à l'ISTIC. Wassim devant l'administration"
+        },
+        {
+          "time": "11h10m",
+          "content": "Bonjour Monsieur. S'il vous plaît, la salle"
+        },
+        {
+          "time": "11h10m",
+          "content": "Parfait ! J'arrive"
+        },
+        {
+          "time": "11h11m",
+          "content": "Merci"
+        }
+      ]
+    }
+  ]
+}
+</code></pre>
 
 <br>
 
@@ -102,7 +165,37 @@ If that goes well and surely will!
 I received excellent feedback even before initiating the process of settling my situation, which is truly remarkable.
 
 
-<img src="pfe/yay-thanks.jpg" width="500px">
+
+
+|[Validate](https://raw.githubusercontent.com/yaya2devops/bachelor-guide/main/docs/pfe/assets/SS/SS-sig-request-1.jpg) | [Translate](pfe/yay-translated.md)|
+|---|---|
+
+
+[Validate it now](pfe/yay-translates.md)
+
+<pre><code class="language-json">
+{
+  "communication_type": "ISTIC Email",
+  "messages": [
+    {
+      "sender": "Marsit imen",
+      "timestamp": "8 Dec 2023",
+      "recipient": "me",
+      "message": "Merci pour ta réponse. J'ai oublié de te dire que t'as eu \"très bien avec félicitations du jury\" on a oublié de te le dire lors de la délibération. Félicitations!",
+      "mentor_type": "Academic Mentor"
+    },
+    {
+      "sender": "Yahya Abulhaj - Computer Engineering Student",
+      "timestamp": "8 Dec 2023",
+      "recipient": "Marsit",
+      "message": "Tout cela grâce à vos incroyables efforts avec moi.\nJ'apprécie vraiment toutes les rencontres que j'ai eues avec vous ainsi que vos instructions et critiques.\nUn grand Merci Madame Imen"
+    }
+  ]
+}
+</code></pre>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.25.0/prism.min.js"></script>
+
+
 
 </details>
 
