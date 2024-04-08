@@ -3,7 +3,7 @@
 
 
 
-| Label                          | Average | Credits Earned | Session Average Retry | Average Credits Acquired |
+| Label                          | Average | Credits Earned |  Average  | Average Credits Acquired |
 |:--------------------------------|---------|----------------|-----------------------|--------------------------|
 | Final Project                  | 15 MX   | 18             | 30                    | 60                       |
 

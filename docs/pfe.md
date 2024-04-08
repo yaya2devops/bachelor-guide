@@ -39,7 +39,7 @@ Make a memorable printable copy to each of those great people¹⁻⁷.
 
 Prepare a presentation tell the key findings of your intensive report doing real works.
 
-<img src="pfe/defense.svg" width="500px">
+<img src="pfe/defense-modified.png" width="500px">
 
 - Expect to recieve constructive feedback on the defense day.
 - Expect to act asap on the feedback of the defense day.
@@ -57,7 +57,7 @@ You are ready to proceed to **the next step.**
 - Deliver printable final product to the library.
 - Deliver digital final product via CD to library.
 
-<img src="pfe/lib-process.svg" width="500px">
+<img src="pfe/lib-process-modified.png" width="500px">
 
 The coordinator⁷ will verify your assets and confirm your deposit.
 
@@ -79,21 +79,21 @@ It started with seeking confirmation from the rapporteur regarding his availabil
     {
       "sender": "Wassim Abbessi",
       "timestamp": "19 Dec 2023",
-      "recipient": "Yahya Abulhaj, College student",
-      "message": "Translate to English\nquand tu seras à l'istic envoie moi un message je viens le signer",
+      "recipient": "Yahya Abulhaj, Etudiant ISTIC",
+      "message": "quand tu seras à l'istic envoie moi un message je viens le signer",
       "role": "Project Rapporteur"
     },
     {
-      "sender": "Yahya Abulhaj, College student",
+      "sender": "Yahya Abulhaj, Etudiant ISTIC",
       "timestamp": "20 Dec 2023",
       "recipient": ["Wassim", "Marsit"],
       "message": "Bonjour Mr Wassim,\nJe vais prendre ce vendredi. Je serai à ISTIC vers 11h.\nMerci infiniment !"
     },
     {
-      "sender": "Yahya Abulhaj, College student",
+      "sender": "Yahya Abulhaj, Etudiant ISTIC",
       "timestamp": "20 Dec 2023",
       "recipient": "Wassim",
-      "message": "Voici mon numéro : xxx9xxxx"
+      "message": "Voici mon numéro : xxx9xx69"
     }
   ]
 }
@@ -127,6 +127,10 @@ Dr. Wassim also mentioned that he will contact me soon to arrange Azure training
         },
         {
           "time": "11h10m",
+          "content": "devant l'administration"
+        },
+        {
+          "time": "11h11m",
           "content": "Parfait ! J'arrive"
         },
         {
@@ -141,7 +145,7 @@ Dr. Wassim also mentioned that he will contact me soon to arrange Azure training
 
 <br>
 
-It went smoothly; we met at the student center, it was a pleasant encounter as we signed the documents and expressed mutual gratitude.
+It went smoothly; we met at the student center for it was a pleasant encounter as we signed the documents and expressed mutual gratitude.
 
 Everything went well and SS fulfilled the following two steps.
 
@@ -209,7 +213,7 @@ But also other great assets from your past hard work and effort.
 <br>
 
 
-| Label                          | Moyenne | Crédits Acquis | Moyenne Sess. Ratt | Moyenne Cr Acq |
+| Label                          | Moyenne | Crédits Acquis | Moyenne | Moyenne Cr Acq |
 |:--------------------------------|---------|----------------|---------------------|----------------|
 | Projet final                   | 15 MX   | 18             | 30                  | 60             |
 
