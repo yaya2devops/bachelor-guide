@@ -208,7 +208,19 @@ But also other great assets from your past hard work and effort.
 
 <br>
 
-<img src="pfe/yaya-defense-exposed.png" width="500px">
+
+| Label                          | Moyenne | Crédits Acquis | Moyenne Sess. Ratt | Moyenne Cr Acq |
+|:--------------------------------|---------|----------------|---------------------|----------------|
+| Projet final                   | 15 MX   | 18             | 30                  | 60             |
+
+
+| Information          | Valeur            | Décision du Jury   | Détails               | Institution |
+|:----------------------|-------------------|---------------------|:-----------------------|-------------|
+| Moyenne générale    | 15.6              | Date                | 12/01/2024           | ISTIC       |
+| Crédits Acquis      | 58                | Décision            | Admis                 | [Translate](pfe/yaya-defense-exposed-translated.md)|
+| Distinction         | BIEN              | Signataire          | Krouma Mohamed Ali    | [Validate](pfe/yaya-defense-exposed.png)|
+
+
 
 </details>
 
