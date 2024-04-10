@@ -10,7 +10,9 @@ From this point and beyond please...
 
 <iframe src="pfe/snapshot.html" width="150" height="700"></iframe>
 
-Considering the papers you have to validate with college. You should be more aware of these after [your summer intern](intern.md).
+Considering the papers you have to validate with college. 
+
+You should be more aware of these after [your summer intern](intern.md).
 
 Let me kindly re-step the process in a better way.
 
@@ -66,7 +68,7 @@ The coordinator⁷ will verify your assets and confirm your deposit.
 You will receive <i>situation settlement</i> confirming the above but also to take it further.
 </summary>
 
-It started with seeking confirmation from the rapporteur regarding his availability!
+Started with seeking confirmation from the rapporteur regarding his availability.
 
 |[Valid I](https://raw.githubusercontent.com/yaya2devops/bachelor-guide/main/docs/pfe/assets/SS/SS-sig-request-1.jpg) - [Valid II](https://raw.githubusercontent.com/yaya2devops/bachelor-guide/main/docs/pfe/assets/yes-finally.jpg)| [Translate](pfe/assets/translated.md) |
 |---|---|
@@ -101,7 +103,9 @@ It started with seeking confirmation from the rapporteur regarding his availabil
 
 <br>
 
-Dr. Wassim also mentioned that he will contact me soon to arrange Azure training sessions! I truly appreciated it!
+Dr. Wassim also mentioned that he will contact me soon to arrange Azure training sessions. 
+
+I truly appreciated it,
 
 
 |[Validate](https://raw.githubusercontent.com/yaya2devops/bachelor-guide/main/docs/pfe/assets/SS/SS-sig-request-2.jpg) | [Translate](pfe/assets/SS/translated.md)|
@@ -145,13 +149,9 @@ Dr. Wassim also mentioned that he will contact me soon to arrange Azure training
 
 <br>
 
-It went smoothly; we met at the student center for it was a pleasant encounter as we signed the documents and expressed mutual gratitude.
+It went smooth; we met at the student center for it was a pleasant encounter as I handled to him the [current situation settlement](https://raw.githubusercontent.com/yaya2devops/bachelor-guide/main/docs/pfe/assets/SS/SS-before-last-confirm.jpg) so he can sign it **,** and we expressed mutual gratitude.
 
-Everything went well and SS fulfilled the following two steps.
-
-<img src="pfe/assets/SS/situation-settlement.jpg" width="500px">
-
-<br>
+Everything went well and [S.S fulfilled the following two steps](https://raw.githubusercontent.com/yaya2devops/bachelor-guide/main/docs/pfe/assets/SS/situation-settlement.jpg).
 
 </details>
 
@@ -166,9 +166,9 @@ If that goes well and surely will!
 
 <br>
 
-I received excellent feedback even before initiating the process of settling my situation, which is truly remarkable.
+As I received excellent feedback even before initiating the process of settling my situation.
 
-
+Truly remarkable,
 
 
 |[Validate](https://raw.githubusercontent.com/yaya2devops/bachelor-guide/main/docs/pfe/yay-thanks.jpg) | [Translate](pfe/yay-translated.md)|
