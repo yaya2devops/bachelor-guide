@@ -1,5 +1,4 @@
-
 tasks:
-  - init: npm install && npm install docsify-cli -g
-
-
+  - before: npm install
+    init: npm install docsify-cli -g
+  - command: docsify serve docs
