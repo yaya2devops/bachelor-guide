@@ -8,7 +8,7 @@
 
 |Linedata Tunisia - 6th Quality Assurance Floor, as HR Department |
 |:---|
-| Cleopatre Center Building, Block B - North Urban Center 1082 TUNIS, North Urban Center |
+| Cleopatre Center Building, Block B - North Urban Center1082 - TUNIS, Tunisia|
 
 
 # Related Assets

@@ -12,4 +12,4 @@
 |:----------------------|------------------|-----------------------------|:-----------------------|-----------------------|
 | Overall Average      | 15.6             | Date                        | 12/01/2024            |ISTIC|
 | Credits Earned       | 58               | Decision                    | Passed                |[Translate](../pfe.md) |
-| Distinction          | GOOD             | Signatory                   | Krouma Mohamed Ali    | [Validate](yaya-defense-exposed.png) |
+| Distinction          | GOOD             | Signatory                   | Krouma Mohamed Ali    | **VALID** |

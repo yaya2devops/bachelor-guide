@@ -2,14 +2,16 @@
 
 # When You Are Done 
 
-There will come a time when your report comes to an end. You may also decide that it is now the time for just that.
+There will come a time when your report comes to an end. 
+<br>You [may also decide](https://www.forbes.com/sites/forbescoachescouncil/2023/05/05/16-proven-methods-to-enhance-executive-decision-making-skills/?sh=7cd5cb823a31) that it is now the time for just that.
 
 At that exact point, <br>
-**You'll have to print it**.
+**You'll have to [print it](https://en.wikipedia.org/wiki/History_of_printing)**.
 
-There is a good place around you just for that. Take your content converted it to PDF. 
+There is a **good placeᵨ** around you just for that.<br> Take your content converted it to PDF. 
 
-Don't say you don't know how.<br>
+Don't say; <br>
+You don't exactly know how.<br>
 I showed you [exactly how](../learntex.md).
 
 
@@ -20,34 +22,34 @@ I showed you [exactly how](../learntex.md).
 
 <div align="center">
 
-## Sola Print!
+## — Sola Printᵨ — 
 
 
 
 ![This is wrong](assets/sola-print-modified.png)
 
 
-## HAVE IT THIS WAY.
+## — HAVE IT THIS WAY — 
 
 
 ![This is correct](assets/perfect-PFE-modified.png)
 
 
-## PLZZ NOT THIS!
+## — PLZ , NOT THIS — 
 
 ![This is wrong](assets/not-that-modified.png)
 
  </div>
 
 
+Lastly,<br>
 You will also need a CD, as discussed. 
 
 This same place where you just printed your report can also serve it for you.
 
 - Take them to college library.
 
-
-And again, if you feel lost, you can always [get back and learn more](../pfe.md).
+This will be explained in end of study project report exposure. 
 
 That's with the above process.<br>
 Great to see your speed.
