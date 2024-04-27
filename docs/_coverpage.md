@@ -15,7 +15,7 @@
 <!--h1 style="font-weight: 400;font-size: 16px;">The website has been viewed <b><span id="visits"></span> times</b>.</!--h1-->
 
 
-[Join Campus](https://campus.computer-engineering.tech)
+[J⦿in Campus](https://campus.computer-engineering.tech)
 [Start Expl⦿ring](README.md)
 
 
