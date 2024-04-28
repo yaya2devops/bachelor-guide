@@ -4,6 +4,8 @@ I will be taking this chance to outline for you the entire process and the socia
 
 After the years spent doing the program, your last exams should be accomplished by a january of a given year.
 
+(Not the case for me, lol, ended on dec)
+
 From this point and beyond please...
 - Satisfy the univeristy administration documents.
 - Start or continue working on [your end of study project](learntex?id=action-required) (snapshot below).

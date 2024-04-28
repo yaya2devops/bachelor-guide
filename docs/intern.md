@@ -2,14 +2,14 @@
 <br>
 
 # Mandatory Internship 1: Summer Intern
-After the 2nd year and 4 semesters of success, student should be able to look for and secure an internship. 
+After every two semesters, student should be able to look for and secure an internship. 
 
 - [What's Expected Of You](#workflow)
 - [Present 2nd Year Project](#present-2nd-year-project)
 - [Reflections on My Own Intern](#reflections-on-my-summer-internship)
 - [Tips To Win Your First Experience](#tips-for-a-successful-experience)
 
-It is strongly recommended that you seek related experiences earlier than that; the earlier you proceed, [the higher you will rise](schedule/degree.md).
+It is strongly recommended that you seek related experiences earlier than that; The earlier you proceed,<br>The higher you will rise.
 
 ![BRANCH_INSIGHT](images/InternsAssets/summerintern.png)
 
