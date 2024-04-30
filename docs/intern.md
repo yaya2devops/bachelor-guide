@@ -1,7 +1,7 @@
 <br>
 <br>
 
-# Mandatory Internship 1: Summer Intern
+# Mandatory Internship : Summer Intern
 After every two semesters, student should be able to look for and secure an internship. 
 
 - [What's Expected Of You](#workflow)
@@ -9,7 +9,7 @@ After every two semesters, student should be able to look for and secure an inte
 - [Reflections on My Own Intern](#reflections-on-my-summer-internship)
 - [Tips To Win Your First Experience](#tips-for-a-successful-experience)
 
-It is strongly recommended that you seek related experiences earlier than that; The earlier you proceed,<br>The higher you will rise.
+It is strongly recommended that you seek related experiences earlier than that; <br>The earlier you proceed,<br>The higher you will rise.
 
 ![BRANCH_INSIGHT](images/InternsAssets/summerintern.png)
 
