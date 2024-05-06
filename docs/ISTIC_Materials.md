@@ -60,7 +60,9 @@
 <b>Read Before Continuing</b>
 </summary>
 
-We are delighted to be able to provide  students with an ever-growing archive of materials that can help them in their studies. By expanding the range of resources available, we hope to give students more choice and autonomy when it comes to deciding which materials best fit their course curriculum. 
+We are delighted to be able to provide  students with an ever-growing archive of materials that can help them in their studies. 
+
+We hope and inspire to empower and give students like yourself more choice and autonomy when it comes to deciding which materials best fit their course curriculum. 
 <br>
 
 **Contribute your material in order to increase the overall value**. <br>

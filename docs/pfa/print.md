@@ -3,20 +3,24 @@
 # When You Are Done 
 
 There will come a time when your report comes to an end. 
-<br>You [may also decide](https://www.forbes.com/sites/forbescoachescouncil/2023/05/05/16-proven-methods-to-enhance-executive-decision-making-skills/?sh=7cd5cb823a31) that it is now the time for just that.
+
+You [may also decide](https://www.forbes.com/sites/forbescoachescouncil/2023/05/05/16-proven-methods-to-enhance-executive-decision-making-skills/?sh=7cd5cb823a31) that it is now the time for just that.
 
 At that exact point, <br>
 **You'll have to [print it](https://en.wikipedia.org/wiki/History_of_printing)**.
 
-There is a **good placeᵨ** around you just for that.<br> Take your content converted it to PDF. 
+There is a **good placeᵨ** around you, <br>
+Just for that.
+
+Take your content converted it to PDF. 
 
 Don't say; <br>
 You don't exactly know how.<br>
 I showed you [exactly how](../learntex.md).
 
 
-- Get out of [technopole (2/2)](https://isticampus.s3.eu-west-3.amazonaws.com/navigator/round/7-step-to-techno-pole.png) to the right-front.
-- Take it [in USB](https://en.wikipedia.org/wiki/USB) or via email to the following.
+- Get out of [technopole (2/2)](https://isticampus.s3.eu-west-3.amazonaws.com/navigator/round/7-step-to-techno-pole.png) right-front.
+- Take it [in USB](https://en.wikipedia.org/wiki/USB) or via email toᵨ.
 
 
 
