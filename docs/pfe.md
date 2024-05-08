@@ -249,9 +249,6 @@ You will be taking those from the administration (1) specifically from the secre
 ![Im just an artist and Alan Watts in spotify)](pfe/assets/yaya-in-nxci.png)
 
 
-|ℹ️|Improve visibility—switch to white mode.|
-|---|---|
-
 ---
 
 
