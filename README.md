@@ -11,7 +11,7 @@
 
 <div align="center">
     
-## [Connect](https://discord.gg/NE95VdWS8V) with students
+## Connect with students
 [<img src="docs/images/discord-link.png" alt="Join Discord and Find Students" data-canonical-src="https://discordapp.com/api/guilds/981586120448020580/widget.png?style=banner3" width="500px" style="max-width: 100%;">](https://discord.gg/NE95VdWS8V)
 
 
