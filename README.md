@@ -3,7 +3,7 @@
     <img alt="ISTIC" src="ISTIC.png" width="140" />
 </p>
 <h1 align="center">
- <a href="welcome/../docs/welcome/hi.md">Guide to Computer Engineering</a> 
+ <a href="https://mission.computer-engineering.tech/">Guide to Computer Engineering</a> 
 </h1>
 
  <img src="docs/images/new-get-in.png">
