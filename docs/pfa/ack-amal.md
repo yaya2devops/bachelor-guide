@@ -6,7 +6,7 @@
 > <br><br>Amal has great judgment, and I'll definitely appreciate that until the end of the world.
 
 
-|Linedata Tunisia - 6th Quality Assurance Floor, as HR Department |
+|Linedata Tunisia - 7th Quality Assurance Floor, as HR Department |
 |:---|
 | Cleopatre Center Building, Block B - North Urban Center1082 - TUNIS, Tunisia|
 
