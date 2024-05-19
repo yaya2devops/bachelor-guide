@@ -15,6 +15,7 @@
 
 ![Inspire admin Process!](on-manager-desk.jpg)
 
+![Confirmed](https://github.com/yaya2devops/bachelor-guide/blob/main/docs/images/InternsAssets/attes.png)
 
 ![Hi from Linedata 5th floor](intern-with-great-vein.jpg)
 
