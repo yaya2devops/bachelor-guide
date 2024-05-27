@@ -16,4 +16,4 @@
 ![Power, Point .](assets/linedata/yaya-linedata.png)
 
 
-> Yaya & Internships ! Fun, [next.](../pfe.md)
+> Yaya & Internships ! Fun, [next.](https://istic.computer-engineering.tech/#/../pfe)
