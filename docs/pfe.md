@@ -8,9 +8,13 @@ After the years spent doing the program, your last exams should be accomplished 
 
 From this point and beyond please...
 - Satisfy the univeristy administration documents.
-- Start or continue working on [your end of study project](learntex?id=action-required) (snapshot below).
+- Start or continue working on your end of study project.
 
 <iframe src="pfe/snapshot.html" width="150" height="700"></iframe>
+
+[<img src="assets/go-to-it.png">](https://devsecops.computer-engineering.tech/)
+
+# Processing
 
 Considering the papers you have to validate with college. 
 

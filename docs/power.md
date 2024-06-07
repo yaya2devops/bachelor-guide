@@ -1,41 +1,67 @@
-## i think we did OK
+## bro , i think we did ok
 
-Jawher and I started this project to change how people study for ISTIC because we knew the struggle firsthand. 
+we knew the struggle firsthand
 
-We experienced the suffering of being in a public university where finding useful material felt impossible, and you had to beg for your destiny.
+jawher and i started this project to change how people study for istic
 
-We took all our frustration and determination and turned it into a force for change.
+we experienced the suffering of being in a public university 
 
-I with him decided to create magic.
+finding useful material felt impossible 
 
-I didn’t know how this would end up. 
+you had to beg for your destiny
 
-I never expected to create such a masterpiece. 
+we took all our frustration and determination 
 
-All I wanted was to put my experiences and knowledge out into the world.=
+we turned it into a force for change
 
-The idea wasn't just about compiling resources; it was about revolutionizing the whole system. 
+i with him decided to create magic
 
-We wanted to ensure that no student would have to go through what we did. Our guide was designed to be a game changer, and it proved its worth.
+i didn’t know how this would end up
 
-This changed the culture of how ISTIC functions. 
+i never expected to create such a masterpiece
 
-Students, saying it with extreme humility, began to embrace interaction and communication. 
+all i wanted was to put my experiences and knowledge out into the world
 
-The level of intellectual engagement soared. 
-
-Students were no longer isolated in their struggle; they were part of a supportive community.
-
-Our efforts paid off. 
-
-The guide not only made studying more efficient but also fostered a sense of camaraderie among students. We can see it and we absolutely love it.
+this idea wasn’t just about compiling resources tbh it was about transforming the entire system
 
 
-The project became a beacon of hope and a symbol of what could be achieved through collaboration and perseverance. 
+we wanted to ensure that no student would have to go through what we did
 
-Now, students are more confident, their academic performance is improving, and they no longer feel like they have to beg for their future. 
+no student ever have to endure what we went through
 
+our guide was designed to be a game changer
 
-We turned our suffering into a movement, and it’s changing lives for the better.
+..and it proved its worth
 
-Well done,
+this fundamentally altered the culture of istic
+
+students, saying it with extreme humility, began to embrace interaction and communication
+
+the level of intellectual engagement soared
+
+students were no longer isolated in their struggle
+
+they are now part of this supportive community
+
+our efforts paid off and yielded tremendous results
+
+the guide not only made studying more efficient 
+
+the guide also fostered a sense of camaraderie among students 
+
+WE CAN SEE IT AND WE ABSOLUTELY LOVE IT .
+
+the project became a beacon of hope 
+
+the project became a symbol and testament of what could be achieved through collaboration and perseverance
+
+now , <br>
+students are more confident <br>
+their academic performance is improving <br>
+and they no longer feel like they have to beg for their future
+
+we turned our suffering into a powerful movement, and it’s changing lives for the better
+
+well done ,
+
+lets go and [learn some latex thing](learntex.md).
