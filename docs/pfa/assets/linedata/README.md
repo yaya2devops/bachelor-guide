@@ -1,9 +1,10 @@
-# [Catalog Linedata Specific](https://istic.computer-engineering.tech/#/pfa/assets/linedata/README)
+# [Catalog Linedata Specific](https://istic.computer-engineering.tech/#/pfa/assets/linedata/README) , load
 
 ![I passed AWS CCP and AZ-700 using this](linedata-notebook.jpg)
 
-
 ![Needed to learn docker asap while others eating (SPEED)](docker-time-during-lunch.jpg)
+
+> Legendary Keyboard https://devsecops.computer-engineering.tech/conclude/gear-cheer/#the-sixty-percent-keyboard
 
 ![Best Notes Taking Ever!](notes-on-linedata.jpg)
 
@@ -15,7 +16,7 @@
 
 ![Inspire admin Process!](on-manager-desk.jpg)
 
-![Confirmed](https://github.com/yaya2devops/bachelor-guide/blob/main/docs/images/InternsAssets/attes.png)
+![Confirmed](https://github.com/yaya2devops/bachelor-guide/blob/main/docs/images/InternsAssets/attes.png?raw=true)
 
 ![Hi from Linedata 5th floor](intern-with-great-vein.jpg)
 

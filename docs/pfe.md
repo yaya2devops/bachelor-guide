@@ -12,9 +12,13 @@ From this point and beyond please...
 
 <iframe src="pfe/snapshot.html" width="150" height="700"></iframe>
 
+---
+
 [<img src="assets/go-to-it.png">](https://devsecops.computer-engineering.tech/)
 
-# Processing
+---
+
+# Art Of Processing
 
 Considering the papers you have to validate with college. 
 
@@ -184,12 +188,12 @@ Truly remarkable,
 
 <pre><code class="language-json">
 {
-  "communication_type": "ISTIC Email",
+  "communication_type": "@istic.ucar.tn",
   "messages": [
     {
       "sender": "Marsit imen",
       "timestamp": "8 Dec 2023",
-      "recipient": "me",
+      "recipient": "Yahya Abulhaj - Computer Engineering Student",
       "message": "Merci pour ta réponse. J'ai oublié de te dire que t'as eu \"très bien avec félicitations du jury\" on a oublié de te le dire lors de la délibération. Félicitations!",
       "mentor_type": "Academic Mentor"
     },
@@ -208,31 +212,9 @@ Truly remarkable,
 
 </details>
 
-You are now ready to expect your college diploma.
+You are now ready to expect your college diploma!
 
-
-<details>
-<summary>
-But also other great assets from your past hard work and effort.
-</summary>
-
-<br>
-
-
-| Label                          | Moyenne | Crédits Acquis | Moyenne | Moyenne Cr Acq |
-|:--------------------------------|---------|----------------|---------------------|----------------|
-| Projet final                   | 15 MX   | 18             | 30                  | 60             |
-
-
-| Information          | Valeur            | Décision du Jury   | Détails               | Institution |
-|:----------------------|-------------------|---------------------|:-----------------------|-------------|
-| Moyenne générale    | 15.6              | Date                | 12/01/2024           | ISTIC       |
-| Crédits Acquis      | 58                | Décision            | Admis                 | [Translate](pfe/yaya-defense-exposed-translated.md)|
-| Distinction         | BIEN              | Signataire          | Krouma Mohamed Ali    | [Validate](pfe/yaya-defense-exposed.png)|
-
-
-
-</details>
+And also other great assets from your past hard work and effort.
 
 You will be taking those from the administration (1) specifically from the secretarial, and you'll observe where teachers and other staff interact on your exit.
 
