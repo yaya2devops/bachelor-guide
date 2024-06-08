@@ -18,7 +18,7 @@ From this point and beyond please...
 
 ---
 
-# Art Of Processing
+# The Art Of Processing
 
 Considering the papers you have to validate with college. 
 
