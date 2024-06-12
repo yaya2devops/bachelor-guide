@@ -16,7 +16,7 @@
   - [Semester Ⅴ - IOT](Semester5-IOT/5.md)
 - **Advanced Resources**
   - [The Mission](https://yaya2devops.github.io/isticore/)
-  - [Crash Internships](intern.md)
+  - [Crush Internships](intern.md)
   - [Real World Exposer](pfe.md)
   - [Twenty² Years Of Yahya](lifeline.md)  
   - [LaTeX Prompt Engineering](learntex.md)
