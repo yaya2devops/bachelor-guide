@@ -1,5 +1,5 @@
 
-- **Step Here** 
+- **Step** 
   - [Overview](overview.md)
   - [Schedule](schedule/degree.md)
   - [Disclaimer](schedule/disclaimer.md)
