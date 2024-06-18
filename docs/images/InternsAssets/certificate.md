@@ -3,7 +3,7 @@
 A simple paper that you receive from the company that includes information about your internship period and must be signed by them and delivered to your university administration.
 
  A copy of this document, along with the Intern agreement, should be delivered to the University as soon as possible.
-> Here's [an example of mine](attes.png)
+> Here's [an example of mine](https://create.ya-ya.tech/ISTIC/attes.pdf)
 
 
 **Note:** Make a post deposit of 2TND + 1TND fees to the below number and bring the receipt along with the two above-mentioned documents to the university.

@@ -158,7 +158,7 @@ As AI technologies continue to advance, they are being integrated into various i
 
 Please open this using your LaTeX viewer, such as Overleaf, to observe and successfully compile your LaTeX project.
 
-Excited to [See the final outcome](https://github.com/yaya2devops/bachelor-guide/blob/main/docs/images/latex/2-prompt-5-pages.pdf)?
+Excited to [See the final outcome](https://create.ya-ya.tech/ISTIC/2-prompt-5-pages.pdf)?
 
 ![Latex Preview](images/latex/wow-latex.png)
 
@@ -176,7 +176,7 @@ Quite astonishing, isn't it?
 |:---------------|:------------------------:|
 |Yaya's GPT Latex Interaction| [Redirect](https://chat.openai.com/share/2754c1e6-7c80-4199-96e6-73c3cbea7ebe) |
 |Output Merged Tex File|[Redirect](https://github.com/yaya2devops/bachelor-guide/blob/main/docs/images/latex/2-prompt-5-pages.tex)|
-| 2 Prompt, 5  Pages Latex|[Redirect](https://github.com/yaya2devops/bachelor-guide/blob/main/docs/images/latex/2-prompt-5-pages.pdf)|
+| 2 Prompt, 5  Pages Latex|[Redirect](https://create.ya-ya.tech/ISTIC/2-prompt-5-pages.pdf)|
 
 > Need templates for your work? [Check Students Initiative Section.](https://istic.computer-engineering.tech/?#/ISTIC_Materials)
 

@@ -36,8 +36,8 @@ And then I also gift you the following papers I created for you; in one click.
 
 | Papers                      | Description                                          |
 | ---------------------------|------------------------------------------------------|
-| [Summer agreement](https://github.com/Y4HYA4/TheRealBachelorsDocs/blob/main/docs/images/InternsAssets/Convention-Stage-ete.pdf)| An agreement document for your summer internship.        |
-| [Timesheet Template](https://github.com/Y4HYA4/TheRealBachelorsDocs/blob/main/docs/images/InternsAssets/Journal-de-stage.pdf)          | A template for recording the hours worked during an internship.|
+| [Summer agreement](https://create.ya-ya.tech/ISTIC/Convention-Stage-ete.pdf)| An agreement document for your summer internship.        |
+| [Timesheet Template](https://create.ya-ya.tech/ISTIC/Journal-de-stage.pdf)          | A template for recording the hours worked during an internship.|
 | [Training certificate](https://github.com/yaya2devops/bachelor-guide/blob/main/docs/images/InternsAssets/certificate.md)        | A certificate that acknowledges the completion of a training program at company **A**.|
 | [Internship Report](https://github.com/Y4HYA4/ExperienceInCloud/tree/main/First_InternReport#internship-report-at-linedata)           | A report detailing the experience gained during an internship. |
 

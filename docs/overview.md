@@ -64,11 +64,11 @@ Internships provide students with the opportunity to gain experience in their fi
 Each section will include usefull resources and content to assist you in excelling in your preparation and making the most of your education.
 ##### The guide is structured as follows.
 
-| Mutual      | IOT |Net  | Projects|   
-| -----------: | :-----------: |:-----------: |:----------- |
-| [Ⅰ](Semester1/1.md )|[Ⅲ](Semester3-IOT/3.md)| [Ⅲ](Semester3-IRS/3.md)|[Linuxmap](https://linux.computer-engineering.tech/)|
-| [Ⅱ](Semester2/2.md)        |[Ⅳ](Semester4-IOT/4.md)| [Ⅳ](Semester4-IRS/4.md) | [OpenLabs](https://labs.computer-engineering.tech/)|
-| [Interns](intern.md)       |[Ⅴ](Semester5-IOT/5.md)| [Ⅴ](Semester5-IRS/5.md) | [StaledVer](https://stale.computer-engineering.tech/#/)|
+| Mutual      | IOT |Net  |  
+| -----------: | :-----------: |:-----------: |
+| [Ⅰ](Semester1/1.md )|[Ⅲ](Semester3-IOT/3.md)| [Ⅲ](Semester3-IRS/3.md)|
+| [Ⅱ](Semester2/2.md)        |[Ⅳ](Semester4-IOT/4.md)| [Ⅳ](Semester4-IRS/4.md) |
+| [Interns](intern.md)       |[Ⅴ](Semester5-IOT/5.md)| [Ⅴ](Semester5-IRS/5.md) | 
 
 
 ## Students FAQ
@@ -161,9 +161,11 @@ I'll sense your energy flowing from the universe!
 </details>
 
 
+<br>
+
 <details>
 <summary>
-<b>X.</b>  OK. Bonus!
+<b>X.</b>  OK , Bonus.
 </summary>
 
 If you require any more help for your studies, **Click** the following asset.<br> 

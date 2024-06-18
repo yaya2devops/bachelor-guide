@@ -86,7 +86,7 @@ Once you've completed your project, simply click the icon depicted below to conv
 
 Great and cool! Although this is quite minimal, it should give you a good idea of what your workflow will be like with the system.
 
-Immediately [view the PDF version](https://github.com/yaya2devops/bachelor-guide/blob/main/docs/hello/Hello%20Yaya/Hello_Yaya.pdf) of `Hello Yaya`!
+Immediately [view the PDF version](https://create.ya-ya.tech/ISTIC/Hello_Yaya.pdf) of `Hello Yaya`!
 
 # Go Harder on LaTeX
 To make the process crystal clear, I've structured this for your convenience.
