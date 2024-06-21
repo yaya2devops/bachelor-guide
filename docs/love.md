@@ -32,3 +32,5 @@
 | ISTIC Intern| [create.ya-ya.tech/ISTIC/Convention-Stage-ete.pdf](https://create.ya-ya.tech/ISTIC/Convention-Stage-ete.pdf) |
 | Committed           | [create.ya-ya.tech/ISTIC/manifest.pdf](https://create.ya-ya.tech/ISTIC/manifest.pdf) |
 | Yahya.         | [create.ya-ya.tech/ISTIC/accelerate.pdf](https://create.ya-ya.tech/ISTIC/accelerate.pdf) |
+
+[Canvasite](https://blablaitsme.my.canva.site/welcome-computer-engineering)
