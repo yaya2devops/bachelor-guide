@@ -10,6 +10,7 @@
 | Linux        | [linux.computer-engineering.tech](https://linux.computer-engineering.tech) |
 | Mission      | [mission.computer-engineering.tech](https://mission.computer-engineering.tech) |
 | Acquire      | [acquire.computer-engineering.tech](https://acquire.computer-engineering.tech) |
+| Publish      | [publish.computer-engineering.tech](https://publish.computer-engineering.tech) |
 | Campus       | [campus.computer-engineering.tech](https://campus.computer-engineering.tech) |
 | Stale Core         | [stale.computer-engineering.tech](https://stale.computer-engineering.tech) |
 | DevSecOps    | [devsecops.computer-engineering.tech](https://devsecops.computer-engineering.tech) |
