@@ -1,7 +1,7 @@
 <br>
 <br>
 
-# Mandatory Internship : Summer Intern
+# Mandatory Internship, Summer Intern
 After every two semesters, student should be able to look for and secure an internship. 
 
 - [What's Expected Of You](#workflow)
