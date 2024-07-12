@@ -83,6 +83,6 @@ We hope and inspire to empower and give students like yourself more choice and a
 
 ---
 
-<a href="https://istic.computer-engineering.tech/#/Semester1/1?id=%f0%9f%93%96-communication-techniques">
+<a href="https://istic.computer-engineering.tech/#/Semester1/1?id=yes-you-can">
   <img src="images/InternsAssets/sem-1-ignite.png" alt="Advertise Semester One, Computer Engineering" style="width: 100%; height: auto;" />
 </a>
