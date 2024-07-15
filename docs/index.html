@@ -13,6 +13,16 @@
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/style.min.css"
     title="docsify-darklight-theme" type="text/css" />
   <link rel="stylesheet" href="assets/css/style1.css" />
+  <style>
+    .footer {
+      text-align: center;
+      padding: 20px 0;
+      margin-top: 40px;
+      border-top: 1px solid #e0e0e0;
+      font-size: 14px;
+      color: #666;
+    }
+  </style>
 </head>
 
 <body>
@@ -130,17 +140,14 @@ function getURLParameterByName(name, isTrue = null, isFalse = null, url = window
             }
             var editHtml = '[:memo: ' + editThisPageLinkText + '](' + url + ')\n'
 
-            var creditHtml = '\n\n' + '© 2024 Yahya Products Productions & Entreprises. All rights reserved.'
+            var creditHtml = '<div class="footer">© 2024 Yahya Products Productions & Entreprises. All rights reserved.</div>'
 
             if ( !(getURLParameterByName(['standalone','embedded'])) && !(getURLParameterByName('hidegitlink'))  && (!!gitLinkRepoURL)) {
-            return editHtml + '\n' + html + '<br />' + '\n\n' + '<hr>' + creditHtml
-
+              return editHtml + '\n' + html + '\n' + creditHtml
             } else if ( getURLParameterByName(['standalone','embedded']) && !(getURLParameterByName('hidegitlink')) && (!!gitLinkRepoURL)) {
               return editHtml + '\n' + html
-
             } else if ( !(getURLParameterByName(['standalone','embedded']))) {
-              return html + '<br />' + '\n\n' + '<hr>' + creditHtml
-
+              return html + '\n' + creditHtml
             } else {
               return html
             }
