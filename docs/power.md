@@ -27,7 +27,7 @@ this idea wasn’t just about compiling resources tbh it was about transforming 
 
 we wanted to ensure that no student would have to go through what we did
 
-no student ever have to endure what we went through
+no student ever has to endure what we went through
 
 our guide was designed to be a game changer
 
