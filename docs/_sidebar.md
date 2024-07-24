@@ -15,7 +15,7 @@
   - [Semester Ⅳ - IO](Semester4-IOT/4.md)
   - [Semester Ⅴ - IOT](Semester5-IOT/5.md)
 - **Advanced Resources**
-  - [The Mission](https://yaya2devops.github.io/isticore/)
+  - [The Mission](https://mission.computer-engineering.tech)
   - [Crush Internships](intern.md)
   - [Real World Exposer](pfe.md)
   - [Twenty² Years Of Yahya](lifeline.md)  
