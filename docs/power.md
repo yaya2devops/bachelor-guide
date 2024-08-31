@@ -1,4 +1,4 @@
-## bro , i think we did ok
+## bruv , i think we did ok
 
 we knew the struggle firsthand
 
