@@ -4,7 +4,7 @@
 
 | IDEA | Orientation |
 |--------------:|:-----|
-| 90s        | [90s.computer-engineering.tech](https://istic.computer-engineering.tech) |
+| 90s        | [90s.computer-engineering.tech](https://90s.computer-engineering.tech) |
 | Core        | [istic.computer-engineering.tech](https://istic.computer-engineering.tech) |
 | Labs         | [labs.computer-engineering.tech](https://labs.computer-engineering.tech) |
 | Paper       | [bundle.computer-engineering.tech](https://bundle.computer-engineering.tech) |
