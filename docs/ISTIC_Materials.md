@@ -7,27 +7,21 @@
 <br>
 <br>
 
-|          Find Others | Hands-on |   Contribute|
-|:--------:  |:--------:  |:--------:  |
-[![Join Discord and Find Students](images/discord-link.png)](https://discord.gg/zcD5xV3S)|    [![My university materials](images/project.png)](https://labs.computer-engineering.tech/) |[![Join Discord and Find Students](images/help-us.png)](https://forms.zohopublic.com/isticbc/form/Resources/formperma/1-4w1KAlQUkKxzvRsc2V688moUg8Ki1yM7fQVmrZpuQ?fbclid=IwAR1FDnq3LGfBSceGha03cWRwXUorw1WSEr_uuH7_egYI33ePVNUCJ0ylLJQ)|
 
-
----
  
+| [![Semester 1](images/Drive/MAT.png)](https://drive.google.com/drive/folders/1gftTLJCmQZj167LFH59PvFvBQsE3ED48) | [![Semester 2](images/Drive/MAT.png)](https://drive.google.com/drive/folders/1xcZRV-iIe5D_xBhW0YED2JXX6GLeAvAp) |
+|:----------:|:----------:|
+| Semester 1 | Semester 2 |
 
-|    Semester 1 |   Semester 2  |
-|  :--------:     |:--------:   |
-|     [<img src="images/Drive/MAT.png" a>](https://drive.google.com/drive/folders/1gftTLJCmQZj167LFH59PvFvBQsE3ED48)               |        [<img src="images/Drive/MAT.png" alt="Wait for it!"  >](https://drive.google.com/drive/folders/1xcZRV-iIe5D_xBhW0YED2JXX6GLeAvAp)      | 
  
 
 
----
 
-|    IOT 3               |   IOT 4          | IOT 5 |
-|:--------:          |:--------:    |:--------:    |
-|    [<img src="images/Drive/MAT.png" alt="Wait for it!"  >](https://drive.google.com/drive/folders/1JE-YKVxuEXXHk_7HxaPY-KQ4A4nKtoeV)              |        [<img src="images/Drive/MAT.png" alt="Wait for it!"  >](https://drive.google.com/drive/folders/1tUIBi8edWYZhlVXxGlEgLLAw5eDsayxn)      |  [<img src="images/Drive/MAT.png" alt="Wait for it!" >](https://drive.google.com/drive/folders/1iaA3hUW-RigsXSjlDPegekHv3UnvZlZX)    |
+| IOT 3 | IOT 4 | IOT 5 |
+|:-----:|:-----:|:-----:|
+| [![IOT 3](images/Drive/MAT.png)](https://drive.google.com/drive/folders/1JE-YKVxuEXXHk_7HxaPY-KQ4A4nKtoeV) | [![IOT 4](images/Drive/MAT.png)](https://drive.google.com/drive/folders/1tUIBi8edWYZhlVXxGlEgLLAw5eDsayxn) | [![IOT 5](images/Drive/MAT.png)](https://drive.google.com/drive/folders/1iaA3hUW-RigsXSjlDPegekHv3UnvZlZX) |
 
----
+
 
 
 |    IRS 3               |   IRS 4          | IRS 5 |
