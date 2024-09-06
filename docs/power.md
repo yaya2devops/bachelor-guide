@@ -2,7 +2,7 @@
 
 we knew the struggle firsthand
 
-jawher and i started this project to change how people study for istic
+Jawher and i started this project to change how people study for istic
 
 we experienced the suffering of being in a public university 
 
