@@ -11,6 +11,8 @@ darklightTheme: {
 },
 ```
 
+[Here it is, let us farewell.](oldi.pdf)
+
 ## What We've Got Now
 
 ```
@@ -30,6 +32,9 @@ ui-serif, Georgia, Cambria, "Times New Roman", Times, serif
 ## The Big Picture
 
 We're playing the long game here. When these kids eventually mess around with Claude AI or whatever, something in their brain's gonna click. They'll feel at home without knowing why.
+
+[Legendary guide, never happened before.](claudedotai.pdf)
+
 
 It's like planting a time bomb of familiarity in their heads. When it goes off, they'll be ready to dive into AI thing like they've been doing it forever.
 
