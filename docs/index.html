@@ -28,6 +28,9 @@
     title="docsify-darklight-theme" type="text/css" />
   <link rel="stylesheet" href="assets/css/style1.css" />
   <style>
+    body {
+      font-family: ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
+    }
     .footer {
       text-align: center;
       padding: 20px 0;
@@ -121,7 +124,7 @@ function getURLParameterByName(name, isTrue = null, isFalse = null, url = window
 
       themeColor: '#222222',
       darklightTheme: {
-        siteFont : 'PT Sans',
+        siteFont : 'ui-serif, Georgia, Cambria, "Times New Roman", Times, serif',
         defaultTheme : 'dark | light',
         codeFontFamily : 'Roboto Mono, Monaco, courier, monospace',
         bodyFontSize : '17px',
@@ -154,7 +157,7 @@ function getURLParameterByName(name, isTrue = null, isFalse = null, url = window
             }
             var editHtml = '[:memo: ' + editThisPageLinkText + '](' + url + ')\n'
 
-            var creditHtml = '<div class="footer">© 2022 - 2024 Yahya Products Productions & Entreprises. All rights reserved.</div>'
+            var creditHtml = '<div class="footer">© 2022 - ' + new Date().getFullYear() + ' Yahya Products Productions & Entreprises. All rights reserved.</div>'
 
             if ( !(getURLParameterByName(['standalone','embedded'])) && !(getURLParameterByName('hidegitlink'))  && (!!gitLinkRepoURL)) {
               return editHtml + '\n' + html + '\n' + creditHtml
