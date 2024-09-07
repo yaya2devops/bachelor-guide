@@ -5,8 +5,7 @@ Happy to help you King or Queen.
 I'm thrilled to share a personally crafted prompt for you – a creative tool designed to unlock some amazing content! 
 
 
-[<img src="download-prompt.png" alt="Download From Here"  >](https://create.ya-ya.tech/ISTIC/gen-latex-prompt.pdf)
-
+[<img src="p-engineer/prompter.png" alt="Download From Here"  >](https://create.ya-ya.tech/ISTIC/gen-latex-prompt.pdf)
 
 
 🌟 It's all yours – unleash your imagination and dive in! 🚀
@@ -16,7 +15,7 @@ I'm thrilled to share a personally crafted prompt for you – a creative tool de
 # Quickstart ✨
 To begin, please follow these steps:
 
-0. **Click *the gifted asset* above:** Download the prompt in PDF format that I'm providing just for you.
+0. **Click *the gifted asset* above:** Download the prompt in PDF format.
 1. **Copy the entire page:** Copy both the instructions and the LaTeX prompt attached.
 2. **Replace section and subsection values:** Modify with the specific topic you intend to explore.
 3. **Push the content to the chat:** Paste the modified content, including the updated LaTeX prompt, in the chat.
