@@ -64,4 +64,4 @@ we turned our suffering into a powerful movement, and it’s changing lives for 
 
 well done ,
 
-lets go and [learn some latex thing](learntex.md).
+lets go and [learn some latex thing](learntex.md) ⦿
