@@ -35,7 +35,7 @@ our guide was designed to be a game changer
 
 this fundamentally altered the culture of istic
 
-students, saying it with extreme humility, began to embrace interaction and communication
+students began to embrace interaction and communication
 
 the level of intellectual engagement soared
 
