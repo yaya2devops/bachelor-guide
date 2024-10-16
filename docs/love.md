@@ -9,6 +9,7 @@
 | Labs         | [labs.computer-engineering.tech](https://labs.computer-engineering.tech) |
 | Paper       | [bundle.computer-engineering.tech](https://bundle.computer-engineering.tech) |
 | Linux        | [linux.computer-engineering.tech](https://linux.computer-engineering.tech) |
+| Canva        | [init.computer-engineering.tech](https://blablaitsme.my.canva.site/welcome-computer-engineering) |
 | Mission      | [mission.computer-engineering.tech](https://mission.computer-engineering.tech) |
 | Acquire      | [acquire.computer-engineering.tech](https://acquire.computer-engineering.tech) |
 | Publish      | [publish.computer-engineering.tech](https://publish.computer-engineering.tech) |
@@ -35,4 +36,3 @@
 | Committed           | [create.ya-ya.tech/ISTIC/manifest.pdf](https://create.ya-ya.tech/ISTIC/manifest.pdf) |
 | Yahya.         | [create.ya-ya.tech/ISTIC/accelerate.pdf](https://create.ya-ya.tech/ISTIC/accelerate.pdf) |
 
-[Canvasite](https://blablaitsme.my.canva.site/welcome-computer-engineering)

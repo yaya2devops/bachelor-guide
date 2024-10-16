@@ -2,7 +2,7 @@
 
 # Motivation
 
-*Welcome* to the guide for computer engineering bachelor's students aspiring to build a successful career in the field of Information Technology.
+*Welcome* to the unconventional guide for this computer *systems* engineering bachelor's students aspiring to build a successful career in the field of Information Technology.
 
 ![THINKING ABOUT THE PERFECT DESIGN](images/welcome-modified.png)
 
