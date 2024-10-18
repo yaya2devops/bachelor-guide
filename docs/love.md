@@ -13,7 +13,10 @@
 | Mission      | [mission.computer-engineering.tech](https://mission.computer-engineering.tech) |
 | Acquire      | [acquire.computer-engineering.tech](https://acquire.computer-engineering.tech) |
 | Publish      | [publish.computer-engineering.tech](https://publish.computer-engineering.tech) |
+|yahPDF         | [yahPDF.computer-engineering.tech](https://yahPDF.computer-engineering.tech) |
 | Campus       | [campus.computer-engineering.tech](https://campus.computer-engineering.tech) |
+| AZ-9000    | [az.9000.computer-engineering.tech](https://az.9000.computer-engineering.tech) |
+|Self Made         | [self.made.computer-engineering.tech](https://self.made.computer-engineering.tech/mass2.pdf) |
 | Stale Core         | [stale.computer-engineering.tech](https://stale.computer-engineering.tech) |
 | DevSecOps    | [devsecops.computer-engineering.tech](https://devsecops.computer-engineering.tech) |
 
