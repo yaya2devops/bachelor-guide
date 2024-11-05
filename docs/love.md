@@ -4,20 +4,22 @@
 
 | IDEA | Orientation |
 |--------------:|:-----|
-| 90s        | [90s.computer-engineering.tech](https://90s.computer-engineering.tech) |
-| Core        | [istic.computer-engineering.tech](https://istic.computer-engineering.tech) |
+| 90s          | [90s.computer-engineering.tech](https://90s.computer-engineering.tech) |
+| Core         | [istic.computer-engineering.tech](https://istic.computer-engineering.tech) |
 | Labs         | [labs.computer-engineering.tech](https://labs.computer-engineering.tech) |
-| Paper       | [bundle.computer-engineering.tech](https://bundle.computer-engineering.tech) |
+| Webo         | [webo.graphy.computer-engineering.tech](https://pfe-webo.ya-ya.tech) |
+| Paper        | [bundle.computer-engineering.tech](https://bundle.computer-engineering.tech/best/ow.pdf) |
 | Linux        | [linux.computer-engineering.tech](https://linux.computer-engineering.tech) |
 | Canva        | [init.computer-engineering.tech](https://blablaitsme.my.canva.site/welcome-computer-engineering) |
 | Mission      | [mission.computer-engineering.tech](https://mission.computer-engineering.tech) |
 | Acquire      | [acquire.computer-engineering.tech](https://acquire.computer-engineering.tech) |
 | Publish      | [publish.computer-engineering.tech](https://publish.computer-engineering.tech) |
-|yahPDF         | [yahPDF.computer-engineering.tech](https://yahPDF.computer-engineering.tech) |
+| yahPDF       | [yahPDF.computer-engineering.tech](https://yahPDF.computer-engineering.tech) |
 | Campus       | [campus.computer-engineering.tech](https://campus.computer-engineering.tech) |
-| AZ-9000    | [az.9000.computer-engineering.tech](https://az.9000.computer-engineering.tech) |
-|Self Made         | [self.made.computer-engineering.tech](https://self.made.computer-engineering.tech/mass2.pdf) |
-| Stale Core         | [stale.computer-engineering.tech](https://stale.computer-engineering.tech) |
+| AZ-9000      | [az.9000.computer-engineering.tech](https://az.9000.computer-engineering.tech) |
+| Protected    | [protected.computer-engineering.tech](https://protected.computer-engineering.tech) |
+| Self Made    | [self.made.computer-engineering.tech](https://self.made.computer-engineering.tech/mass2.pdf) |
+| Stale Core   | [stale.computer-engineering.tech](https://stale.computer-engineering.tech) |
 | DevSecOps    | [devsecops.computer-engineering.tech](https://devsecops.computer-engineering.tech) |
 
 ### Perception Invite
@@ -37,5 +39,6 @@
 | ISTIC Journal   | [create.ya-ya.tech/ISTIC/Journal-de-stage.pdf](https://create.ya-ya.tech/ISTIC/Journal-de-stage.pdf) |
 | ISTIC Intern| [create.ya-ya.tech/ISTIC/Convention-Stage-ete.pdf](https://create.ya-ya.tech/ISTIC/Convention-Stage-ete.pdf) |
 | Committed           | [create.ya-ya.tech/ISTIC/manifest.pdf](https://create.ya-ya.tech/ISTIC/manifest.pdf) |
+| *Tunisian*           | [create.ya-ya.tech/ISTIC/giver.pdf](https://create.ya-ya.tech/ISTIC/giver.pdf) |
 | Yahya.         | [create.ya-ya.tech/ISTIC/accelerate.pdf](https://create.ya-ya.tech/ISTIC/accelerate.pdf) |
 
