@@ -46,4 +46,4 @@ Our goal is to gather as much useful information as we possibly can.
 
 That is why we ask for your help.
 
-> Help Yourself **First** From [Here](overview.md) & **Come Back**.
+> Help Yourself **First** From [Here ⦿](overview.md) <br>& **Come Back ready**.

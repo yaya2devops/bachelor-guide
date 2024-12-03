@@ -7,7 +7,7 @@
 | 90s          | [90s.computer-engineering.tech](https://90s.computer-engineering.tech) |
 | Core         | [istic.computer-engineering.tech](https://istic.computer-engineering.tech) |
 | Labs         | [labs.computer-engineering.tech](https://labs.computer-engineering.tech) |
-| Webo         | [webo.graphy.computer-engineering.tech](https://pfe-webo.ya-ya.tech) |
+| Webo         | [webo.graphy.computer-engineering.tech](https://webo.graphy.computer-engineering.tech) |
 | Paper        | [bundle.computer-engineering.tech](https://bundle.computer-engineering.tech/best/ow.pdf) |
 | Linux        | [linux.computer-engineering.tech](https://linux.computer-engineering.tech) |
 | Canva        | [init.computer-engineering.tech](https://blablaitsme.my.canva.site/welcome-computer-engineering) |

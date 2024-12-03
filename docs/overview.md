@@ -122,7 +122,7 @@ Come <a href="#/control">Join me</a> more where I guide you to the next level.
 
 I highly recommend doing a 40 "plus" pages for your PFA. So you can aim and feel comfortable for 80 plus on your PFE.
 
-My "PFE" by the 3rd year ended up 172+ pages, <a href="https://pfe-webo.ya-ya.tech">learn more</a>.
+My "PFE" by the 3rd year ended up 172+ pages, <a href="https://webo.graphy.computer-engineering.tech">learn more</a>.
 
 </details>
 

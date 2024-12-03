@@ -1,6 +1,6 @@
 ---
 
-![Just banner no direction](fix-truth-az-700.png)
+![Just banner no direction](him/universal-pattern-mapping.png)
 
 ---
 
