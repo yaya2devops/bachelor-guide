@@ -1,6 +1,6 @@
 ---
 
-![Just banner no direction](him/universal-pattern-mapping.png)
+[![Just banner with direction](him/azure-Network-engineer.png)](him/vite-svp/README.md)
 
 ---
 
@@ -10,9 +10,9 @@
 
 <br>
 
-![Just banner no direction](mission.png)
+![Eagle had to let Prometheus](mission.png)
 
 
 <h1 align="center">
-  <a href="https://mission.computer-engineering.tech">Acknowledge Our Mission Now </a>
+  <a href="https://vision.computer-engineering.tech">Acknowledge Our Mission Now </a>
 </h1>

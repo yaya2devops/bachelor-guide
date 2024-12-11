@@ -10,9 +10,18 @@
 
 As students ourselves, we understand the challenges that can come with starting a new learning journey. 
 
+![](assets/napkin.ai/napkin-can-design-1.png)
+
 Very overwhelming to navigate through a sea of information, not knowing where to start or what materials are essential. 
 
+![](assets/napkin.ai/napkin-can-design-2.png)
+
+
 We, therefore, decided to take on this project - to create a resource that would make it easier for anyone as dear as you to begin their learning without confusion or a lack of information.
+
+
+![](assets/napkin.ai/napkin-can-design-3.png)
+
 
 The following is the direction I designed for you so you fully abstract most of the concepts, terms, and methodologies required to ace your degree. 
 
@@ -24,6 +33,9 @@ To be transparent, the project aims and after two years I'm confident to say tha
 
 We went through a very lengthy process, time and effort consuming with pure evidence to achieve these objectives, which never end till the end of the internet.
 
+![](assets/napkin.ai/napkin-can-design-4.png)
+
+
 - You can view some of the events that occurred from [here](../inspirations.md).
 - You can find the [older version](https://stale.computer-engineering.tech/#/) that may inspire you.
 - You can check some assets of behind the scenes [here.](../behindascene/README.md).
@@ -34,6 +46,9 @@ Throughout the course, again, we faced many pullbacks since most students were n
 I had to explain the vision and the value earned. 
 
 Despite all those that, we were able to make significant progress and provide a substantial amount of materials.
+
+![](assets/napkin.ai/napkin-can-design-5.png)
+
 
 I also designed a structure that made it crystal clear for you. 
 
@@ -59,6 +74,9 @@ You can now e.g. refer to the [sidebar](https://github.com/Y4HYA4/TheRealBachelo
 
 Or do whatever as everything you'll face will get you enlightened.
 
+![](assets/napkin.ai/napkin-can-design-6.png)
+
+
 We are confident that our project will be a valuable resource for you.
 
 We do not doubt that. 
@@ -69,12 +87,18 @@ We'll keep doing it with these quotes in mind.
 
 > “Every addition to true knowledge is an addition to human power.” –Horace Mann
 
+![](assets/napkin.ai/napkin-can-design-7.png)
+
+
 
 ## [Contributing](https://istic.computer-engineering.tech/#/how-to-contribute)
 
 There are two kinds of people, those who only consume and those who create for those who do just that.
 
 I mean feel free, to consume buddy. But could you think about it?
+
+![](assets/napkin.ai/napkin-can-design-8.png)
+
 
 Add your taste to this masterpiece.
 
@@ -131,3 +155,17 @@ Your computer has something for others. Give it or hide it with this key 🔑
 - **Networking Related:** jawher.smida@computer-engineering.tech
 
 There above are open emails as well, we always looking to what you have to say.
+
+![](assets/napkin.ai/napkin-can-design-9.png)
+
+
+## [Become Students Fellow](https://istic.computer-engineering.tech/#/how-to-contribute?id=be-a-fellow-student)!
+
+We have made the above so that you can support others with something.
+
+![](assets/napkin.ai/napkin-can-design-10-1.png)
+
+
+For the overall good.
+
+> Page Initially [Referenced Here](https://prometheus.yah.qa).
