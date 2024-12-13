@@ -11,6 +11,7 @@
 | Paper        | [bundle.computer-engineering.tech](https://bundle.computer-engineering.tech/best/ow.pdf) |
 | Linux        | [linux.computer-engineering.tech](https://linux.computer-engineering.tech) |
 | Canva        | [init.computer-engineering.tech](https://blablaitsme.my.canva.site/welcome-computer-engineering) |
+| Vision      | [foresight.computer-engineering.tech](https://prometheus.yah.qa/) |
 | Mission      | [mission.computer-engineering.tech](https://mission.computer-engineering.tech) |
 | Acquire      | [acquire.computer-engineering.tech](https://acquire.computer-engineering.tech) |
 | Publish      | [publish.computer-engineering.tech](https://publish.computer-engineering.tech) |

@@ -15,7 +15,7 @@
   - [Semester Ⅳ - IO](Semester4-IOT/4.md)
   - [Semester Ⅴ - IOT](Semester5-IOT/5.md)
 - **Advanced Resources**
-  - [The Mission](https://mission.computer-engineering.tech)
+  - [The Mission](https://prometheus.yah.qa)
   - [Crush Internships](intern.md)
   - [Real World Exposer](pfe.md)
   - [Twenty² Years Of Yahya](lifeline.md)  
