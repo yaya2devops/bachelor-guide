@@ -14,7 +14,7 @@ From this point and beyond please...
 
 ---
 
-[<img src="assets/go-to-it.png">](https://devsecops.computer-engineering.tech/)
+[<img src="assets/yay/devsecmaps-round-robin.png">](https://devsecops.computer-engineering.tech/)
 
 ---
 
