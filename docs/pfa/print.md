@@ -30,13 +30,15 @@ I showed you [exactly how](../learntex.md).
 
 
 
-![This is wrong](assets/sola-print-modified.png)
+![This is perfect - elevate the experience](assets/sola_print.png)
 
 
 ## — HAVE IT THIS WAY — 
 
 
-![This is correct](assets/perfect-PFE-modified.png)
+[![This is correct](assets/direeter-modified.png)](assets/perfect-PFE-REAL.png)
+
+
 
 
 ## — PLZ , NOT THIS — 
