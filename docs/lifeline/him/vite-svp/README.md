@@ -18,4 +18,4 @@ That's something you can't find, even if you attend classes day and night.
 
 This comes from pure experience gained from many areas of my life.
 
-And I am here to gift it you all.
+And I am here to **gift it you all** [⦿](https://see.yah.qa)
