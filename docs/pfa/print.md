@@ -36,7 +36,7 @@ I showed you [exactly how](../learntex.md).
 ## — HAVE IT THIS WAY — 
 
 
-[![This is correct](assets/direeter-modified.png)](assets/perfect-PFE-REAL.png)
+![It was too2f. Tough .](assets/tough.png)
 
 
 
